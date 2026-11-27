@@ -1,0 +1,1841 @@
+{
+  "title": "Style Guide - Vaxmor - Webflow HTML website template",
+  "scrollHeight": 16199,
+  "scrollWidth": 1440,
+  "innerWidth": 1440,
+  "fonts": [
+    {
+      "family": "webflow-icons",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "300",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "400",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "500",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "600",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "300",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "400",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "500",
+      "style": "normal",
+      "status": "loaded"
+    }
+  ],
+  "sections": [
+    {
+      "index": 0,
+      "className": "section-banner w-variant-60c2f868-6ff4-12e5-570c-45e66c7bae9a",
+      "visible": true,
+      "height": 540,
+      "backgroundColor": "rgb(245, 247, 250)",
+      "paddingTop": "153.6px",
+      "paddingBottom": "110px",
+      "heading": "Style guide"
+    }
+  ],
+  "samples": {
+    ".topbar": [
+      {
+        "tag": "DIV",
+        "className": "topbar",
+        "text": "Consultations and site visits by appointment\n\n\n\n\n\nLevel 4, 25 King William Street, London",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 42
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "13px",
+          "fontWeight": "400",
+          "lineHeight": "18.2px",
+          "letterSpacing": "normal",
+          "color": "rgba(245, 247, 250, 0.9)",
+          "backgroundColor": "rgb(11, 21, 38)",
+          "borderRadius": "0px",
+          "border": "0px none rgba(245, 247, 250, 0.9)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      }
+    ],
+    ".navbar": [
+      {
+        "tag": "DIV",
+        "className": "navbar w-nav",
+        "text": "Consultations and site visits by appointment\n\n\n\n\n\nLevel 4, 25 King William Street, LondonVaxmorhomea",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 123
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "fixed",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      }
+    ],
+    "header": [
+      {
+        "tag": "HEADER",
+        "className": "nav",
+        "text": "Vaxmorhomeabout usServicesIndividualsBusinessesFamiliesIndividualsEveryday bankingChecking and savin",
+        "rect": {
+          "x": 0,
+          "y": 42,
+          "width": 1440,
+          "height": 81
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "sticky",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgb(245, 247, 250)",
+          "borderRadius": "0px",
+          "border": "",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      }
+    ],
+    "nav": [
+      {
+        "tag": "NAV",
+        "className": "nav_menu-items is-mega w-nav-menu",
+        "text": "homeabout usServicesIndividualsBusinessesFamiliesIndividualsEveryday bankingChecking and savings acc",
+        "rect": {
+          "x": 419,
+          "y": 42,
+          "width": 596,
+          "height": 80
+        },
+        "visible": true,
+        "styles": {
+          "display": "flex",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "NAV",
+        "className": "mega-menu-list w-dropdown-list",
+        "text": "IndividualsBusinessesFamiliesIndividualsEveryday bankingChecking and savings accounts with no monthl",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "visible": false,
+        "styles": {
+          "display": "none",
+          "position": "absolute",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgb(245, 247, 250)",
+          "borderRadius": "0px 0px 12px 12px",
+          "border": "1px solid rgb(216, 222, 232)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "NAV",
+        "className": "mega-menu-list w-dropdown-list",
+        "text": "Main pagesPage layoutsCMS and utilityMain pagesHomepageMain landing layoutHome V2Sticky service inde",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "visible": false,
+        "styles": {
+          "display": "none",
+          "position": "absolute",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgb(245, 247, 250)",
+          "borderRadius": "0px 0px 12px 12px",
+          "border": "1px solid rgb(216, 222, 232)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      }
+    ],
+    ".nav-logo-text": [
+      {
+        "tag": "DIV",
+        "className": "nav-logo-text text-color-darkmain",
+        "text": "Vaxmor",
+        "rect": {
+          "x": 118,
+          "y": 64,
+          "width": 94,
+          "height": 36
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "relative",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "25.6px",
+          "fontWeight": "600",
+          "lineHeight": "35.84px",
+          "letterSpacing": "normal",
+          "color": "rgb(6, 13, 25)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(6, 13, 25)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "DIV",
+        "className": "nav-logo-text text-color-darkmain",
+        "text": "Vaxmor",
+        "rect": {
+          "x": 116,
+          "y": 15800,
+          "width": 94,
+          "height": 36
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "relative",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "25.6px",
+          "fontWeight": "600",
+          "lineHeight": "35.84px",
+          "letterSpacing": "normal",
+          "color": "rgb(6, 13, 25)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(6, 13, 25)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      }
+    ],
+    "h1": [
+      {
+        "tag": "H1",
+        "className": "heading-style-h1 text-color-white",
+        "text": "Style guide",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "visible": false,
+        "styles": {
+          "display": "block",
+          "position": "relative",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "72px",
+          "fontWeight": "500",
+          "lineHeight": "75.6px",
+          "letterSpacing": "-2.52px",
+          "color": "rgb(245, 247, 250)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(245, 247, 250)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "H1",
+        "className": "",
+        "text": "H1",
+        "rect": {
+          "x": 248,
+          "y": 844,
+          "width": 84,
+          "height": 76
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "72px",
+          "fontWeight": "500",
+          "lineHeight": "75.6px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      }
+    ],
+    "h2": [
+      {
+        "tag": "H2",
+        "className": "heading-style-h6 text-color-white",
+        "text": "Typography, colors, spacing and components used across Vaxmor, kept in one place for quick edits.",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "visible": false,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "18px",
+          "fontWeight": "500",
+          "lineHeight": "27px",
+          "letterSpacing": "0.72px",
+          "color": "rgb(245, 247, 250)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(245, 247, 250)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "H2",
+        "className": "heading-style-h2",
+        "text": "Headings",
+        "rect": {
+          "x": 104,
+          "y": 637,
+          "width": 1232,
+          "height": 62
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "56px",
+          "fontWeight": "500",
+          "lineHeight": "61.6px",
+          "letterSpacing": "-1.4px",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "H2",
+        "className": "",
+        "text": "Sample text helps you understand how real text may look. Sample text is being used as a placeholder.",
+        "rect": {
+          "x": 248,
+          "y": 1087,
+          "width": 1120,
+          "height": 185
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "56px",
+          "fontWeight": "500",
+          "lineHeight": "61.6px",
+          "letterSpacing": "-1.4px",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "H2",
+        "className": "heading-style-h2",
+        "text": "Sample text helps you understand how real text may look. Sample text is being used as a placeholder.",
+        "rect": {
+          "x": 248,
+          "y": 1313,
+          "width": 1120,
+          "height": 185
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "56px",
+          "fontWeight": "500",
+          "lineHeight": "61.6px",
+          "letterSpacing": "-1.4px",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "H2",
+        "className": "",
+        "text": "Other HTML Tags",
+        "rect": {
+          "x": 104,
+          "y": 2422,
+          "width": 1232,
+          "height": 62
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "56px",
+          "fontWeight": "500",
+          "lineHeight": "61.6px",
+          "letterSpacing": "-1.4px",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      }
+    ],
+    "h3": [
+      {
+        "tag": "H3",
+        "className": "",
+        "text": "Sample text helps you understand how real text may look. Sample text is being used as a placeholder.",
+        "rect": {
+          "x": 248,
+          "y": 1539,
+          "width": 1120,
+          "height": 92
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "40px",
+          "fontWeight": "500",
+          "lineHeight": "46px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "H3",
+        "className": "heading-style-h3",
+        "text": "Sample text helps you understand how real text may look. Sample text is being used as a placeholder.",
+        "rect": {
+          "x": 248,
+          "y": 1672,
+          "width": 1120,
+          "height": 92
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "40px",
+          "fontWeight": "500",
+          "lineHeight": "46px",
+          "letterSpacing": "-1px",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "H3",
+        "className": "heading-style-h5",
+        "text": "Button Sizes",
+        "rect": {
+          "x": 72,
+          "y": 7285,
+          "width": 1296,
+          "height": 31
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "22px",
+          "fontWeight": "500",
+          "lineHeight": "30.8px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "H3",
+        "className": "heading-style-h5",
+        "text": "Button Variants",
+        "rect": {
+          "x": 72,
+          "y": 7574,
+          "width": 1296,
+          "height": 31
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "22px",
+          "fontWeight": "500",
+          "lineHeight": "30.8px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "H3",
+        "className": "heading-style-h5",
+        "text": "Component Button",
+        "rect": {
+          "x": 72,
+          "y": 7798,
+          "width": 1296,
+          "height": 31
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "22px",
+          "fontWeight": "500",
+          "lineHeight": "30.8px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      }
+    ],
+    "h4": [
+      {
+        "tag": "H4",
+        "className": "",
+        "text": "Sample text helps you understand how real text may look. Sample text is being used as a placeholder.",
+        "rect": {
+          "x": 248,
+          "y": 1805,
+          "width": 1120,
+          "height": 67
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "25.6px",
+          "fontWeight": "500",
+          "lineHeight": "33.28px",
+          "letterSpacing": "-0.256px",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "H4",
+        "className": "heading-style-h4",
+        "text": "Sample text helps you understand how real text may look. Sample text is being used as a placeholder.",
+        "rect": {
+          "x": 248,
+          "y": 1912,
+          "width": 1120,
+          "height": 67
+        },
+        "visible": true,
+        "styles": {
+          "display": "flex",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "25.6px",
+          "fontWeight": "500",
+          "lineHeight": "33.28px",
+          "letterSpacing": "-0.256px",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      }
+    ],
+    "p": [
+      {
+        "tag": "P",
+        "className": "text-weight-medium text-color-white",
+        "text": "View pricing",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "visible": false,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "lineHeight": "16px",
+          "letterSpacing": "0.32px",
+          "color": "rgb(245, 247, 250)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(245, 247, 250)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "P",
+        "className": "text-size-medium",
+        "text": "HTML tags define default Heading styles. Use Heading classes when the typography style doesn't match",
+        "rect": {
+          "x": 104,
+          "y": 715,
+          "width": 1232,
+          "height": 25
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "18px",
+          "fontWeight": "400",
+          "lineHeight": "25.2px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "P",
+        "className": "text-size-medium",
+        "text": "HTML tags define default text styles.",
+        "rect": {
+          "x": 104,
+          "y": 2500,
+          "width": 1232,
+          "height": 25
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "18px",
+          "fontWeight": "400",
+          "lineHeight": "25.2px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "P",
+        "className": "",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum t",
+        "rect": {
+          "x": 72,
+          "y": 2633,
+          "width": 640,
+          "height": 90
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "P",
+        "className": "",
+        "text": "List Item",
+        "rect": {
+          "x": 760,
+          "y": 2809,
+          "width": 64,
+          "height": 22
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      }
+    ],
+    ".eyebrow": [
+      {
+        "tag": "DIV",
+        "className": "eyebrow",
+        "text": "(01)Template",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "visible": false,
+        "styles": {
+          "display": "flex",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "lineHeight": "21px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal 12px",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "DIV",
+        "className": "eyebrow",
+        "text": "(01)Template",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "visible": false,
+        "styles": {
+          "display": "flex",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "lineHeight": "21px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal 12px",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "DIV",
+        "className": "eyebrow",
+        "text": "(01)Template",
+        "rect": {
+          "x": 72,
+          "y": 208,
+          "width": 120,
+          "height": 21
+        },
+        "visible": true,
+        "styles": {
+          "display": "flex",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "lineHeight": "21px",
+          "letterSpacing": "normal",
+          "color": "rgb(11, 21, 38)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(11, 21, 38)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal 12px",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "DIV",
+        "className": "eyebrow",
+        "text": "(01)Template",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "visible": false,
+        "styles": {
+          "display": "flex",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "lineHeight": "21px",
+          "letterSpacing": "normal",
+          "color": "rgb(11, 21, 38)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(11, 21, 38)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal 12px",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      }
+    ],
+    ".container-large": [
+      {
+        "tag": "DIV",
+        "className": "container-large",
+        "text": "Consultations and site visits by appointment\n\n\n\n\n\nLevel 4, 25 King William Street, London",
+        "rect": {
+          "x": 72,
+          "y": 0,
+          "width": 1296,
+          "height": 42
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "relative",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "13px",
+          "fontWeight": "400",
+          "lineHeight": "18.2px",
+          "letterSpacing": "normal",
+          "color": "rgba(245, 247, 250, 0.9)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgba(245, 247, 250, 0.9)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "1440px",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "DIV",
+        "className": "container-large",
+        "text": "Vaxmorhomeabout usServicesIndividualsBusinessesFamiliesIndividualsEveryday bankingChecking and savin",
+        "rect": {
+          "x": 72,
+          "y": 42,
+          "width": 1296,
+          "height": 80
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "relative",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "1440px",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "DIV",
+        "className": "container-large is-mega",
+        "text": "IndividualsBusinessesFamiliesIndividualsEveryday bankingChecking and savings accounts with no monthl",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "visible": false,
+        "styles": {
+          "display": "block",
+          "position": "relative",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "DIV",
+        "className": "container-large is-mega",
+        "text": "Main pagesPage layoutsCMS and utilityMain pagesHomepageMain landing layoutHome V2Sticky service inde",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "visible": false,
+        "styles": {
+          "display": "block",
+          "position": "relative",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "DIV",
+        "className": "container-large",
+        "text": "(01)TemplateStyle guideTypography, colors, spacing and components used across Vaxmor, kept in one pl",
+        "rect": {
+          "x": 72,
+          "y": 208,
+          "width": 1296,
+          "height": 222
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "relative",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "1440px",
+          "boxShadow": "none"
+        }
+      }
+    ],
+    ".container-medium": [
+      {
+        "tag": "DIV",
+        "className": "container-medium",
+        "text": "",
+        "rect": {
+          "x": 408,
+          "y": 10092,
+          "width": 800,
+          "height": 48
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "800px",
+          "boxShadow": "none"
+        }
+      }
+    ],
+    ".container-small": [
+      {
+        "tag": "DIV",
+        "className": "container-small",
+        "text": "",
+        "rect": {
+          "x": 488,
+          "y": 10181,
+          "width": 640,
+          "height": 48
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "640px",
+          "boxShadow": "none"
+        }
+      }
+    ],
+    ".padding-global": [
+      {
+        "tag": "DIV",
+        "className": "padding-global",
+        "text": "",
+        "rect": {
+          "x": 248,
+          "y": 9914,
+          "width": 160,
+          "height": 48
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "56px",
+          "paddingRight": "56px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      }
+    ],
+    ".button": [
+      {
+        "tag": "A",
+        "className": "button is-link w-inline-block",
+        "text": "View pricing",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "visible": false,
+        "styles": {
+          "display": "flex",
+          "position": "relative",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "lineHeight": "16px",
+          "letterSpacing": "0.32px",
+          "color": "rgb(245, 247, 250)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(11, 21, 38)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "8px",
+          "maxWidth": "100%",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "A",
+        "className": "button w-button",
+        "text": "Button",
+        "rect": {
+          "x": 248,
+          "y": 7336,
+          "width": 82,
+          "height": 50
+        },
+        "visible": true,
+        "styles": {
+          "display": "flex",
+          "position": "relative",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(245, 247, 250)",
+          "backgroundColor": "rgb(11, 21, 38)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(245, 247, 250)",
+          "paddingTop": "14px",
+          "paddingBottom": "14px",
+          "paddingLeft": "16px",
+          "paddingRight": "16px",
+          "gap": "16px",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "A",
+        "className": "button is-small w-button",
+        "text": "Button",
+        "rect": {
+          "x": 248,
+          "y": 7483,
+          "width": 82,
+          "height": 38
+        },
+        "visible": true,
+        "styles": {
+          "display": "flex",
+          "position": "relative",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(245, 247, 250)",
+          "backgroundColor": "rgb(11, 21, 38)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(245, 247, 250)",
+          "paddingTop": "8px",
+          "paddingBottom": "8px",
+          "paddingLeft": "16px",
+          "paddingRight": "16px",
+          "gap": "16px",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "A",
+        "className": "button is-secondary w-button",
+        "text": "Button",
+        "rect": {
+          "x": 248,
+          "y": 7625,
+          "width": 84,
+          "height": 52
+        },
+        "visible": true,
+        "styles": {
+          "display": "flex",
+          "position": "relative",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "1px solid rgb(216, 222, 232)",
+          "paddingTop": "14px",
+          "paddingBottom": "14px",
+          "paddingLeft": "16px",
+          "paddingRight": "16px",
+          "gap": "16px",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "A",
+        "className": "button is-link w-inline-block",
+        "text": "Button",
+        "rect": {
+          "x": 248,
+          "y": 7724,
+          "width": 52,
+          "height": 16
+        },
+        "visible": true,
+        "styles": {
+          "display": "flex",
+          "position": "relative",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "lineHeight": "16px",
+          "letterSpacing": "0.32px",
+          "color": "rgb(245, 247, 250)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(11, 21, 38)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "8px",
+          "maxWidth": "100%",
+          "boxShadow": "none"
+        }
+      }
+    ],
+    ".button.is-secondary": [
+      {
+        "tag": "A",
+        "className": "button is-secondary w-button",
+        "text": "Button",
+        "rect": {
+          "x": 248,
+          "y": 7625,
+          "width": 84,
+          "height": 52
+        },
+        "visible": true,
+        "styles": {
+          "display": "flex",
+          "position": "relative",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "1px solid rgb(216, 222, 232)",
+          "paddingTop": "14px",
+          "paddingBottom": "14px",
+          "paddingLeft": "16px",
+          "paddingRight": "16px",
+          "gap": "16px",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      }
+    ],
+    ".button.is-small": [
+      {
+        "tag": "A",
+        "className": "button is-small w-button",
+        "text": "Button",
+        "rect": {
+          "x": 248,
+          "y": 7483,
+          "width": 82,
+          "height": 38
+        },
+        "visible": true,
+        "styles": {
+          "display": "flex",
+          "position": "relative",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(245, 247, 250)",
+          "backgroundColor": "rgb(11, 21, 38)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(245, 247, 250)",
+          "paddingTop": "8px",
+          "paddingBottom": "8px",
+          "paddingLeft": "16px",
+          "paddingRight": "16px",
+          "gap": "16px",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      }
+    ],
+    "footer": [
+      {
+        "tag": "FOOTER",
+        "className": "footer-light",
+        "text": "Talk to an advisorA named banker replies within one business day.Book a callVaxmorIndependent bankin",
+        "rect": {
+          "x": 0,
+          "y": 15497,
+          "width": 1440,
+          "height": 701
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgb(235, 239, 245)",
+          "borderRadius": "0px",
+          "border": "",
+          "paddingTop": "110px",
+          "paddingBottom": "110px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      }
+    ]
+  },
+  "activeAnimationsCount": 0
+}
