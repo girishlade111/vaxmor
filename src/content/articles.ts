@@ -35,7 +35,7 @@ export const ARTICLES: ArticleRecord[] = [
     "coverImage": "/assets/graphics/app/6afd141f81e51878ec0aedff_6afd11d9a4691909cb0cba1c_woman-using-smartphone-2-1.webp",
     "heroImage": "/assets/graphics/app/6afd141f81e51878ec0aedff_6afd11d9a4691909cb0cba1c_woman-using-smartphone-2-1.webp",
     "metaDescription": "How much cash should you keep in savings? A practical guide to sizing your emergency fund, where to hold it and when the rest is better invested for growth.",
-    "summary": "In short",
+    "summary": "Too little cash leaves you exposed. Too much quietly loses value. Here is how we help clients find the right emergency buffer.",
     "advisorCta": {
       "title": "Talk it through",
       "description": "An advisor can size your cash buffer in one call.",
@@ -96,7 +96,7 @@ export const ARTICLES: ArticleRecord[] = [
     "coverImage": "/assets/images/media/6afd141f81e51878ec0aee02_6afd1241bca7125b3b3239eb_document-signing-scene-1.webp",
     "heroImage": "/assets/images/media/6afd141f81e51878ec0aee02_6afd1241bca7125b3b3239eb_document-signing-scene-1.webp",
     "metaDescription": "What interest rate changes in 2026 mean for your savings, mortgage and investments, explained in plain language by Vaxmor advisors, with what to do next.",
-    "summary": "In short",
+    "summary": "Rate decisions move savings, mortgages and markets at the same time. A plain-language guide to what changes and what does not.",
     "advisorCta": {
       "title": "Talk it through",
       "description": "An advisor can size your cash buffer in one call.",
@@ -161,7 +161,7 @@ export const ARTICLES: ArticleRecord[] = [
     "coverImage": "/assets/images/media/6afd141f81e51878ec0aee06_6afd139d0cf70e9f0fda8954_professional-meeting-scene-6-1.webp",
     "heroImage": "/assets/images/media/6afd141f81e51878ec0aee06_6afd139d0cf70e9f0fda8954_professional-meeting-scene-6-1.webp",
     "metaDescription": "Seven questions to ask before choosing a financial advisor, from how they are paid to who you will speak to, so you can compare firms with confidence.",
-    "summary": "In short",
+    "summary": "The right advisor relationship can last decades. These are the seven questions worth asking before you sign anything.",
     "advisorCta": {
       "title": "Talk it through",
       "description": "An advisor can size your cash buffer in one call.",
@@ -250,7 +250,7 @@ export const ARTICLES: ArticleRecord[] = [
     "coverImage": "/assets/images/media/6afd142081e51878ec0aee0e_6afd1343a5ab669ee9940a13_financial-analytics-business-setting-1.webp",
     "heroImage": "/assets/images/media/6afd142081e51878ec0aee0e_6afd1343a5ab669ee9940a13_financial-analytics-business-setting-1.webp",
     "metaDescription": "Diversification explained without the jargon: how spreading money across companies, regions and asset types protects your portfolio, and where it stops.",
-    "summary": "In short",
+    "summary": "Diversification is the closest thing investing has to a free lunch. What it is, what it protects you from and where it stops.",
     "advisorCta": {
       "title": "Talk it through",
       "description": "An advisor can size your cash buffer in one call.",
@@ -323,7 +323,7 @@ export const ARTICLES: ArticleRecord[] = [
     "coverImage": "/assets/images/media/6afd142081e51878ec0aee11_6afd13c06e639d605fb54cb7_focused-desk-work-1-1.webp",
     "heroImage": "/assets/images/media/6afd142081e51878ec0aee11_6afd13c06e639d605fb54cb7_focused-desk-work-1-1.webp",
     "metaDescription": "Planning retirement in your forties: five practical steps, from finding old pensions to raising contributions, that make the biggest long-term difference.",
-    "summary": "In short",
+    "summary": "Your forties are the decade when retirement planning has the most impact. Five steps that make the biggest difference.",
     "advisorCta": {
       "title": "Talk it through",
       "description": "An advisor can size your cash buffer in one call.",
@@ -396,7 +396,7 @@ export const ARTICLES: ArticleRecord[] = [
     "coverImage": "/assets/images/media/6afd142081e51878ec0aee14_6afd13ce1163da4bbf1f561f_professional-analysis-1-1.webp",
     "heroImage": "/assets/images/media/6afd142081e51878ec0aee14_6afd13ce1163da4bbf1f561f_professional-analysis-1-1.webp",
     "metaDescription": "Cash flow habits of fast-growing businesses, from thirteen-week forecasts to faster invoicing, that help companies keep growing without a cash crunch.",
-    "summary": "In short",
+    "summary": "Profitable companies still fail when cash runs short. The habits we see in businesses that grow without a cash crunch.",
     "advisorCta": {
       "title": "Talk it through",
       "description": "An advisor can size your cash buffer in one call.",

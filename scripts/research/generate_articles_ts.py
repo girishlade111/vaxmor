@@ -7,8 +7,8 @@ enriched = []
 for i, a in enumerate(arts, 1):
     slug = a["slug"]
     sp = BeautifulSoup(open(f"research/reference/html/blog__{slug}.html", encoding="utf-8").read(), "lxml")
-    sum_el = sp.select_one(".blog-detail-summary p:last-child")
-    summary = sum_el.get_text(" ", strip=True) if sum_el else ""
+    sum_els = sp.select(".blog-detail-summary p")
+    summary = sum_els[-1].get_text(" ", strip=True) if sum_els else ""
     cta_title = sp.select_one(".blog-detail-cta-text p:first-child")
     cta_desc = sp.select_one(".blog-detail-cta-text p:last-child")
     md = sp.find("meta", attrs={"name": "description"})
