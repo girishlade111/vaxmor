@@ -1,0 +1,1599 @@
+{
+  "title": "Home V2 - Vaxmor - Webflow HTML website template",
+  "scrollHeight": 8613,
+  "scrollWidth": 1440,
+  "innerWidth": 1440,
+  "fonts": [
+    {
+      "family": "webflow-icons",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "300",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "400",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "500",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "600",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "300",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "400",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "500",
+      "style": "normal",
+      "status": "loaded"
+    }
+  ],
+  "sections": [
+    {
+      "index": 0,
+      "className": "section-hero-device",
+      "visible": true,
+      "height": 1101,
+      "backgroundColor": "rgb(245, 247, 250)",
+      "paddingTop": "153.6px",
+      "paddingBottom": "0px",
+      "heading": "Banking that fits in your pocket and your plans"
+    },
+    {
+      "index": 1,
+      "className": "section-trust-bar",
+      "visible": true,
+      "height": 106,
+      "backgroundColor": "rgb(245, 247, 250)",
+      "paddingTop": "32px",
+      "paddingBottom": "32px",
+      "heading": ""
+    },
+    {
+      "index": 2,
+      "className": "section-about",
+      "visible": true,
+      "height": 603,
+      "backgroundColor": "rgb(245, 247, 250)",
+      "paddingTop": "110px",
+      "paddingBottom": "110px",
+      "heading": "Banking and investing, made clear"
+    },
+    {
+      "index": 3,
+      "className": "section-services-split",
+      "visible": true,
+      "height": 1350,
+      "backgroundColor": "rgb(235, 239, 245)",
+      "paddingTop": "110px",
+      "paddingBottom": "110px",
+      "heading": "Every account you need, run from one app."
+    },
+    {
+      "index": 4,
+      "className": "section-security",
+      "visible": true,
+      "height": 1022,
+      "backgroundColor": "rgb(245, 247, 250)",
+      "paddingTop": "110px",
+      "paddingBottom": "110px",
+      "heading": "Bank from your phone with full protection"
+    },
+    {
+      "index": 5,
+      "className": "section-results w-variant-a5bd417c-ce96-3658-f3bf-851f69b5accd",
+      "visible": true,
+      "height": 317,
+      "backgroundColor": "rgb(245, 247, 250)",
+      "paddingTop": "110px",
+      "paddingBottom": "110px",
+      "heading": "The numbers our clients bank on"
+    },
+    {
+      "index": 6,
+      "className": "section-why w-variant-2540e566-3702-92c1-ad8e-8bd0e82910cd",
+      "visible": true,
+      "height": 709,
+      "backgroundColor": "rgb(245, 247, 250)",
+      "paddingTop": "110px",
+      "paddingBottom": "110px",
+      "heading": "Everyday banking without the usual friction"
+    },
+    {
+      "index": 7,
+      "className": "section-team",
+      "visible": true,
+      "height": 1167,
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "paddingTop": "110px",
+      "paddingBottom": "110px",
+      "heading": "The people answering your messages"
+    },
+    {
+      "index": 8,
+      "className": "section-testimonial-featured",
+      "visible": true,
+      "height": 860,
+      "backgroundColor": "rgb(245, 247, 250)",
+      "paddingTop": "110px",
+      "paddingBottom": "110px",
+      "heading": "Why clients moved their banking to us"
+    },
+    {
+      "index": 9,
+      "className": "section-faq-split",
+      "visible": true,
+      "height": 678,
+      "backgroundColor": "rgb(245, 247, 250)",
+      "paddingTop": "110px",
+      "paddingBottom": "110px",
+      "heading": "App and account questions"
+    }
+  ],
+  "samples": {
+    ".topbar": [
+      {
+        "tag": "DIV",
+        "className": "topbar",
+        "text": "Consultations and site visits by appointment\n\n\n\n\n\nLevel 4, 25 King William Street, London",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 42
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "13px",
+          "fontWeight": "400",
+          "lineHeight": "18.2px",
+          "letterSpacing": "normal",
+          "color": "rgba(245, 247, 250, 0.9)",
+          "backgroundColor": "rgb(11, 21, 38)",
+          "borderRadius": "0px",
+          "border": "0px none rgba(245, 247, 250, 0.9)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      }
+    ],
+    ".navbar": [
+      {
+        "tag": "DIV",
+        "className": "navbar w-nav",
+        "text": "Consultations and site visits by appointment\n\n\n\n\n\nLevel 4, 25 King William Street, LondonVaxmorhomea",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 123
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "fixed",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      }
+    ],
+    "header": [
+      {
+        "tag": "HEADER",
+        "className": "nav",
+        "text": "Vaxmorhomeabout usServicesIndividualsBusinessesFamiliesIndividualsEveryday bankingChecking and savin",
+        "rect": {
+          "x": 0,
+          "y": 42,
+          "width": 1440,
+          "height": 81
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "sticky",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgb(245, 247, 250)",
+          "borderRadius": "0px",
+          "border": "",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      }
+    ],
+    "nav": [
+      {
+        "tag": "NAV",
+        "className": "nav_menu-items is-mega w-nav-menu",
+        "text": "homeabout usServicesIndividualsBusinessesFamiliesIndividualsEveryday bankingChecking and savings acc",
+        "rect": {
+          "x": 419,
+          "y": 42,
+          "width": 596,
+          "height": 80
+        },
+        "visible": true,
+        "styles": {
+          "display": "flex",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "NAV",
+        "className": "mega-menu-list w-dropdown-list",
+        "text": "IndividualsBusinessesFamiliesIndividualsEveryday bankingChecking and savings accounts with no monthl",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "visible": false,
+        "styles": {
+          "display": "none",
+          "position": "absolute",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgb(245, 247, 250)",
+          "borderRadius": "0px 0px 12px 12px",
+          "border": "1px solid rgb(216, 222, 232)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "NAV",
+        "className": "mega-menu-list w-dropdown-list",
+        "text": "Main pagesPage layoutsCMS and utilityMain pagesHomepageMain landing layoutHome V2Sticky service inde",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "visible": false,
+        "styles": {
+          "display": "none",
+          "position": "absolute",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgb(245, 247, 250)",
+          "borderRadius": "0px 0px 12px 12px",
+          "border": "1px solid rgb(216, 222, 232)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      }
+    ],
+    ".nav-logo-text": [
+      {
+        "tag": "DIV",
+        "className": "nav-logo-text text-color-darkmain",
+        "text": "Vaxmor",
+        "rect": {
+          "x": 118,
+          "y": 64,
+          "width": 94,
+          "height": 36
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "relative",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "25.6px",
+          "fontWeight": "600",
+          "lineHeight": "35.84px",
+          "letterSpacing": "normal",
+          "color": "rgb(6, 13, 25)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(6, 13, 25)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "DIV",
+        "className": "nav-logo-text text-color-darkmain",
+        "text": "Vaxmor",
+        "rect": {
+          "x": 116,
+          "y": 8214,
+          "width": 94,
+          "height": 36
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "relative",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "25.6px",
+          "fontWeight": "600",
+          "lineHeight": "35.84px",
+          "letterSpacing": "normal",
+          "color": "rgb(6, 13, 25)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(6, 13, 25)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      }
+    ],
+    "h1": [
+      {
+        "tag": "H1",
+        "className": "heading-style-h1",
+        "text": "Banking that fits in your pocket and your plans",
+        "rect": {
+          "x": 345,
+          "y": 195,
+          "width": 749,
+          "height": 151
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "relative",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "72px",
+          "fontWeight": "500",
+          "lineHeight": "75.6px",
+          "letterSpacing": "-2.52px",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      }
+    ],
+    "h2": [
+      {
+        "tag": "H2",
+        "className": "heading-style-h2",
+        "text": "Banking and investing, made clear",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "visible": false,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "56px",
+          "fontWeight": "500",
+          "lineHeight": "61.6px",
+          "letterSpacing": "-1.4px",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "H2",
+        "className": "heading-style-h2 w-variant-7ebe003d-ed57-e2df-8967-fa6fd62c4234",
+        "text": "Every account you need, run from one app.",
+        "rect": {
+          "x": 72,
+          "y": 1960,
+          "width": 632,
+          "height": 123
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "56px",
+          "fontWeight": "500",
+          "lineHeight": "61.6px",
+          "letterSpacing": "-1.4px",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "704px",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "H2",
+        "className": "heading-style-h2 is-inherit",
+        "text": "Bank from your phone with full protection",
+        "rect": {
+          "x": 120,
+          "y": 3358,
+          "width": 390,
+          "height": 185
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "56px",
+          "fontWeight": "500",
+          "lineHeight": "61.6px",
+          "letterSpacing": "-1.4px",
+          "color": "rgb(245, 247, 250)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(245, 247, 250)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "H2",
+        "className": "heading-style-h2",
+        "text": "The numbers our clients bank on",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "visible": false,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "56px",
+          "fontWeight": "500",
+          "lineHeight": "61.6px",
+          "letterSpacing": "-1.4px",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "H2",
+        "className": "heading-style-h2",
+        "text": "Everyday banking without the usual friction",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "visible": false,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "56px",
+          "fontWeight": "500",
+          "lineHeight": "61.6px",
+          "letterSpacing": "-1.4px",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      }
+    ],
+    "h3": [
+      {
+        "tag": "H3",
+        "className": "heading-style-h4 is-on-dark",
+        "text": "Wealth management",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "visible": false,
+        "styles": {
+          "display": "flex",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "25.6px",
+          "fontWeight": "500",
+          "lineHeight": "33.28px",
+          "letterSpacing": "-0.256px",
+          "color": "rgb(245, 247, 250)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(245, 247, 250)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "H3",
+        "className": "heading-style-h5 w-variant-7ebe003d-ed57-e2df-8967-fa6fd62c4234",
+        "text": "Wealth management",
+        "rect": {
+          "x": 147,
+          "y": 2280,
+          "width": 360,
+          "height": 31
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "22px",
+          "fontWeight": "500",
+          "lineHeight": "30.8px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "H3",
+        "className": "heading-style-h5 w-variant-7ebe003d-ed57-e2df-8967-fa6fd62c4234",
+        "text": "Investment portfolios",
+        "rect": {
+          "x": 147,
+          "y": 2417,
+          "width": 360,
+          "height": 31
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "22px",
+          "fontWeight": "500",
+          "lineHeight": "30.8px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "H3",
+        "className": "heading-style-h5 w-variant-7ebe003d-ed57-e2df-8967-fa6fd62c4234",
+        "text": "Private banking",
+        "rect": {
+          "x": 147,
+          "y": 2554,
+          "width": 360,
+          "height": 31
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "22px",
+          "fontWeight": "500",
+          "lineHeight": "30.8px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "H3",
+        "className": "heading-style-h5 w-variant-7ebe003d-ed57-e2df-8967-fa6fd62c4234",
+        "text": "Retirement planning",
+        "rect": {
+          "x": 147,
+          "y": 2691,
+          "width": 360,
+          "height": 31
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "22px",
+          "fontWeight": "500",
+          "lineHeight": "30.8px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      }
+    ],
+    "p": [
+      {
+        "tag": "P",
+        "className": "text-weight-medium text-color-white",
+        "text": "View pricing",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "visible": false,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "lineHeight": "16px",
+          "letterSpacing": "0.32px",
+          "color": "rgb(245, 247, 250)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(245, 247, 250)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "P",
+        "className": "text-size-medium",
+        "text": "Send money, track spending and grow savings from one app, with a named banker on call.",
+        "rect": {
+          "x": 432,
+          "y": 366,
+          "width": 576,
+          "height": 50
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "18px",
+          "fontWeight": "400",
+          "lineHeight": "25.2px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "P",
+        "className": "text-size-regular w-variant-32ad542b-4f9e-33ab-d1fa-0fdd5202732d",
+        "text": "We help individuals, families and businesses grow and protect their wealth, with honest advice, tran",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "visible": false,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "P",
+        "className": "text-size-medium",
+        "text": "We help individuals, families and businesses grow and protect their wealth, with honest advice, tran",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "visible": false,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "18px",
+          "fontWeight": "400",
+          "lineHeight": "25.2px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "P",
+        "className": "text-size-medium",
+        "text": "Founded in 2001, Vaxmor works with households, founders and growing businesses. Every client relatio",
+        "rect": {
+          "x": 72,
+          "y": 1624,
+          "width": 560,
+          "height": 76
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "18px",
+          "fontWeight": "400",
+          "lineHeight": "25.2px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      }
+    ],
+    ".eyebrow": [
+      {
+        "tag": "DIV",
+        "className": "eyebrow",
+        "text": "(01)Mobile banking",
+        "rect": {
+          "x": 639,
+          "y": 154,
+          "width": 161,
+          "height": 21
+        },
+        "visible": true,
+        "styles": {
+          "display": "flex",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "lineHeight": "21px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal 12px",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "DIV",
+        "className": "eyebrow",
+        "text": "(02)About Vaxmor",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "visible": false,
+        "styles": {
+          "display": "flex",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "lineHeight": "21px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal 12px",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "DIV",
+        "className": "eyebrow",
+        "text": "(02)About Vaxmor",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "visible": false,
+        "styles": {
+          "display": "flex",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "lineHeight": "21px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal 12px",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "DIV",
+        "className": "eyebrow",
+        "text": "(02)About Vaxmor",
+        "rect": {
+          "x": 72,
+          "y": 1317,
+          "width": 154,
+          "height": 21
+        },
+        "visible": true,
+        "styles": {
+          "display": "flex",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "lineHeight": "21px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal 12px",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "DIV",
+        "className": "eyebrow",
+        "text": "(03)Services",
+        "rect": {
+          "x": 72,
+          "y": 1919,
+          "width": 117,
+          "height": 21
+        },
+        "visible": true,
+        "styles": {
+          "display": "flex",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "lineHeight": "21px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal 12px",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      }
+    ],
+    ".container-large": [
+      {
+        "tag": "DIV",
+        "className": "container-large",
+        "text": "Consultations and site visits by appointment\n\n\n\n\n\nLevel 4, 25 King William Street, London",
+        "rect": {
+          "x": 72,
+          "y": 0,
+          "width": 1296,
+          "height": 42
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "relative",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "13px",
+          "fontWeight": "400",
+          "lineHeight": "18.2px",
+          "letterSpacing": "normal",
+          "color": "rgba(245, 247, 250, 0.9)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgba(245, 247, 250, 0.9)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "1440px",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "DIV",
+        "className": "container-large",
+        "text": "Vaxmorhomeabout usServicesIndividualsBusinessesFamiliesIndividualsEveryday bankingChecking and savin",
+        "rect": {
+          "x": 72,
+          "y": 42,
+          "width": 1296,
+          "height": 80
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "relative",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "1440px",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "DIV",
+        "className": "container-large is-mega",
+        "text": "IndividualsBusinessesFamiliesIndividualsEveryday bankingChecking and savings accounts with no monthl",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "visible": false,
+        "styles": {
+          "display": "block",
+          "position": "relative",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "DIV",
+        "className": "container-large is-mega",
+        "text": "Main pagesPage layoutsCMS and utilityMain pagesHomepageMain landing layoutHome V2Sticky service inde",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "visible": false,
+        "styles": {
+          "display": "block",
+          "position": "relative",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "DIV",
+        "className": "container-large",
+        "text": "(01)Mobile bankingBanking that fits in your pocket and your plansSend money, track spending and grow",
+        "rect": {
+          "x": 72,
+          "y": 154,
+          "width": 1296,
+          "height": 947
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "relative",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "1440px",
+          "boxShadow": "none"
+        }
+      }
+    ],
+    ".button": [
+      {
+        "tag": "A",
+        "className": "button is-link w-inline-block",
+        "text": "View pricing",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "visible": false,
+        "styles": {
+          "display": "flex",
+          "position": "relative",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "lineHeight": "16px",
+          "letterSpacing": "0.32px",
+          "color": "rgb(245, 247, 250)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(11, 21, 38)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "8px",
+          "maxWidth": "100%",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "A",
+        "className": "button is-link w-inline-block",
+        "text": "Meet an advisor",
+        "rect": {
+          "x": 1100,
+          "y": 6212,
+          "width": 156,
+          "height": 20
+        },
+        "visible": true,
+        "styles": {
+          "display": "flex",
+          "position": "relative",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "lineHeight": "16px",
+          "letterSpacing": "0.32px",
+          "color": "rgb(245, 247, 250)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(11, 21, 38)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "8px",
+          "maxWidth": "100%",
+          "boxShadow": "none"
+        }
+      }
+    ],
+    "footer": [
+      {
+        "tag": "FOOTER",
+        "className": "footer-light",
+        "text": "Talk to an advisorA named banker replies within one business day.Book a callVaxmorIndependent bankin",
+        "rect": {
+          "x": 0,
+          "y": 7912,
+          "width": 1440,
+          "height": 701
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgb(235, 239, 245)",
+          "borderRadius": "0px",
+          "border": "",
+          "paddingTop": "110px",
+          "paddingBottom": "110px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      }
+    ]
+  },
+  "activeAnimationsCount": 0
+}
