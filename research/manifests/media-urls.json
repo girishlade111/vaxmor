@@ -1,5 +1,5 @@
 {
-  "masterCount": 132,
+  "masterCount": 96,
   "variantCount": 131,
   "fontLinks": [
     "https://fonts.googleapis.com"
@@ -32,29 +32,6 @@
       ]
     },
     {
-      "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398d7_6aa79f39e4ffc4ef227d90f3_6a92eddafe4ac4fdef10d1d8_Portrait%252520of%252520a%252520Man%252520(1",
-      "routes": [
-        "/",
-        "/about-us",
-        "/home-v2",
-        "/home-v3",
-        "/pricing",
-        "/services-v1",
-        "/services-v2",
-        "/testimonial/daniel-k",
-        "/testimonial/james-p",
-        "/testimonial/karen-d",
-        "/testimonial/marcus-b",
-        "/testimonial/maria-s",
-        "/testimonial/patricia-h",
-        "/testimonial/robert-m",
-        "/testimonial/thomas-w"
-      ],
-      "roles": [
-        "html-ref"
-      ]
-    },
-    {
       "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398d7_6aa79f39e4ffc4ef227d90f3_6a92eddafe4ac4fdef10d1d8_Portrait%252520of%252520a%252520Man%252520(1)%2525202.webp",
       "routes": [
         "/",
@@ -74,32 +51,10 @@
         "/testimonial/thomas-w"
       ],
       "roles": [
+        "html-ref",
         "img-src",
         "meta-og:image",
         "meta-twitter:image"
-      ]
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398ee_6aa79f39e4ffc4ef227d90f6_6a92eddafe4ac4fdef10d1ef_Professional%252520Portrait%252520(11",
-      "routes": [
-        "/",
-        "/about-us",
-        "/home-v2",
-        "/home-v3",
-        "/pricing",
-        "/services-v1",
-        "/services-v2",
-        "/testimonial/daniel-k",
-        "/testimonial/james-p",
-        "/testimonial/karen-d",
-        "/testimonial/marcus-b",
-        "/testimonial/maria-s",
-        "/testimonial/patricia-h",
-        "/testimonial/robert-m",
-        "/testimonial/thomas-w"
-      ],
-      "roles": [
-        "html-ref"
       ]
     },
     {
@@ -122,6 +77,7 @@
         "/testimonial/thomas-w"
       ],
       "roles": [
+        "html-ref",
         "img-src",
         "meta-og:image",
         "meta-twitter:image"
@@ -154,29 +110,6 @@
       ]
     },
     {
-      "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3991d_6aa79f39e4ffc4ef227d90fa_6a92eddafe4ac4fdef10d24b_Portrait%252520of%252520a%252520Man%252520(2",
-      "routes": [
-        "/",
-        "/about-us",
-        "/home-v2",
-        "/home-v3",
-        "/pricing",
-        "/services-v1",
-        "/services-v2",
-        "/testimonial/daniel-k",
-        "/testimonial/james-p",
-        "/testimonial/karen-d",
-        "/testimonial/marcus-b",
-        "/testimonial/maria-s",
-        "/testimonial/patricia-h",
-        "/testimonial/robert-m",
-        "/testimonial/thomas-w"
-      ],
-      "roles": [
-        "html-ref"
-      ]
-    },
-    {
       "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3991d_6aa79f39e4ffc4ef227d90fa_6a92eddafe4ac4fdef10d24b_Portrait%252520of%252520a%252520Man%252520(2)%2525201.webp",
       "routes": [
         "/",
@@ -196,6 +129,7 @@
         "/testimonial/thomas-w"
       ],
       "roles": [
+        "html-ref",
         "img-src",
         "meta-og:image",
         "meta-twitter:image"
@@ -243,29 +177,6 @@
       ]
     },
     {
-      "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3995d_6aa79f39e4ffc4ef227d9106_6a92eddafe4ac4fdef10d24c_Professional%252520Portrait%252520(10",
-      "routes": [
-        "/",
-        "/about-us",
-        "/home-v2",
-        "/home-v3",
-        "/pricing",
-        "/services-v1",
-        "/services-v2",
-        "/testimonial/daniel-k",
-        "/testimonial/james-p",
-        "/testimonial/karen-d",
-        "/testimonial/marcus-b",
-        "/testimonial/maria-s",
-        "/testimonial/patricia-h",
-        "/testimonial/robert-m",
-        "/testimonial/thomas-w"
-      ],
-      "roles": [
-        "html-ref"
-      ]
-    },
-    {
       "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3995d_6aa79f39e4ffc4ef227d9106_6a92eddafe4ac4fdef10d24c_Professional%252520Portrait%252520(10)%2525201.webp",
       "routes": [
         "/",
@@ -285,29 +196,10 @@
         "/testimonial/thomas-w"
       ],
       "roles": [
+        "html-ref",
         "img-src",
         "meta-og:image",
         "meta-twitter:image"
-      ]
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bca9e9aa5d8af67e6a9_6afc7370d88ed11e06008a4b_Business%2520Meeting%2520Scene%2520(11",
-      "routes": [
-        "/",
-        "/home-v2",
-        "/home-v3",
-        "/services-v1",
-        "/services-v2",
-        "/services-v3",
-        "/services/business-banking",
-        "/services/investment-portfolios",
-        "/services/lending-and-mortgages",
-        "/services/private-banking",
-        "/services/retirement-planning",
-        "/services/wealth-management"
-      ],
-      "roles": [
-        "html-ref"
       ]
     },
     {
@@ -327,6 +219,7 @@
         "/services/wealth-management"
       ],
       "roles": [
+        "html-ref",
         "img-src",
         "meta-og:image",
         "meta-twitter:image"
@@ -374,26 +267,6 @@
       ]
     },
     {
-      "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6b8_6afc72390c98fa052de6ef1f_Professional%2520Discussion%2520(10",
-      "routes": [
-        "/",
-        "/home-v2",
-        "/home-v3",
-        "/services-v1",
-        "/services-v2",
-        "/services-v3",
-        "/services/business-banking",
-        "/services/investment-portfolios",
-        "/services/lending-and-mortgages",
-        "/services/private-banking",
-        "/services/retirement-planning",
-        "/services/wealth-management"
-      ],
-      "roles": [
-        "html-ref"
-      ]
-    },
-    {
       "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6b8_6afc72390c98fa052de6ef1f_Professional%2520Discussion%2520(10)%25201.webp",
       "routes": [
         "/",
@@ -410,6 +283,7 @@
         "/services/wealth-management"
       ],
       "roles": [
+        "html-ref",
         "img-src",
         "meta-og:image",
         "meta-twitter:image"
@@ -434,23 +308,6 @@
       ]
     },
     {
-      "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6c4_6afc723c8f3c89befe3f1232_Professional%2520Reading%2520Scene%2520(1",
-      "routes": [
-        "/home-v3",
-        "/services-v2",
-        "/services-v3",
-        "/services/business-banking",
-        "/services/investment-portfolios",
-        "/services/lending-and-mortgages",
-        "/services/private-banking",
-        "/services/retirement-planning",
-        "/services/wealth-management"
-      ],
-      "roles": [
-        "html-ref"
-      ]
-    },
-    {
       "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6c4_6afc723c8f3c89befe3f1232_Professional%2520Reading%2520Scene%2520(1)%25201.webp",
       "routes": [
         "/home-v3",
@@ -464,24 +321,8 @@
         "/services/wealth-management"
       ],
       "roles": [
+        "html-ref",
         "img-src"
-      ]
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6c8_6afc7403ea9cdce60758c2eb_Office%2520Collaboration%2520Scene%2520(4",
-      "routes": [
-        "/home-v3",
-        "/services-v2",
-        "/services-v3",
-        "/services/business-banking",
-        "/services/investment-portfolios",
-        "/services/lending-and-mortgages",
-        "/services/private-banking",
-        "/services/retirement-planning",
-        "/services/wealth-management"
-      ],
-      "roles": [
-        "html-ref"
       ]
     },
     {
@@ -498,27 +339,8 @@
         "/services/wealth-management"
       ],
       "roles": [
+        "html-ref",
         "img-src"
-      ]
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6cc_6afc732840cd4db306e3afae_Business%2520Meeting%2520Scene%2520(10",
-      "routes": [
-        "/",
-        "/home-v2",
-        "/home-v3",
-        "/services-v1",
-        "/services-v2",
-        "/services-v3",
-        "/services/business-banking",
-        "/services/investment-portfolios",
-        "/services/lending-and-mortgages",
-        "/services/private-banking",
-        "/services/retirement-planning",
-        "/services/wealth-management"
-      ],
-      "roles": [
-        "html-ref"
       ]
     },
     {
@@ -538,6 +360,7 @@
         "/services/wealth-management"
       ],
       "roles": [
+        "html-ref",
         "img-src",
         "meta-og:image",
         "meta-twitter:image"
@@ -562,18 +385,6 @@
       ]
     },
     {
-      "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6d7_6afc72891e2e0fde6bc0778b_Key%2520Exchange%2520Outdoors%2520(1",
-      "routes": [
-        "/",
-        "/home-v2",
-        "/services-v1",
-        "/services/lending-and-mortgages"
-      ],
-      "roles": [
-        "html-ref"
-      ]
-    },
-    {
       "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6d7_6afc72891e2e0fde6bc0778b_Key%2520Exchange%2520Outdoors%2520(1)%25201.webp",
       "routes": [
         "/",
@@ -582,6 +393,7 @@
         "/services/lending-and-mortgages"
       ],
       "roles": [
+        "html-ref",
         "img-src",
         "meta-og:image",
         "meta-twitter:image"
@@ -621,22 +433,6 @@
       ]
     },
     {
-      "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd141f81e51878ec0aedff_6afd11d9a4691909cb0cba1c_Woman%2520Using%2520Smartphone%2520(2",
-      "routes": [
-        "/",
-        "/blog",
-        "/blog/cash-flow-habits-of-fast-growing-businesses",
-        "/blog/diversification-explained-without-the-jargon",
-        "/blog/how-much-cash-should-you-really-keep",
-        "/blog/planning-retirement-in-your-forties-five-steps",
-        "/blog/seven-questions-to-ask-before-choosing-a-financial-advisor",
-        "/blog/what-interest-rate-changes-mean-for-you-in-2026"
-      ],
-      "roles": [
-        "html-ref"
-      ]
-    },
-    {
       "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd141f81e51878ec0aedff_6afd11d9a4691909cb0cba1c_Woman%2520Using%2520Smartphone%2520(2)%25201.webp",
       "routes": [
         "/",
@@ -649,6 +445,7 @@
         "/blog/what-interest-rate-changes-mean-for-you-in-2026"
       ],
       "roles": [
+        "html-ref",
         "img-src",
         "meta-og:image",
         "meta-twitter:image"
@@ -674,22 +471,6 @@
       ]
     },
     {
-      "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd141f81e51878ec0aee06_6afd139d0cf70e9f0fda8954_Professional%2520Meeting%2520Scene%2520(6",
-      "routes": [
-        "/",
-        "/blog",
-        "/blog/cash-flow-habits-of-fast-growing-businesses",
-        "/blog/diversification-explained-without-the-jargon",
-        "/blog/how-much-cash-should-you-really-keep",
-        "/blog/planning-retirement-in-your-forties-five-steps",
-        "/blog/seven-questions-to-ask-before-choosing-a-financial-advisor",
-        "/blog/what-interest-rate-changes-mean-for-you-in-2026"
-      ],
-      "roles": [
-        "html-ref"
-      ]
-    },
-    {
       "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd141f81e51878ec0aee06_6afd139d0cf70e9f0fda8954_Professional%2520Meeting%2520Scene%2520(6)%25201.webp",
       "routes": [
         "/",
@@ -702,6 +483,7 @@
         "/blog/what-interest-rate-changes-mean-for-you-in-2026"
       ],
       "roles": [
+        "html-ref",
         "img-src",
         "meta-og:image",
         "meta-twitter:image"
@@ -721,35 +503,16 @@
       ]
     },
     {
-      "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd142081e51878ec0aee11_6afd13c06e639d605fb54cb7_Focused%2520Desk%2520Work%2520(1",
-      "routes": [
-        "/blog",
-        "/blog/planning-retirement-in-your-forties-five-steps"
-      ],
-      "roles": [
-        "html-ref"
-      ]
-    },
-    {
       "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd142081e51878ec0aee11_6afd13c06e639d605fb54cb7_Focused%2520Desk%2520Work%2520(1)%25201.webp",
       "routes": [
         "/blog",
         "/blog/planning-retirement-in-your-forties-five-steps"
       ],
       "roles": [
+        "html-ref",
         "img-src",
         "meta-og:image",
         "meta-twitter:image"
-      ]
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd142081e51878ec0aee14_6afd13ce1163da4bbf1f561f_Professional%2520Analysis%2520(1",
-      "routes": [
-        "/blog",
-        "/blog/cash-flow-habits-of-fast-growing-businesses"
-      ],
-      "roles": [
-        "html-ref"
       ]
     },
     {
@@ -759,6 +522,7 @@
         "/blog/cash-flow-habits-of-fast-growing-businesses"
       ],
       "roles": [
+        "html-ref",
         "img-src",
         "meta-og:image",
         "meta-twitter:image"
@@ -775,17 +539,6 @@
       ]
     },
     {
-      "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39574_Weight%3DRegular%20(1",
-      "routes": [
-        "/about-us",
-        "/services-v1",
-        "/services-v2"
-      ],
-      "roles": [
-        "html-ref"
-      ]
-    },
-    {
       "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39574_Weight%3DRegular%20(1).svg",
       "routes": [
         "/about-us",
@@ -793,6 +546,7 @@
         "/services-v2"
       ],
       "roles": [
+        "html-ref",
         "img-src"
       ]
     },
@@ -865,19 +619,6 @@
       ]
     },
     {
-      "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d399fc_Professional%20Portrait%20(6",
-      "routes": [
-        "/about-us",
-        "/contact-v2",
-        "/home-v2",
-        "/home-v3",
-        "/services-v3"
-      ],
-      "roles": [
-        "html-ref"
-      ]
-    },
-    {
       "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d399fc_Professional%20Portrait%20(6)%201.webp",
       "routes": [
         "/about-us",
@@ -887,34 +628,9 @@
         "/services-v3"
       ],
       "roles": [
+        "html-ref",
         "img-src",
         "img-srcset"
-      ]
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d399fc_Professional%2520Portrait%2520(6",
-      "routes": [
-        "/about-us",
-        "/contact-v2",
-        "/home-v2",
-        "/home-v3",
-        "/services-v3"
-      ],
-      "roles": [
-        "html-ref"
-      ]
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d399fe_Professional%20Portrait%20(8",
-      "routes": [
-        "/about-us",
-        "/contact-v2",
-        "/home-v2",
-        "/home-v3",
-        "/services-v3"
-      ],
-      "roles": [
-        "html-ref"
       ]
     },
     {
@@ -927,21 +643,9 @@
         "/services-v3"
       ],
       "roles": [
+        "html-ref",
         "img-src",
         "img-srcset"
-      ]
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d399fe_Professional%2520Portrait%2520(8",
-      "routes": [
-        "/about-us",
-        "/contact-v2",
-        "/home-v2",
-        "/home-v3",
-        "/services-v3"
-      ],
-      "roles": [
-        "html-ref"
       ]
     },
     {
@@ -1005,19 +709,6 @@
       ]
     },
     {
-      "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39a0c_Professional%20Portrait%20(5",
-      "routes": [
-        "/about-us",
-        "/contact-v2",
-        "/home-v2",
-        "/home-v3",
-        "/services-v3"
-      ],
-      "roles": [
-        "html-ref"
-      ]
-    },
-    {
       "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39a0c_Professional%20Portrait%20(5)%201.webp",
       "routes": [
         "/about-us",
@@ -1027,21 +718,9 @@
         "/services-v3"
       ],
       "roles": [
+        "html-ref",
         "img-src",
         "img-srcset"
-      ]
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39a0c_Professional%2520Portrait%2520(5",
-      "routes": [
-        "/about-us",
-        "/contact-v2",
-        "/home-v2",
-        "/home-v3",
-        "/services-v3"
-      ],
-      "roles": [
-        "html-ref"
       ]
     },
     {
@@ -1225,20 +904,12 @@
       ]
     },
     {
-      "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af9a795dd30da1efb6dcdd2_Minimalist%20Smartphone%20and%20Flowers%20(1",
-      "routes": [
-        "/home-v2"
-      ],
-      "roles": [
-        "html-ref"
-      ]
-    },
-    {
       "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af9a795dd30da1efb6dcdd2_Minimalist%20Smartphone%20and%20Flowers%20(1)%201.webp",
       "routes": [
         "/home-v2"
       ],
       "roles": [
+        "html-ref",
         "img-src",
         "img-srcset"
       ]
@@ -1288,34 +959,15 @@
       ]
     },
     {
-      "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afbc18a29e3a56f0daa0f47_Collaborative%20Workspace%20(1",
-      "routes": [
-        "/",
-        "/services-v2"
-      ],
-      "roles": [
-        "html-ref"
-      ]
-    },
-    {
       "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afbc18a29e3a56f0daa0f47_Collaborative%20Workspace%20(1)%201.webp",
       "routes": [
         "/",
         "/services-v2"
       ],
       "roles": [
+        "html-ref",
         "img-src",
         "img-srcset"
-      ]
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afbc18a29e3a56f0daa0f56_Office%20Meeting%20Discussion%20(1",
-      "routes": [
-        "/",
-        "/services-v2"
-      ],
-      "roles": [
-        "html-ref"
       ]
     },
     {
@@ -1325,19 +977,9 @@
         "/services-v2"
       ],
       "roles": [
+        "html-ref",
         "img-src",
         "img-srcset"
-      ]
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afbc18a61535adcef60ebd3_Professional%20Discussion%20(7",
-      "routes": [
-        "/",
-        "/home-v2",
-        "/services-v1"
-      ],
-      "roles": [
-        "html-ref"
       ]
     },
     {
@@ -1348,6 +990,7 @@
         "/services-v1"
       ],
       "roles": [
+        "html-ref",
         "img-src",
         "img-srcset"
       ]
@@ -1412,20 +1055,12 @@
       ]
     },
     {
-      "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afbcbd431d2ab9b5fc911ff_Professional%20Woman%20at%20Desk%20(1",
-      "routes": [
-        "/home-v3"
-      ],
-      "roles": [
-        "html-ref"
-      ]
-    },
-    {
       "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afbcbd431d2ab9b5fc911ff_Professional%20Woman%20at%20Desk%20(1)%201.webp",
       "routes": [
         "/home-v3"
       ],
       "roles": [
+        "html-ref",
         "img-src",
         "img-srcset"
       ]
@@ -1454,31 +1089,14 @@
       ]
     },
     {
-      "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc03f0a6531713a54cd76b_Portrait%20of%20a%20Woman%20(1",
-      "routes": [
-        "/about-us"
-      ],
-      "roles": [
-        "html-ref"
-      ]
-    },
-    {
       "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc03f0a6531713a54cd76b_Portrait%20of%20a%20Woman%20(1)%201.webp",
       "routes": [
         "/about-us"
       ],
       "roles": [
+        "html-ref",
         "img-src",
         "img-srcset"
-      ]
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc03f0d0256c9c4118cdb5_Professional%20Handshake%20(4",
-      "routes": [
-        "/about-us"
-      ],
-      "roles": [
-        "html-ref"
       ]
     },
     {
@@ -1487,6 +1105,7 @@
         "/about-us"
       ],
       "roles": [
+        "html-ref",
         "img-src",
         "img-srcset"
       ]
@@ -1558,20 +1177,12 @@
       ]
     },
     {
-      "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc0e05af1476d01d1fa85a_Professional%20Phone%20Call%20(1",
-      "routes": [
-        "/contact-v1"
-      ],
-      "roles": [
-        "html-ref"
-      ]
-    },
-    {
       "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc0e05af1476d01d1fa85a_Professional%20Phone%20Call%20(1)%201.webp",
       "routes": [
         "/contact-v1"
       ],
       "roles": [
+        "html-ref",
         "img-src",
         "img-srcset"
       ]
@@ -1639,31 +1250,14 @@
       ]
     },
     {
-      "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc3f821f018b2f20a63775_Business%20Discussion%20(1",
-      "routes": [
-        "/services-v1"
-      ],
-      "roles": [
-        "html-ref"
-      ]
-    },
-    {
       "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc3f821f018b2f20a63775_Business%20Discussion%20(1)%201.webp",
       "routes": [
         "/services-v1"
       ],
       "roles": [
+        "html-ref",
         "img-src",
         "img-srcset"
-      ]
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc3f8235a2dd180101dd29_Professional%20Discussion%20(8",
-      "routes": [
-        "/services-v1"
-      ],
-      "roles": [
-        "html-ref"
       ]
     },
     {
@@ -1672,34 +1266,9 @@
         "/services-v1"
       ],
       "roles": [
+        "html-ref",
         "img-src",
         "img-srcset"
-      ]
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc3f82aa31e8988f72b25a_Professional%20Discussion%20(9",
-      "routes": [
-        "/blog",
-        "/changelog",
-        "/contact-v2",
-        "/contact-v3",
-        "/instructions",
-        "/licenses",
-        "/pricing",
-        "/services-v1",
-        "/services-v2",
-        "/style-guide",
-        "/testimonial/daniel-k",
-        "/testimonial/james-p",
-        "/testimonial/karen-d",
-        "/testimonial/marcus-b",
-        "/testimonial/maria-s",
-        "/testimonial/patricia-h",
-        "/testimonial/robert-m",
-        "/testimonial/thomas-w"
-      ],
-      "roles": [
-        "html-ref"
       ]
     },
     {
@@ -1725,6 +1294,7 @@
         "/testimonial/thomas-w"
       ],
       "roles": [
+        "html-ref",
         "img-src",
         "img-srcset"
       ]
@@ -1741,31 +1311,14 @@
       ]
     },
     {
-      "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc436d0efc884fd490abdb_Business%20Meeting%20Scene%20(9",
-      "routes": [
-        "/services-v3"
-      ],
-      "roles": [
-        "html-ref"
-      ]
-    },
-    {
       "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc436d0efc884fd490abdb_Business%20Meeting%20Scene%20(9)%201.webp",
       "routes": [
         "/services-v3"
       ],
       "roles": [
+        "html-ref",
         "img-src",
         "img-srcset"
-      ]
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc436de2bc9aa82fe77cab_Office%20Discussion%20Scene%20(5",
-      "routes": [
-        "/services-v3"
-      ],
-      "roles": [
-        "html-ref"
       ]
     },
     {
@@ -1774,17 +1327,9 @@
         "/services-v3"
       ],
       "roles": [
+        "html-ref",
         "img-src",
         "img-srcset"
-      ]
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc443705942452aed01e84_Grandmother%20and%20Grandchild%20(1",
-      "routes": [
-        "/services-v3"
-      ],
-      "roles": [
-        "html-ref"
       ]
     },
     {
@@ -1793,6 +1338,7 @@
         "/services-v3"
       ],
       "roles": [
+        "html-ref",
         "img-src",
         "img-srcset"
       ]
@@ -1809,20 +1355,12 @@
       ]
     },
     {
-      "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc48f00f1443855a6bd839_Woman%20Using%20Smartphone%20(1",
-      "routes": [
-        "/services-v3"
-      ],
-      "roles": [
-        "html-ref"
-      ]
-    },
-    {
       "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc48f00f1443855a6bd839_Woman%20Using%20Smartphone%20(1)%201.webp",
       "routes": [
         "/services-v3"
       ],
       "roles": [
+        "html-ref",
         "img-src",
         "img-srcset"
       ]
