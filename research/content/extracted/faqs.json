@@ -1,0 +1,142 @@
+{
+  "home": {
+    "eyebrowNum": "(11)",
+    "eyebrowText": "FAQ",
+    "heading": "Questions before you switch",
+    "description": "",
+    "assistanceTitle": "",
+    "assistanceCopy": "",
+    "assistanceCta": null,
+    "items": []
+  },
+  "home-v2": {
+    "eyebrowNum": "(09)",
+    "eyebrowText": "FAQ",
+    "heading": "App and account questions",
+    "description": "",
+    "assistanceTitle": "",
+    "assistanceCopy": "",
+    "assistanceCta": null,
+    "items": []
+  },
+  "services-v1": {
+    "eyebrowNum": "(07)",
+    "eyebrowText": "FAQ",
+    "heading": "Questions about our services",
+    "description": "",
+    "assistanceTitle": "",
+    "assistanceCopy": "",
+    "assistanceCta": null,
+    "items": []
+  },
+  "services-v2": {
+    "eyebrowNum": "(08)",
+    "eyebrowText": "FAQ",
+    "heading": "Business banking questions",
+    "description": "",
+    "assistanceTitle": "",
+    "assistanceCopy": "",
+    "assistanceCta": null,
+    "items": []
+  },
+  "services-v3": {
+    "eyebrowNum": "(08)",
+    "eyebrowText": "FAQ",
+    "heading": "Questions about the planning process",
+    "description": "",
+    "assistanceTitle": "",
+    "assistanceCopy": "",
+    "assistanceCta": null,
+    "items": []
+  },
+  "pricing": {
+    "eyebrowNum": "(06)",
+    "eyebrowText": "FAQ",
+    "heading": "Questions about fees and billing",
+    "description": "",
+    "assistanceTitle": "",
+    "assistanceCopy": "",
+    "assistanceCta": null,
+    "items": []
+  },
+  "contact-v1": {
+    "eyebrowNum": "(04)",
+    "eyebrowText": "FAQ",
+    "heading": "Before you get in touch",
+    "description": "",
+    "assistanceTitle": "",
+    "assistanceCopy": "",
+    "assistanceCta": null,
+    "items": []
+  },
+  "contact-v2": {
+    "eyebrowNum": "(04)",
+    "eyebrowText": "FAQ",
+    "heading": "Support questions",
+    "description": "",
+    "assistanceTitle": "",
+    "assistanceCopy": "",
+    "assistanceCta": null,
+    "items": []
+  },
+  "services__wealth-management": {
+    "eyebrowNum": "(04)",
+    "eyebrowText": "FAQ",
+    "heading": "Questions about this service",
+    "description": "",
+    "assistanceTitle": "",
+    "assistanceCopy": "",
+    "assistanceCta": null,
+    "items": []
+  },
+  "services__investment-portfolios": {
+    "eyebrowNum": "(04)",
+    "eyebrowText": "FAQ",
+    "heading": "Questions about this service",
+    "description": "",
+    "assistanceTitle": "",
+    "assistanceCopy": "",
+    "assistanceCta": null,
+    "items": []
+  },
+  "services__private-banking": {
+    "eyebrowNum": "(04)",
+    "eyebrowText": "FAQ",
+    "heading": "Questions about this service",
+    "description": "",
+    "assistanceTitle": "",
+    "assistanceCopy": "",
+    "assistanceCta": null,
+    "items": []
+  },
+  "services__retirement-planning": {
+    "eyebrowNum": "(04)",
+    "eyebrowText": "FAQ",
+    "heading": "Questions about this service",
+    "description": "",
+    "assistanceTitle": "",
+    "assistanceCopy": "",
+    "assistanceCta": null,
+    "items": []
+  },
+  "services__business-banking": {
+    "eyebrowNum": "(04)",
+    "eyebrowText": "FAQ",
+    "heading": "Questions about this service",
+    "description": "",
+    "assistanceTitle": "",
+    "assistanceCopy": "",
+    "assistanceCta": null,
+    "items": []
+  },
+  "services__lending-and-mortgages": {
+    "eyebrowNum": "(04)",
+    "eyebrowText": "FAQ",
+    "heading": "Questions about this service",
+    "description": "",
+    "assistanceTitle": "",
+    "assistanceCopy": "",
+    "assistanceCta": null,
+    "items": []
+  }
+}

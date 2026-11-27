@@ -1,0 +1,2900 @@
+[
+  {
+    "class": "styleguide_styles",
+    "texts": [
+      "Headings",
+      "HTML tags define default Heading styles. Use Heading classes when the typography style doesn't match the default HTML tag.",
+      "All H1 Headings",
+      "H1",
+      "heading-style-h1",
+      "H1",
+      "All H2 Headings",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder.",
+      "heading-style-h2",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder.",
+      "All H3 Headings",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder.",
+      "heading-style-h3",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder.",
+      "All H4 Headings",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder.",
+      "heading-style-h4",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder.",
+      "All H5 Headings",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder.",
+      "heading-style-h5",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder.",
+      "All H6 Headings",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder.",
+      "heading-style-h6",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder.",
+      "Other HTML Tags",
+      "HTML tags define default text styles.",
+      "All Paragraphs",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere."
+    ]
+  },
+  {
+    "class": "styleguide_wrap",
+    "texts": [
+      "Headings",
+      "HTML tags define default Heading styles. Use Heading classes when the typography style doesn't match the default HTML tag.",
+      "All H1 Headings",
+      "H1",
+      "heading-style-h1",
+      "H1",
+      "All H2 Headings",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder.",
+      "heading-style-h2",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder.",
+      "All H3 Headings",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder.",
+      "heading-style-h3",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder.",
+      "All H4 Headings",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder.",
+      "heading-style-h4",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder.",
+      "All H5 Headings",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder.",
+      "heading-style-h5",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder.",
+      "All H6 Headings",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder.",
+      "heading-style-h6",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder."
+    ]
+  },
+  {
+    "class": "styleguide_head",
+    "texts": [
+      "Headings",
+      "HTML tags define default Heading styles. Use Heading classes when the typography style doesn't match the default HTML tag."
+    ]
+  },
+  {
+    "class": "styleguide_content",
+    "texts": [
+      "All H1 Headings",
+      "H1",
+      "heading-style-h1",
+      "H1",
+      "All H2 Headings",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder.",
+      "heading-style-h2",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder.",
+      "All H3 Headings",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder.",
+      "heading-style-h3",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder.",
+      "All H4 Headings",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder.",
+      "heading-style-h4",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder.",
+      "All H5 Headings",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder.",
+      "heading-style-h5",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder.",
+      "All H6 Headings",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder.",
+      "heading-style-h6",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder."
+    ]
+  },
+  {
+    "class": "styleguide_block",
+    "texts": [
+      "All H1 Headings",
+      "H1",
+      "heading-style-h1",
+      "H1",
+      "All H2 Headings",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder.",
+      "heading-style-h2",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder.",
+      "All H3 Headings",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder.",
+      "heading-style-h3",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder.",
+      "All H4 Headings",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder.",
+      "heading-style-h4",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder.",
+      "All H5 Headings",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder.",
+      "heading-style-h5",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder.",
+      "All H6 Headings",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder.",
+      "heading-style-h6",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder."
+    ]
+  },
+  {
+    "class": "styleguide_row",
+    "texts": [
+      "All H1 Headings",
+      "H1"
+    ]
+  },
+  {
+    "class": "styleguide_label is-html-tag",
+    "texts": [
+      "All H1 Headings"
+    ]
+  },
+  {
+    "class": "styleguide_row",
+    "texts": [
+      "heading-style-h1",
+      "H1"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "heading-style-h1"
+    ]
+  },
+  {
+    "class": "styleguide_row",
+    "texts": [
+      "All H2 Headings",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder."
+    ]
+  },
+  {
+    "class": "styleguide_label is-html-tag",
+    "texts": [
+      "All H2 Headings"
+    ]
+  },
+  {
+    "class": "styleguide_row",
+    "texts": [
+      "heading-style-h2",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder."
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "heading-style-h2"
+    ]
+  },
+  {
+    "class": "styleguide_row",
+    "texts": [
+      "All H3 Headings",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder."
+    ]
+  },
+  {
+    "class": "styleguide_label is-html-tag",
+    "texts": [
+      "All H3 Headings"
+    ]
+  },
+  {
+    "class": "styleguide_row",
+    "texts": [
+      "heading-style-h3",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder."
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "heading-style-h3"
+    ]
+  },
+  {
+    "class": "styleguide_row",
+    "texts": [
+      "All H4 Headings",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder."
+    ]
+  },
+  {
+    "class": "styleguide_label is-html-tag",
+    "texts": [
+      "All H4 Headings"
+    ]
+  },
+  {
+    "class": "styleguide_row",
+    "texts": [
+      "heading-style-h4",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder."
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "heading-style-h4"
+    ]
+  },
+  {
+    "class": "styleguide_row",
+    "texts": [
+      "All H5 Headings",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder."
+    ]
+  },
+  {
+    "class": "styleguide_label is-html-tag",
+    "texts": [
+      "All H5 Headings"
+    ]
+  },
+  {
+    "class": "styleguide_row",
+    "texts": [
+      "heading-style-h5",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder."
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "heading-style-h5"
+    ]
+  },
+  {
+    "class": "styleguide_row",
+    "texts": [
+      "All H6 Headings",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder."
+    ]
+  },
+  {
+    "class": "styleguide_label is-html-tag",
+    "texts": [
+      "All H6 Headings"
+    ]
+  },
+  {
+    "class": "styleguide_row",
+    "texts": [
+      "heading-style-h6",
+      "Sample text helps you understand how real text may look. Sample text is being used as a placeholder."
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "heading-style-h6"
+    ]
+  },
+  {
+    "class": "styleguide_wrap",
+    "texts": [
+      "Other HTML Tags",
+      "HTML tags define default text styles.",
+      "All Paragraphs",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.",
+      "All Links",
+      "Text Link",
+      "All Block Quotes",
+      "Block Quote",
+      "All Unordered Lists",
+      "List Item",
+      "List Item",
+      "List Item",
+      "All Ordered Lists",
+      "List Item",
+      "List Item",
+      "List Item"
+    ]
+  },
+  {
+    "class": "styleguide_head",
+    "texts": [
+      "Other HTML Tags",
+      "HTML tags define default text styles."
+    ]
+  },
+  {
+    "class": "styleguide_block cc-grid",
+    "texts": [
+      "All Paragraphs",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.",
+      "All Links",
+      "Text Link",
+      "All Block Quotes",
+      "Block Quote",
+      "All Unordered Lists",
+      "List Item",
+      "List Item",
+      "List Item",
+      "All Ordered Lists",
+      "List Item",
+      "List Item",
+      "List Item"
+    ]
+  },
+  {
+    "class": "styleguide_item",
+    "texts": [
+      "All Paragraphs",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere."
+    ]
+  },
+  {
+    "class": "styleguide_label is-html-tag",
+    "texts": [
+      "All Paragraphs"
+    ]
+  },
+  {
+    "class": "styleguide_item",
+    "texts": [
+      "All Links",
+      "Text Link"
+    ]
+  },
+  {
+    "class": "styleguide_label is-html-tag",
+    "texts": [
+      "All Links"
+    ]
+  },
+  {
+    "class": "styleguide_item",
+    "texts": [
+      "All Block Quotes",
+      "Block Quote"
+    ]
+  },
+  {
+    "class": "styleguide_label is-html-tag",
+    "texts": [
+      "All Block Quotes"
+    ]
+  },
+  {
+    "class": "styleguide_item",
+    "texts": [
+      "All Unordered Lists",
+      "List Item",
+      "List Item",
+      "List Item"
+    ]
+  },
+  {
+    "class": "styleguide_label is-html-tag",
+    "texts": [
+      "All Unordered Lists"
+    ]
+  },
+  {
+    "class": "styleguide_item",
+    "texts": [
+      "All Ordered Lists",
+      "List Item",
+      "List Item",
+      "List Item"
+    ]
+  },
+  {
+    "class": "styleguide_label is-html-tag",
+    "texts": [
+      "All Ordered Lists"
+    ]
+  },
+  {
+    "class": "styleguide_wrap",
+    "texts": [
+      "Text Sizes",
+      "Text sizes when typography style doesn't match the default HTML tag.",
+      "text-size-large",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.",
+      "text-size-medium",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.",
+      "text-size-regular",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.",
+      "text-size-small",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.",
+      "text-size-tiny",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.",
+      "text-size-eyebrow",
+      "Eyebrow"
+    ]
+  },
+  {
+    "class": "styleguide_head",
+    "texts": [
+      "Text Sizes",
+      "Text sizes when typography style doesn't match the default HTML tag."
+    ]
+  },
+  {
+    "class": "styleguide_block cc-grid",
+    "texts": [
+      "text-size-large",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.",
+      "text-size-medium",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.",
+      "text-size-regular",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.",
+      "text-size-small",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.",
+      "text-size-tiny",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.",
+      "text-size-eyebrow",
+      "Eyebrow"
+    ]
+  },
+  {
+    "class": "styleguide_item",
+    "texts": [
+      "text-size-large",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere."
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "text-size-large"
+    ]
+  },
+  {
+    "class": "styleguide_item",
+    "texts": [
+      "text-size-medium",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere."
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "text-size-medium"
+    ]
+  },
+  {
+    "class": "styleguide_item",
+    "texts": [
+      "text-size-regular",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere."
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "text-size-regular"
+    ]
+  },
+  {
+    "class": "styleguide_item",
+    "texts": [
+      "text-size-small",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere."
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "text-size-small"
+    ]
+  },
+  {
+    "class": "styleguide_item",
+    "texts": [
+      "text-size-tiny",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere."
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "text-size-tiny"
+    ]
+  },
+  {
+    "class": "styleguide_item",
+    "texts": [
+      "text-size-eyebrow",
+      "Eyebrow"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "text-size-eyebrow"
+    ]
+  },
+  {
+    "class": "styleguide_wrap",
+    "texts": [
+      "Text Weights",
+      "text-weight-xbold",
+      "text-weight-xbold (800)",
+      "text-weight-bold",
+      "text-weight-bold (700)",
+      "text-weight-semibold",
+      "text-weight-semibold (600)",
+      "text-weight-medium",
+      "text-weight-medium (500)",
+      "text-weight-normal",
+      "text-weight-normal (400)",
+      "text-weight-light",
+      "text-weight-light (300)"
+    ]
+  },
+  {
+    "class": "styleguide_head",
+    "texts": [
+      "Text Weights"
+    ]
+  },
+  {
+    "class": "styleguide_block cc-grid",
+    "texts": [
+      "text-weight-xbold",
+      "text-weight-xbold (800)",
+      "text-weight-bold",
+      "text-weight-bold (700)",
+      "text-weight-semibold",
+      "text-weight-semibold (600)",
+      "text-weight-medium",
+      "text-weight-medium (500)",
+      "text-weight-normal",
+      "text-weight-normal (400)",
+      "text-weight-light",
+      "text-weight-light (300)"
+    ]
+  },
+  {
+    "class": "styleguide_row",
+    "texts": [
+      "text-weight-xbold",
+      "text-weight-xbold (800)"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "text-weight-xbold"
+    ]
+  },
+  {
+    "class": "styleguide_row",
+    "texts": [
+      "text-weight-bold",
+      "text-weight-bold (700)"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "text-weight-bold"
+    ]
+  },
+  {
+    "class": "styleguide_row",
+    "texts": [
+      "text-weight-semibold",
+      "text-weight-semibold (600)"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "text-weight-semibold"
+    ]
+  },
+  {
+    "class": "styleguide_row",
+    "texts": [
+      "text-weight-medium",
+      "text-weight-medium (500)"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "text-weight-medium"
+    ]
+  },
+  {
+    "class": "styleguide_row",
+    "texts": [
+      "text-weight-normal",
+      "text-weight-normal (400)"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "text-weight-normal"
+    ]
+  },
+  {
+    "class": "styleguide_row",
+    "texts": [
+      "text-weight-light",
+      "text-weight-light (300)"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "text-weight-light"
+    ]
+  },
+  {
+    "class": "styleguide_wrap",
+    "texts": [
+      "Text Styles",
+      "text-style-italic",
+      "text-style-italic",
+      "text-style-strikethrough",
+      "text-style-strikethrough",
+      "text-style-allcaps",
+      "text-style-allcaps",
+      "text-style-nowrap",
+      "text-style-nowrap",
+      "text-style-link",
+      "text-style-link",
+      "text-style-inlinelink",
+      "text-style-link"
+    ]
+  },
+  {
+    "class": "styleguide_head",
+    "texts": [
+      "Text Styles"
+    ]
+  },
+  {
+    "class": "styleguide_block cc-grid",
+    "texts": [
+      "text-style-italic",
+      "text-style-italic",
+      "text-style-strikethrough",
+      "text-style-strikethrough",
+      "text-style-allcaps",
+      "text-style-allcaps",
+      "text-style-nowrap",
+      "text-style-nowrap",
+      "text-style-link",
+      "text-style-link",
+      "text-style-inlinelink",
+      "text-style-link"
+    ]
+  },
+  {
+    "class": "styleguide_row",
+    "texts": [
+      "text-style-italic",
+      "text-style-italic"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "text-style-italic"
+    ]
+  },
+  {
+    "class": "styleguide_row",
+    "texts": [
+      "text-style-strikethrough",
+      "text-style-strikethrough"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "text-style-strikethrough"
+    ]
+  },
+  {
+    "class": "styleguide_row",
+    "texts": [
+      "text-style-allcaps",
+      "text-style-allcaps"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "text-style-allcaps"
+    ]
+  },
+  {
+    "class": "styleguide_row",
+    "texts": [
+      "text-style-nowrap",
+      "text-style-nowrap"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "text-style-nowrap"
+    ]
+  },
+  {
+    "class": "styleguide_row",
+    "texts": [
+      "text-style-link",
+      "text-style-link"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "text-style-link"
+    ]
+  },
+  {
+    "class": "styleguide_row",
+    "texts": [
+      "text-style-inlinelink",
+      "text-style-link"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "text-style-inlinelink"
+    ]
+  },
+  {
+    "class": "styleguide_wrap",
+    "texts": [
+      "Text Alignment",
+      "text-align-left",
+      "text-align-left",
+      "text-align-center",
+      "text-align-center",
+      "text-align-right",
+      "text-align-right",
+      "text-align-justify",
+      "text-align-justify"
+    ]
+  },
+  {
+    "class": "styleguide_head",
+    "texts": [
+      "Text Alignment"
+    ]
+  },
+  {
+    "class": "styleguide_block",
+    "texts": [
+      "text-align-left",
+      "text-align-left",
+      "text-align-center",
+      "text-align-center",
+      "text-align-right",
+      "text-align-right",
+      "text-align-justify",
+      "text-align-justify"
+    ]
+  },
+  {
+    "class": "styleguide_row",
+    "texts": [
+      "text-align-left",
+      "text-align-left"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "text-align-left"
+    ]
+  },
+  {
+    "class": "styleguide_row",
+    "texts": [
+      "text-align-center",
+      "text-align-center"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "text-align-center"
+    ]
+  },
+  {
+    "class": "styleguide_row",
+    "texts": [
+      "text-align-right",
+      "text-align-right"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "text-align-right"
+    ]
+  },
+  {
+    "class": "styleguide_row",
+    "texts": [
+      "text-align-justify",
+      "text-align-justify"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "text-align-justify"
+    ]
+  },
+  {
+    "class": "styleguide_wrap",
+    "texts": [
+      "Background Colors",
+      "Manage recurring background colors.",
+      "background-color-black",
+      "background-color-white",
+      "background-color-dark",
+      "background-color-main",
+      "background-color-light",
+      "background-color-subtle",
+      "background-color-secondary",
+      "background-color-dark-grey",
+      "background-color-light-grey",
+      "background-color-gradient"
+    ]
+  },
+  {
+    "class": "styleguide_head",
+    "texts": [
+      "Background Colors",
+      "Manage recurring background colors."
+    ]
+  },
+  {
+    "class": "styleguide_block",
+    "texts": [
+      "background-color-black",
+      "background-color-white",
+      "background-color-dark",
+      "background-color-main",
+      "background-color-light",
+      "background-color-subtle",
+      "background-color-secondary",
+      "background-color-dark-grey",
+      "background-color-light-grey",
+      "background-color-gradient"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_grid-colours",
+    "texts": [
+      "background-color-black",
+      "background-color-white",
+      "background-color-dark",
+      "background-color-main",
+      "background-color-light",
+      "background-color-subtle",
+      "background-color-secondary",
+      "background-color-dark-grey",
+      "background-color-light-grey",
+      "background-color-gradient"
+    ]
+  },
+  {
+    "class": "styleguide_label is-on-dark",
+    "texts": [
+      "background-color-black"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "background-color-white"
+    ]
+  },
+  {
+    "class": "styleguide_label is-on-dark",
+    "texts": [
+      "background-color-dark"
+    ]
+  },
+  {
+    "class": "styleguide_label is-on-dark",
+    "texts": [
+      "background-color-main"
+    ]
+  },
+  {
+    "class": "styleguide_label is-on-dark",
+    "texts": [
+      "background-color-light"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "background-color-subtle"
+    ]
+  },
+  {
+    "class": "styleguide_label is-on-dark",
+    "texts": [
+      "background-color-secondary"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "background-color-dark-grey"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "background-color-light-grey"
+    ]
+  },
+  {
+    "class": "styleguide_label is-on-dark",
+    "texts": [
+      "background-color-gradient"
+    ]
+  },
+  {
+    "class": "styleguide_wrap",
+    "texts": [
+      "Text Colors",
+      "Manage recurring text colors.",
+      "text-color-white",
+      "text-color-white",
+      "text-color-black",
+      "text-color-black",
+      "text-color-darkgrey",
+      "text-color-darkgrey",
+      "text-color-lightgrey",
+      "text-color-lightgrey",
+      "text-color-main",
+      "text-color-main",
+      "text-color-darkmain",
+      "text-color-darkmain",
+      "text-color-secondary",
+      "text-color-secondary",
+      "text-color-subtle",
+      "text-color-subtle"
+    ]
+  },
+  {
+    "class": "styleguide_head",
+    "texts": [
+      "Text Colors",
+      "Manage recurring text colors."
+    ]
+  },
+  {
+    "class": "styleguide_block",
+    "texts": [
+      "text-color-white",
+      "text-color-white",
+      "text-color-black",
+      "text-color-black",
+      "text-color-darkgrey",
+      "text-color-darkgrey",
+      "text-color-lightgrey",
+      "text-color-lightgrey",
+      "text-color-main",
+      "text-color-main",
+      "text-color-darkmain",
+      "text-color-darkmain",
+      "text-color-secondary",
+      "text-color-secondary",
+      "text-color-subtle",
+      "text-color-subtle"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_row",
+    "texts": [
+      "text-color-white",
+      "text-color-white"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "text-color-white"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_row",
+    "texts": [
+      "text-color-black",
+      "text-color-black"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "text-color-black"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_row",
+    "texts": [
+      "text-color-darkgrey",
+      "text-color-darkgrey"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "text-color-darkgrey"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_row",
+    "texts": [
+      "text-color-lightgrey",
+      "text-color-lightgrey"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "text-color-lightgrey"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_row",
+    "texts": [
+      "text-color-main",
+      "text-color-main"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "text-color-main"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_row",
+    "texts": [
+      "text-color-darkmain",
+      "text-color-darkmain"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "text-color-darkmain"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_row",
+    "texts": [
+      "text-color-secondary",
+      "text-color-secondary"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "text-color-secondary"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_row",
+    "texts": [
+      "text-color-subtle",
+      "text-color-subtle"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "text-color-subtle"
+    ]
+  },
+  {
+    "class": "styleguide_wrap",
+    "texts": [
+      "Buttons",
+      "Button combo class system.",
+      "Button Sizes",
+      "button",
+      "Button",
+      "button",
+      "is-small",
+      "Button",
+      "Button Variants",
+      "button",
+      "is-secondary",
+      "Button",
+      "button",
+      "is-link",
+      "Button",
+      "Component Button",
+      "Open an account",
+      "Start investing",
+      "How it works",
+      "Read the story",
+      "Talk to an advisor",
+      "Explore services"
+    ]
+  },
+  {
+    "class": "styleguide_head",
+    "texts": [
+      "Buttons",
+      "Button combo class system."
+    ]
+  },
+  {
+    "class": "styleguide_block",
+    "texts": [
+      "Button Sizes",
+      "button",
+      "Button",
+      "button",
+      "is-small",
+      "Button"
+    ]
+  },
+  {
+    "class": "styleguide_row",
+    "texts": [
+      "button",
+      "Button"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "button"
+    ]
+  },
+  {
+    "class": "styleguide_row",
+    "texts": [
+      "button",
+      "is-small",
+      "Button"
+    ]
+  },
+  {
+    "class": "styleguide_label-row",
+    "texts": [
+      "button",
+      "is-small"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "button"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "is-small"
+    ]
+  },
+  {
+    "class": "styleguide_block",
+    "texts": [
+      "Button Variants",
+      "button",
+      "is-secondary",
+      "Button",
+      "button",
+      "is-link",
+      "Button"
+    ]
+  },
+  {
+    "class": "styleguide_row",
+    "texts": [
+      "button",
+      "is-secondary",
+      "Button"
+    ]
+  },
+  {
+    "class": "styleguide_label-row",
+    "texts": [
+      "button",
+      "is-secondary"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "button"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "is-secondary"
+    ]
+  },
+  {
+    "class": "styleguide_row",
+    "texts": [
+      "button",
+      "is-link",
+      "Button"
+    ]
+  },
+  {
+    "class": "styleguide_label-row",
+    "texts": [
+      "button",
+      "is-link"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "button"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "is-link"
+    ]
+  },
+  {
+    "class": "styleguide_block",
+    "texts": [
+      "Component Button",
+      "Open an account",
+      "Start investing",
+      "How it works",
+      "Read the story",
+      "Talk to an advisor",
+      "Explore services"
+    ]
+  },
+  {
+    "class": "styleguide-buttons",
+    "texts": [
+      "Open an account",
+      "Start investing",
+      "How it works",
+      "Read the story"
+    ]
+  },
+  {
+    "class": "styleguide-buttons is-dark",
+    "texts": [
+      "Talk to an advisor",
+      "Explore services"
+    ]
+  },
+  {
+    "class": "styleguide_wrap",
+    "texts": [
+      "Form Elements",
+      "All different form elements",
+      "field-label",
+      "form-input",
+      ".field-label",
+      "field-label",
+      "form-input",
+      ".field-label",
+      "form-input",
+      "is-text-area",
+      ".field-label",
+      "form-input",
+      "\u00eds-text-area",
+      ".field-label",
+      "Select one...",
+      "First Choice",
+      "Second Choice",
+      "Third Choice",
+      "form-checkbox",
+      "Checkbox",
+      "form-radio",
+      "Radio",
+      "button",
+      "Thank you. Your details are with our team, and an advisor will reply within one business day.",
+      "We could not send your details. Please check each field and try again."
+    ]
+  },
+  {
+    "class": "styleguide_head",
+    "texts": [
+      "Form Elements",
+      "All different form elements"
+    ]
+  },
+  {
+    "class": "styleguide_block",
+    "texts": [
+      "field-label",
+      "form-input",
+      ".field-label",
+      "field-label",
+      "form-input",
+      ".field-label",
+      "form-input",
+      "is-text-area",
+      ".field-label",
+      "form-input",
+      "\u00eds-text-area",
+      ".field-label",
+      "Select one...",
+      "First Choice",
+      "Second Choice",
+      "Third Choice",
+      "form-checkbox",
+      "Checkbox",
+      "form-radio",
+      "Radio",
+      "button",
+      "Thank you. Your details are with our team, and an advisor will reply within one business day.",
+      "We could not send your details. Please check each field and try again."
+    ]
+  },
+  {
+    "class": "w-layout-grid rl-styleguide_item-row",
+    "texts": [
+      "field-label",
+      "form-input",
+      ".field-label"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "field-label"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "form-input"
+    ]
+  },
+  {
+    "class": "w-layout-grid rl-styleguide_item-row",
+    "texts": [
+      "field-label",
+      "form-input",
+      ".field-label"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "field-label"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "form-input"
+    ]
+  },
+  {
+    "class": "w-layout-grid rl-styleguide_item-row",
+    "texts": [
+      "form-input",
+      "is-text-area",
+      ".field-label"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "form-input"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "is-text-area"
+    ]
+  },
+  {
+    "class": "w-layout-grid rl-styleguide_item-row",
+    "texts": [
+      "form-input",
+      "\u00eds-text-area",
+      ".field-label",
+      "Select one...",
+      "First Choice",
+      "Second Choice",
+      "Third Choice"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "form-input"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "\u00eds-text-area"
+    ]
+  },
+  {
+    "class": "w-layout-grid rl-styleguide_item-row",
+    "texts": [
+      "form-checkbox",
+      "Checkbox"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "form-checkbox"
+    ]
+  },
+  {
+    "class": "w-layout-grid rl-styleguide_item-row",
+    "texts": [
+      "form-radio",
+      "Radio"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "form-radio"
+    ]
+  },
+  {
+    "class": "w-layout-grid rl-styleguide_item-row",
+    "texts": [
+      "button"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "button"
+    ]
+  },
+  {
+    "class": "styleguide_wrap",
+    "texts": [
+      "Icons",
+      "Unify icons sizes.",
+      "icon-16",
+      "icon-20",
+      "icon-24",
+      "icon-32",
+      "icon-40",
+      "icon-48",
+      "icon-56"
+    ]
+  },
+  {
+    "class": "styleguide_head",
+    "texts": [
+      "Icons",
+      "Unify icons sizes."
+    ]
+  },
+  {
+    "class": "styleguide_block cc-grid cc-icons",
+    "texts": [
+      "icon-16",
+      "icon-20",
+      "icon-24",
+      "icon-32",
+      "icon-40",
+      "icon-48",
+      "icon-56"
+    ]
+  },
+  {
+    "class": "styleguide_item",
+    "texts": [
+      "icon-16"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "icon-16"
+    ]
+  },
+  {
+    "class": "styleguide_item",
+    "texts": [
+      "icon-20"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "icon-20"
+    ]
+  },
+  {
+    "class": "styleguide_item",
+    "texts": [
+      "icon-24"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "icon-24"
+    ]
+  },
+  {
+    "class": "styleguide_item",
+    "texts": [
+      "icon-32"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "icon-32"
+    ]
+  },
+  {
+    "class": "styleguide_item",
+    "texts": [
+      "icon-40"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "icon-40"
+    ]
+  },
+  {
+    "class": "styleguide_item",
+    "texts": [
+      "icon-48"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "icon-48"
+    ]
+  },
+  {
+    "class": "styleguide_item",
+    "texts": [
+      "icon-56"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "icon-56"
+    ]
+  },
+  {
+    "class": "styleguide_wrap",
+    "texts": [
+      "Structure",
+      "Defined and flexible core structure we can use on all or most pages.",
+      "page-wrapper",
+      "main-wrapper",
+      "padding-global",
+      "container-large",
+      "container-medium",
+      "container-small"
+    ]
+  },
+  {
+    "class": "styleguide_head",
+    "texts": [
+      "Structure",
+      "Defined and flexible core structure we can use on all or most pages."
+    ]
+  },
+  {
+    "class": "styleguide_block",
+    "texts": [
+      "page-wrapper",
+      "main-wrapper",
+      "padding-global",
+      "container-large",
+      "container-medium",
+      "container-small"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_row",
+    "texts": [
+      "page-wrapper"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "page-wrapper"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_row",
+    "texts": [
+      "main-wrapper"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "main-wrapper"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_row",
+    "texts": [
+      "padding-global"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "padding-global"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_row",
+    "texts": [
+      "container-large"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "container-large"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_row",
+    "texts": [
+      "container-medium"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "container-medium"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_row",
+    "texts": [
+      "container-small"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "container-small"
+    ]
+  },
+  {
+    "class": "styleguide_wrap",
+    "texts": [
+      "Shadow",
+      "Utility shadows mostly used on different cards",
+      "hide"
+    ]
+  },
+  {
+    "class": "styleguide_head",
+    "texts": [
+      "Shadow",
+      "Utility shadows mostly used on different cards"
+    ]
+  },
+  {
+    "class": "styleguide_block cc-grid cc-icons",
+    "texts": [
+      "hide"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "hide"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "hide"
+    ]
+  },
+  {
+    "class": "styleguide_wrap",
+    "texts": [
+      "Utility Classes",
+      "Utility classes we like to use in most of our projects to build faster.",
+      "hide",
+      "hide-tablet",
+      "hide-landscape",
+      "hide-portrait",
+      "show-tablet",
+      "show-landscape",
+      "show-portrait",
+      "z-index-1",
+      "z-index-2",
+      "z-index-3",
+      "opacity-80",
+      "opacity-60",
+      "opacity-40",
+      "opacity-20",
+      "img-cover"
+    ]
+  },
+  {
+    "class": "styleguide_head",
+    "texts": [
+      "Utility Classes",
+      "Utility classes we like to use in most of our projects to build faster."
+    ]
+  },
+  {
+    "class": "styleguide_block cc-grid cc-icons",
+    "texts": [
+      "hide",
+      "hide-tablet",
+      "hide-landscape",
+      "hide-portrait",
+      "show-tablet",
+      "show-landscape",
+      "show-portrait",
+      "z-index-1",
+      "z-index-2",
+      "z-index-3",
+      "opacity-80",
+      "opacity-60",
+      "opacity-40",
+      "opacity-20",
+      "img-cover"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "hide"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "hide"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "hide-tablet"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "hide-tablet"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "hide-landscape"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "hide-landscape"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "hide-portrait"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "hide-portrait"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "show-tablet"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "show-tablet"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "show-landscape"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "show-landscape"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "show-portrait"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "show-portrait"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "z-index-1"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "z-index-1"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "z-index-2"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "z-index-2"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "z-index-3"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "z-index-3"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "opacity-80"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "opacity-80"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "opacity-60"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "opacity-60"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "opacity-40"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "opacity-40"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "opacity-20"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "opacity-20"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "img-cover"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "img-cover"
+    ]
+  },
+  {
+    "class": "styleguide_wrap",
+    "texts": [
+      "Words Classes",
+      "Utility classes to animate each word on scroll to view.",
+      "is-word",
+      "is-1",
+      "is-word",
+      "is-2",
+      "is-word",
+      "is-3",
+      "is-word",
+      "is-4",
+      "is-word",
+      "is-5",
+      "is-word",
+      "is-6",
+      "is-word",
+      "is-7",
+      "is-word",
+      "is-8",
+      "is-word",
+      "is-9",
+      "is-word",
+      "is-10",
+      "is-word",
+      "is-11",
+      "is-word",
+      "is-12"
+    ]
+  },
+  {
+    "class": "styleguide_head",
+    "texts": [
+      "Words Classes",
+      "Utility classes to animate each word on scroll to view."
+    ]
+  },
+  {
+    "class": "styleguide_block cc-grid cc-icons",
+    "texts": [
+      "is-word",
+      "is-1",
+      "is-word",
+      "is-2",
+      "is-word",
+      "is-3",
+      "is-word",
+      "is-4",
+      "is-word",
+      "is-5",
+      "is-word",
+      "is-6",
+      "is-word",
+      "is-7",
+      "is-word",
+      "is-8",
+      "is-word",
+      "is-9",
+      "is-word",
+      "is-10",
+      "is-word",
+      "is-11",
+      "is-word",
+      "is-12"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "is-word",
+      "is-1"
+    ]
+  },
+  {
+    "class": "styleguide_label-row",
+    "texts": [
+      "is-word",
+      "is-1"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "is-word"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "is-1"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "is-word",
+      "is-2"
+    ]
+  },
+  {
+    "class": "styleguide_label-row",
+    "texts": [
+      "is-word",
+      "is-2"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "is-word"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "is-2"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "is-word",
+      "is-3"
+    ]
+  },
+  {
+    "class": "styleguide_label-row",
+    "texts": [
+      "is-word",
+      "is-3"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "is-word"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "is-3"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "is-word",
+      "is-4"
+    ]
+  },
+  {
+    "class": "styleguide_label-row",
+    "texts": [
+      "is-word",
+      "is-4"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "is-word"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "is-4"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "is-word",
+      "is-5"
+    ]
+  },
+  {
+    "class": "styleguide_label-row",
+    "texts": [
+      "is-word",
+      "is-5"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "is-word"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "is-5"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "is-word",
+      "is-6"
+    ]
+  },
+  {
+    "class": "styleguide_label-row",
+    "texts": [
+      "is-word",
+      "is-6"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "is-word"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "is-6"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "is-word",
+      "is-7"
+    ]
+  },
+  {
+    "class": "styleguide_label-row",
+    "texts": [
+      "is-word",
+      "is-7"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "is-word"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "is-7"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "is-word",
+      "is-8"
+    ]
+  },
+  {
+    "class": "styleguide_label-row",
+    "texts": [
+      "is-word",
+      "is-8"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "is-word"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "is-8"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "is-word",
+      "is-9"
+    ]
+  },
+  {
+    "class": "styleguide_label-row",
+    "texts": [
+      "is-word",
+      "is-9"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "is-word"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "is-9"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "is-word",
+      "is-10"
+    ]
+  },
+  {
+    "class": "styleguide_label-row",
+    "texts": [
+      "is-word",
+      "is-10"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "is-word"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "is-10"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "is-word",
+      "is-11"
+    ]
+  },
+  {
+    "class": "styleguide_label-row",
+    "texts": [
+      "is-word",
+      "is-11"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "is-word"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "is-11"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "is-word",
+      "is-12"
+    ]
+  },
+  {
+    "class": "styleguide_label-row",
+    "texts": [
+      "is-word",
+      "is-12"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "is-word"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "is-12"
+    ]
+  },
+  {
+    "class": "styleguide_wrap",
+    "texts": [
+      "Margins",
+      "Unified spacer system for the project.",
+      "margin-bottom-4",
+      "margin-bottom-8",
+      "margin-bottom-12",
+      "margin-bottom-16",
+      "margin-bottom-20",
+      "margin-bottom-24",
+      "margin-bottom-28",
+      "margin-bottom-32",
+      "margin-bottom-40",
+      "margin-bottom-48",
+      "margin-bottom-56",
+      "margin-bottom-64",
+      "margin-bottom-72",
+      "margin-bottom-80",
+      "margin-bottom-96",
+      "margin-bottom-104",
+      "margin-bottom-120",
+      "margin-bottom-144",
+      "margin-top-4",
+      "margin-top-8",
+      "margin-top-12",
+      "margin-top-16",
+      "margin-top-20",
+      "margin-top-24",
+      "margin-top-28",
+      "margin-top-32",
+      "margin-top-40",
+      "margin-top-48"
+    ]
+  },
+  {
+    "class": "styleguide_head",
+    "texts": [
+      "Margins",
+      "Unified spacer system for the project."
+    ]
+  },
+  {
+    "class": "styleguide_block cc-grid",
+    "texts": [
+      "margin-bottom-4",
+      "margin-bottom-8",
+      "margin-bottom-12",
+      "margin-bottom-16",
+      "margin-bottom-20",
+      "margin-bottom-24",
+      "margin-bottom-28",
+      "margin-bottom-32",
+      "margin-bottom-40",
+      "margin-bottom-48",
+      "margin-bottom-56",
+      "margin-bottom-64",
+      "margin-bottom-72",
+      "margin-bottom-80",
+      "margin-bottom-96",
+      "margin-bottom-104",
+      "margin-bottom-120",
+      "margin-bottom-144",
+      "margin-top-4",
+      "margin-top-8",
+      "margin-top-12",
+      "margin-top-16",
+      "margin-top-20",
+      "margin-top-24",
+      "margin-top-28",
+      "margin-top-32",
+      "margin-top-40",
+      "margin-top-48",
+      "margin-top-56",
+      "margin-top-64"
+    ]
+  },
+  {
+    "class": "styleguide_block",
+    "texts": [
+      "margin-bottom-4",
+      "margin-bottom-8",
+      "margin-bottom-12",
+      "margin-bottom-16",
+      "margin-bottom-20",
+      "margin-bottom-24",
+      "margin-bottom-28",
+      "margin-bottom-32",
+      "margin-bottom-40",
+      "margin-bottom-48",
+      "margin-bottom-56",
+      "margin-bottom-64",
+      "margin-bottom-72",
+      "margin-bottom-80",
+      "margin-bottom-96",
+      "margin-bottom-104",
+      "margin-bottom-120",
+      "margin-bottom-144"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "margin-bottom-4"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "margin-bottom-4"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "margin-bottom-8"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "margin-bottom-8"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "margin-bottom-12"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "margin-bottom-12"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "margin-bottom-16"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "margin-bottom-16"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "margin-bottom-20"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "margin-bottom-20"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "margin-bottom-24"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "margin-bottom-24"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "margin-bottom-28"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "margin-bottom-28"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "margin-bottom-32"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "margin-bottom-32"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "margin-bottom-40"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "margin-bottom-40"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "margin-bottom-48"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "margin-bottom-48"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "margin-bottom-56"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "margin-bottom-56"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "margin-bottom-64"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "margin-bottom-64"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "margin-bottom-72"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "margin-bottom-72"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "margin-bottom-80"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "margin-bottom-80"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "margin-bottom-96"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "margin-bottom-96"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "margin-bottom-104"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "margin-bottom-104"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "margin-bottom-120"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "margin-bottom-120"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "margin-bottom-144"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "margin-bottom-144"
+    ]
+  },
+  {
+    "class": "styleguide_block",
+    "texts": [
+      "margin-top-4",
+      "margin-top-8",
+      "margin-top-12",
+      "margin-top-16",
+      "margin-top-20",
+      "margin-top-24",
+      "margin-top-28",
+      "margin-top-32",
+      "margin-top-40",
+      "margin-top-48",
+      "margin-top-56",
+      "margin-top-64",
+      "margin-top-72",
+      "margin-top-80",
+      "margin-top-96",
+      "margin-top-104",
+      "margin-top-120",
+      "margin-top-144"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "margin-top-4"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "margin-top-4"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "margin-top-8"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "margin-top-8"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "margin-top-12"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "margin-top-12"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "margin-top-16"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "margin-top-16"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "margin-top-20"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "margin-top-20"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "margin-top-24"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "margin-top-24"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "margin-top-28"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "margin-top-28"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "margin-top-32"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "margin-top-32"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "margin-top-40"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "margin-top-40"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "margin-top-48"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "margin-top-48"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "margin-top-56"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "margin-top-56"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "margin-top-64"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "margin-top-64"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "margin-top-72"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "margin-top-72"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "margin-top-80"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "margin-top-80"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "margin-top-96"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "margin-top-96"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "margin-top-104"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "margin-top-104"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "margin-top-120"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "margin-top-120"
+    ]
+  },
+  {
+    "class": "w-layout-grid styleguide_item",
+    "texts": [
+      "margin-top-144"
+    ]
+  },
+  {
+    "class": "styleguide_label",
+    "texts": [
+      "margin-top-144"
+    ]
+  }
+]
