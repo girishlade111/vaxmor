@@ -1,0 +1,1507 @@
+{
+  "title": "Contact V3 - Vaxmor - Webflow HTML website template",
+  "scrollHeight": 3542,
+  "scrollWidth": 1440,
+  "innerWidth": 1440,
+  "fonts": [
+    {
+      "family": "webflow-icons",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "300",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "400",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "500",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "600",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "300",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "400",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "500",
+      "style": "normal",
+      "status": "loaded"
+    }
+  ],
+  "sections": [
+    {
+      "index": 0,
+      "className": "section-banner",
+      "visible": true,
+      "height": 1175,
+      "backgroundColor": "rgb(245, 247, 250)",
+      "paddingTop": "153.6px",
+      "paddingBottom": "110px",
+      "heading": "Meet your advisor face to face"
+    },
+    {
+      "index": 1,
+      "className": "section-contact",
+      "visible": true,
+      "height": 921,
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "paddingTop": "110px",
+      "paddingBottom": "110px",
+      "heading": "Request an appointment"
+    },
+    {
+      "index": 2,
+      "className": "section-locations",
+      "visible": true,
+      "height": 831,
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "paddingTop": "110px",
+      "paddingBottom": "110px",
+      "heading": "London"
+    },
+    {
+      "index": 3,
+      "className": "section-trust-bar",
+      "visible": true,
+      "height": 106,
+      "backgroundColor": "rgb(245, 247, 250)",
+      "paddingTop": "32px",
+      "paddingBottom": "32px",
+      "heading": ""
+    }
+  ],
+  "samples": {
+    ".topbar": [
+      {
+        "tag": "DIV",
+        "className": "topbar",
+        "text": "Consultations and site visits by appointment\n\n\n\n\n\nLevel 4, 25 King William Street, London",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 42
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "13px",
+          "fontWeight": "400",
+          "lineHeight": "18.2px",
+          "letterSpacing": "normal",
+          "color": "rgba(245, 247, 250, 0.9)",
+          "backgroundColor": "rgb(11, 21, 38)",
+          "borderRadius": "0px",
+          "border": "0px none rgba(245, 247, 250, 0.9)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      }
+    ],
+    ".navbar": [
+      {
+        "tag": "DIV",
+        "className": "navbar w-nav",
+        "text": "Consultations and site visits by appointment\n\n\n\n\n\nLevel 4, 25 King William Street, LondonVaxmorhomea",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 123
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "fixed",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      }
+    ],
+    "header": [
+      {
+        "tag": "HEADER",
+        "className": "nav",
+        "text": "Vaxmorhomeabout usServicesIndividualsBusinessesFamiliesIndividualsEveryday bankingChecking and savin",
+        "rect": {
+          "x": 0,
+          "y": 42,
+          "width": 1440,
+          "height": 81
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "sticky",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgb(245, 247, 250)",
+          "borderRadius": "0px",
+          "border": "",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      }
+    ],
+    "nav": [
+      {
+        "tag": "NAV",
+        "className": "nav_menu-items is-mega w-nav-menu",
+        "text": "homeabout usServicesIndividualsBusinessesFamiliesIndividualsEveryday bankingChecking and savings acc",
+        "rect": {
+          "x": 419,
+          "y": 42,
+          "width": 596,
+          "height": 80
+        },
+        "visible": true,
+        "styles": {
+          "display": "flex",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "NAV",
+        "className": "mega-menu-list w-dropdown-list",
+        "text": "IndividualsBusinessesFamiliesIndividualsEveryday bankingChecking and savings accounts with no monthl",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "visible": false,
+        "styles": {
+          "display": "none",
+          "position": "absolute",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgb(245, 247, 250)",
+          "borderRadius": "0px 0px 12px 12px",
+          "border": "1px solid rgb(216, 222, 232)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "NAV",
+        "className": "mega-menu-list w-dropdown-list",
+        "text": "Main pagesPage layoutsCMS and utilityMain pagesHomepageMain landing layoutHome V2Sticky service inde",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "visible": false,
+        "styles": {
+          "display": "none",
+          "position": "absolute",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgb(245, 247, 250)",
+          "borderRadius": "0px 0px 12px 12px",
+          "border": "1px solid rgb(216, 222, 232)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      }
+    ],
+    ".nav-logo-text": [
+      {
+        "tag": "DIV",
+        "className": "nav-logo-text text-color-darkmain",
+        "text": "Vaxmor",
+        "rect": {
+          "x": 118,
+          "y": 64,
+          "width": 94,
+          "height": 36
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "relative",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "25.6px",
+          "fontWeight": "600",
+          "lineHeight": "35.84px",
+          "letterSpacing": "normal",
+          "color": "rgb(6, 13, 25)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(6, 13, 25)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "DIV",
+        "className": "nav-logo-text text-color-darkmain",
+        "text": "Vaxmor",
+        "rect": {
+          "x": 116,
+          "y": 3143,
+          "width": 94,
+          "height": 36
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "relative",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "25.6px",
+          "fontWeight": "600",
+          "lineHeight": "35.84px",
+          "letterSpacing": "normal",
+          "color": "rgb(6, 13, 25)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(6, 13, 25)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      }
+    ],
+    "h1": [
+      {
+        "tag": "H1",
+        "className": "heading-style-h1 text-color-white",
+        "text": "Meet your advisor face to face",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "visible": false,
+        "styles": {
+          "display": "block",
+          "position": "relative",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "72px",
+          "fontWeight": "500",
+          "lineHeight": "75.6px",
+          "letterSpacing": "-2.52px",
+          "color": "rgb(245, 247, 250)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(245, 247, 250)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      }
+    ],
+    "h2": [
+      {
+        "tag": "H2",
+        "className": "heading-style-h6 text-color-white",
+        "text": "Book a meeting at one of our four offices, or ask for a video call if you would rather talk from hom",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "visible": false,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "18px",
+          "fontWeight": "500",
+          "lineHeight": "27px",
+          "letterSpacing": "0.72px",
+          "color": "rgb(245, 247, 250)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(245, 247, 250)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "H2",
+        "className": "heading-style-h4",
+        "text": "Request an appointment",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "visible": false,
+        "styles": {
+          "display": "flex",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "25.6px",
+          "fontWeight": "500",
+          "lineHeight": "33.28px",
+          "letterSpacing": "-0.256px",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "H2",
+        "className": "heading-style-h5 text-color-white",
+        "text": "Plan your visit",
+        "rect": {
+          "x": 121,
+          "y": 1367,
+          "width": 551,
+          "height": 31
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "22px",
+          "fontWeight": "500",
+          "lineHeight": "30.8px",
+          "letterSpacing": "normal",
+          "color": "rgb(245, 247, 250)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(245, 247, 250)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      }
+    ],
+    "h3": [
+      {
+        "tag": "H3",
+        "className": "heading-style-h3",
+        "text": "Request an appointment",
+        "rect": {
+          "x": 768,
+          "y": 1334,
+          "width": 551,
+          "height": 46
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "40px",
+          "fontWeight": "500",
+          "lineHeight": "46px",
+          "letterSpacing": "-1px",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "H3",
+        "className": "heading-style-h5 text-color-white",
+        "text": "London",
+        "rect": {
+          "x": 104,
+          "y": 2661,
+          "width": 79,
+          "height": 31
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "22px",
+          "fontWeight": "500",
+          "lineHeight": "30.8px",
+          "letterSpacing": "normal",
+          "color": "rgb(245, 247, 250)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(245, 247, 250)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "H3",
+        "className": "heading-style-h5 text-color-white",
+        "text": "Bristol",
+        "rect": {
+          "x": 436,
+          "y": 2678,
+          "width": 67,
+          "height": 31
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "22px",
+          "fontWeight": "500",
+          "lineHeight": "30.8px",
+          "letterSpacing": "normal",
+          "color": "rgb(245, 247, 250)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(245, 247, 250)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "H3",
+        "className": "heading-style-h5 text-color-white",
+        "text": "Edinburgh",
+        "rect": {
+          "x": 768,
+          "y": 2678,
+          "width": 107,
+          "height": 31
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "22px",
+          "fontWeight": "500",
+          "lineHeight": "30.8px",
+          "letterSpacing": "normal",
+          "color": "rgb(245, 247, 250)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(245, 247, 250)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "H3",
+        "className": "heading-style-h5 text-color-white",
+        "text": "Manchester",
+        "rect": {
+          "x": 1100,
+          "y": 2678,
+          "width": 125,
+          "height": 31
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "22px",
+          "fontWeight": "500",
+          "lineHeight": "30.8px",
+          "letterSpacing": "normal",
+          "color": "rgb(245, 247, 250)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(245, 247, 250)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      }
+    ],
+    "p": [
+      {
+        "tag": "P",
+        "className": "text-weight-medium text-color-white",
+        "text": "View pricing",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "visible": false,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "lineHeight": "16px",
+          "letterSpacing": "0.32px",
+          "color": "rgb(245, 247, 250)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(245, 247, 250)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "P",
+        "className": "text-size-regular",
+        "text": "Thank you. Your message is with our team, and a named banker will reply within one business day.",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "visible": false,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(11, 21, 38)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(11, 21, 38)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "P",
+        "className": "text-size-small",
+        "text": "We could not send your message. Please check each field and try again, or call us on +44 20 7946 018",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "visible": false,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "lineHeight": "19.6px",
+          "letterSpacing": "normal",
+          "color": "rgb(194, 39, 31)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "9.6px",
+          "border": "0px none rgb(194, 39, 31)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "P",
+        "className": "contact-office-text",
+        "text": "Level 4, 25 King William Street, London EC4R 9AS",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "visible": false,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "15px",
+          "fontWeight": "400",
+          "lineHeight": "21px",
+          "letterSpacing": "normal",
+          "color": "rgb(90, 100, 117)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(90, 100, 117)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "P",
+        "className": "contact-office-text",
+        "text": "+44 20 7946 0182",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "visible": false,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "15px",
+          "fontWeight": "400",
+          "lineHeight": "21px",
+          "letterSpacing": "normal",
+          "color": "rgb(90, 100, 117)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(90, 100, 117)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      }
+    ],
+    ".eyebrow": [
+      {
+        "tag": "DIV",
+        "className": "eyebrow",
+        "text": "(01)Visit us",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "visible": false,
+        "styles": {
+          "display": "flex",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "lineHeight": "21px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal 12px",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "DIV",
+        "className": "eyebrow",
+        "text": "(01)Visit us",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "visible": false,
+        "styles": {
+          "display": "flex",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "lineHeight": "21px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal 12px",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "DIV",
+        "className": "eyebrow",
+        "text": "(01)Visit us",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "visible": false,
+        "styles": {
+          "display": "flex",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "lineHeight": "21px",
+          "letterSpacing": "normal",
+          "color": "rgb(11, 21, 38)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(11, 21, 38)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal 12px",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "DIV",
+        "className": "eyebrow",
+        "text": "(01)Visit us",
+        "rect": {
+          "x": 72,
+          "y": 154,
+          "width": 108,
+          "height": 21
+        },
+        "visible": true,
+        "styles": {
+          "display": "flex",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "lineHeight": "21px",
+          "letterSpacing": "normal",
+          "color": "rgb(11, 21, 38)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(11, 21, 38)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal 12px",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "DIV",
+        "className": "eyebrow",
+        "text": "(02)Contact",
+        "rect": {
+          "x": 121,
+          "y": 1334,
+          "width": 551,
+          "height": 21
+        },
+        "visible": true,
+        "styles": {
+          "display": "flex",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "lineHeight": "21px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal 12px",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      }
+    ],
+    ".container-large": [
+      {
+        "tag": "DIV",
+        "className": "container-large",
+        "text": "Consultations and site visits by appointment\n\n\n\n\n\nLevel 4, 25 King William Street, London",
+        "rect": {
+          "x": 72,
+          "y": 0,
+          "width": 1296,
+          "height": 42
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "relative",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "13px",
+          "fontWeight": "400",
+          "lineHeight": "18.2px",
+          "letterSpacing": "normal",
+          "color": "rgba(245, 247, 250, 0.9)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgba(245, 247, 250, 0.9)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "1440px",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "DIV",
+        "className": "container-large",
+        "text": "Vaxmorhomeabout usServicesIndividualsBusinessesFamiliesIndividualsEveryday bankingChecking and savin",
+        "rect": {
+          "x": 72,
+          "y": 42,
+          "width": 1296,
+          "height": 80
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "relative",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "1440px",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "DIV",
+        "className": "container-large is-mega",
+        "text": "IndividualsBusinessesFamiliesIndividualsEveryday bankingChecking and savings accounts with no monthl",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "visible": false,
+        "styles": {
+          "display": "block",
+          "position": "relative",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "DIV",
+        "className": "container-large is-mega",
+        "text": "Main pagesPage layoutsCMS and utilityMain pagesHomepageMain landing layoutHome V2Sticky service inde",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "visible": false,
+        "styles": {
+          "display": "block",
+          "position": "relative",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "DIV",
+        "className": "container-large",
+        "text": "(01)Visit usMeet your advisor face to faceBook a meeting at one of our four offices, or ask for a vi",
+        "rect": {
+          "x": 72,
+          "y": 154,
+          "width": 1296,
+          "height": 911
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "relative",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(7, 12, 22)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "1440px",
+          "boxShadow": "none"
+        }
+      }
+    ],
+    ".button": [
+      {
+        "tag": "A",
+        "className": "button is-link w-inline-block",
+        "text": "View pricing",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "visible": false,
+        "styles": {
+          "display": "flex",
+          "position": "relative",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "lineHeight": "16px",
+          "letterSpacing": "0.32px",
+          "color": "rgb(245, 247, 250)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px",
+          "border": "0px none rgb(11, 21, 38)",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "8px",
+          "maxWidth": "100%",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "INPUT",
+        "className": "button mail w-node-_0ba671a6-bff6-8c72-f8a1-baeab09c5d21-b09c5d01 w-button w-form-loading",
+        "text": "",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "visible": false,
+        "styles": {
+          "display": "flex",
+          "position": "relative",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(245, 247, 250)",
+          "backgroundColor": "rgb(11, 21, 38)",
+          "borderRadius": "160px",
+          "border": "0px none rgb(245, 247, 250)",
+          "paddingTop": "14px",
+          "paddingBottom": "14px",
+          "paddingLeft": "32px",
+          "paddingRight": "32px",
+          "gap": "16px",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      },
+      {
+        "tag": "INPUT",
+        "className": "button mail w-node-_77e161ca-2de3-5a53-5d8c-7521e1255506-b09c5d01 w-button w-form-loading",
+        "text": "",
+        "rect": {
+          "x": 768,
+          "y": 1870,
+          "width": 551,
+          "height": 50
+        },
+        "visible": true,
+        "styles": {
+          "display": "flex",
+          "position": "relative",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(245, 247, 250)",
+          "backgroundColor": "rgb(11, 21, 38)",
+          "borderRadius": "160px",
+          "border": "0px none rgb(245, 247, 250)",
+          "paddingTop": "14px",
+          "paddingBottom": "14px",
+          "paddingLeft": "32px",
+          "paddingRight": "32px",
+          "gap": "16px",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      }
+    ],
+    "footer": [
+      {
+        "tag": "FOOTER",
+        "className": "footer-light",
+        "text": "VaxmorIndependent banking and investment advice for families, founders and institutions since 2001.B",
+        "rect": {
+          "x": 0,
+          "y": 3032,
+          "width": 1440,
+          "height": 510
+        },
+        "visible": true,
+        "styles": {
+          "display": "block",
+          "position": "static",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "22.4px",
+          "letterSpacing": "normal",
+          "color": "rgb(7, 12, 22)",
+          "backgroundColor": "rgb(235, 239, 245)",
+          "borderRadius": "0px",
+          "border": "",
+          "paddingTop": "110px",
+          "paddingBottom": "110px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "gap": "normal",
+          "maxWidth": "none",
+          "boxShadow": "none"
+        }
+      }
+    ]
+  },
+  "activeAnimationsCount": 0
+}
