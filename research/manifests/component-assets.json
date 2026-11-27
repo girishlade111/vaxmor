@@ -1,0 +1,38 @@
+{
+  "brand": {
+    "logo": "/assets/brand/6af96ebc6cca54008f8adfb3_vaxmor-dark.svg",
+    "ogImage": "/assets/brand/6b04fd8f3a90751f1ab2b9ae_vaxmor-og-image.jpg",
+    "favicon": "/assets/brand/6afd067d479b410eb1a73176_vaxmor-dark.png"
+  },
+  "fonts": {
+    "stylesheet": "/assets/fonts/fonts.css",
+    "families": ["Inter", "Geist Mono"],
+    "woff2Count": 13
+  },
+  "contact": {
+    "mapImage": "/assets/maps/6afc07f5a04eb31a0c3b7551_de8ec50489d43c1df59dddb030383b7f_screenshot-2026-11-17-at-15.52.55-1.webp"
+  },
+  "homeV1": {
+    "heroPhoto": "/assets/images/media/6afbb3b58dcfc3fe2efbb9c3_business-presentation-in-modern-office-1.webp",
+    "avatars": [
+      "/assets/images/media/6af5425e48b17c8a81d3978e_1.webp",
+      "/assets/images/media/6af5425e48b17c8a81d3973d_4.webp",
+      "/assets/images/media/6af5425e48b17c8a81d396ec_3.webp"
+    ],
+    "partnerLogos": [
+      "/assets/logos/6af5bc7c3f8d75c8745c1df8_logoipsum-343.svg",
+      "/assets/logos/6af5bc7cc9d9a21f4a748e40_logoipsum-418.svg",
+      "/assets/logos/6af5bc7cd9c8feee4b1100f1_logoipsum-330.svg",
+      "/assets/logos/6af5bc7c59a35e175a88b869_logoipsum-264.svg",
+      "/assets/logos/6af5bc7ca3bedc320e2b324e_logoipsum-262.svg",
+      "/assets/logos/6af5bc7c6b3ef6a1b0a547d0_logoipsum-410.svg"
+    ]
+  },
+  "branches": {
+    "london": "/assets/images/architecture/6afc185b581b1db4c2b6d85c_twilight-reflections-on-the-cylindrical-glass-skyscraper-1.webp",
+    "bristol": "/assets/images/architecture/6afc185bec470e75e7741dab_modernist-concrete-building-1.webp",
+    "edinburgh": "/assets/images/architecture/6afc185bab8c56af9d6173b1_modern-urban-minimalism-1.webp",
+    "manchester": "/assets/images/architecture/6afc185b581b1db4c2b6d85c_twilight-reflections-on-the-cylindrical-glass-skyscraper-1.webp"
+  },
+  "totalValidatedMasters": 96
+}

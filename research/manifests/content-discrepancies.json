@@ -1,0 +1,34 @@
+[
+  {
+    "id": "pricing-comparison-labels",
+    "route": "/pricing",
+    "category": "template-leftover-copy",
+    "referenceBehavior": "Comparison table row headers display non-banking template strings ('Site visit', 'Drawings', 'Sourcing and specification', 'Site coordination', 'Revisions') in COMPARISON_KEYS_REFERENCE.",
+    "productionBehavior": "When NEXT_PUBLIC_APP_MODE=production, PricingComparisonSection renders banking-specific keys ('Core account', 'Savings & portfolio', 'Controls & automation', 'Advisory access', 'Support & reviews') via COMPARISON_KEYS_PRODUCTION.",
+    "evidenceFile": "src/content/pricing.ts"
+  },
+  {
+    "id": "services-v3-carousel-count",
+    "route": "/services-v3",
+    "category": "cms-list-limit",
+    "referenceBehavior": "RelatedServicesCarousel limits rendered items to 5 slides (SERVICES.slice(0, 5)) when limitFiveInReference=true and APP_MODE === 'reference', matching the 5-card live DOM count observed on /services-v3.",
+    "productionBehavior": "When NEXT_PUBLIC_APP_MODE=production, RelatedServicesCarousel displays all 6 CMS service items.",
+    "evidenceFile": "src/components/services/ServiceSections.tsx"
+  },
+  {
+    "id": "branch-shared-photography",
+    "route": "/about-us",
+    "category": "duplicate-media-reference",
+    "referenceBehavior": "London and Manchester branch cards share the same building asset (/assets/images/architecture/6afc185b581b1db4c2b6d85c_twilight-reflections-on-the-cylindrical-glass-skyscraper-1.webp) as observed on the live site.",
+    "productionBehavior": "Preserved in BRANCHES with referenceOnly: true flag for downstream editorial replacement.",
+    "evidenceFile": "src/content/branches.ts"
+  },
+  {
+    "id": "footer-home-vs-about-branch-count",
+    "route": "/",
+    "category": "copy-count-mismatch",
+    "referenceBehavior": "Original marketing copy references 6 regional offices on Home while About Us lists 4 branch cards (London, Bristol, Edinburgh, Manchester).",
+    "productionBehavior": "Preserved verbatim across reference and production routes pending business copy alignment.",
+    "evidenceFile": "src/content/branches.ts"
+  }
+]
