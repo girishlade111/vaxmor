@@ -1,0 +1,838 @@
+{
+  "route": "/",
+  "title": "Vaxmor - Webflow HTML website template",
+  "metaDescription": "Vaxmor is a Webflow template for banks, wealth managers and investment firms, with clear service pages, market insights, client stories and an advisor CTA.",
+  "sections": [
+    {
+      "tag": "section",
+      "class": "section-hero-split",
+      "headings": [
+        {
+          "tag": "h1",
+          "class": "heading-style-h1",
+          "text": "Private banking, made clear for everyone"
+        }
+      ],
+      "paragraphs": [
+        "One advisor for your accounts, investments and retirement plan, with every fee shown before you commit."
+      ],
+      "links": [
+        {
+          "href": "/pricing",
+          "text": "Open an account",
+          "class": "btn w-inline-block"
+        },
+        {
+          "href": "/services-v1",
+          "text": "How it works",
+          "class": "btn w-variant-1b61d514-ac9e-2ab2-daee-0f4197e82870 w-inline-block"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d3978e_1.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d3978e_1.webp",
+          "alt": "Vaxmor client portrait",
+          "class": "avatar-item"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d3973d_4.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d3973d_4.webp",
+          "alt": "Vaxmor client portrait",
+          "class": "avatar-item"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d396ec_3.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d396ec_3.webp",
+          "alt": "Vaxmor client portrait",
+          "class": "avatar-item"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afbb3b58dcfc3fe2efbb9c3_Business%20Presentation%20in%20Modern%20Office%201.webp",
+          "local": "/assets/images/media/6afbb3b58dcfc3fe2efbb9c3_business-presentation-in-modern-office-1.webp",
+          "alt": "Vaxmor advisor meeting a client",
+          "class": "img-cover"
+        }
+      ],
+      "svgCount": 2
+    },
+    {
+      "tag": "section",
+      "class": "section-trust-bar",
+      "headings": [],
+      "paragraphs": [],
+      "links": [],
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5bc7c3f8d75c8745c1df8_logoipsum-343.svg",
+          "local": "/assets/logos/6af5bc7c3f8d75c8745c1df8_logoipsum-343.svg",
+          "alt": "Partner logo 01",
+          "class": "trust-bar-logo"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5bc7cc9d9a21f4a748e40_logoipsum-418.svg",
+          "local": "/assets/logos/6af5bc7cc9d9a21f4a748e40_logoipsum-418.svg",
+          "alt": "Partner logo 02",
+          "class": "trust-bar-logo"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5bc7cd9c8feee4b1100f1_logoipsum-330.svg",
+          "local": "/assets/logos/6af5bc7cd9c8feee4b1100f1_logoipsum-330.svg",
+          "alt": "Partner logo 03",
+          "class": "trust-bar-logo"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5bc7c59a35e175a88b869_logoipsum-264.svg",
+          "local": "/assets/logos/6af5bc7c59a35e175a88b869_logoipsum-264.svg",
+          "alt": "Partner logo 04",
+          "class": "trust-bar-logo"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5bc7ca3bedc320e2b324e_logoipsum-262.svg",
+          "local": "/assets/logos/6af5bc7ca3bedc320e2b324e_logoipsum-262.svg",
+          "alt": "Partner logo 05",
+          "class": "trust-bar-logo"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5bc7c6b3ef6a1b0a547d0_logoipsum-410.svg",
+          "local": "/assets/logos/6af5bc7c6b3ef6a1b0a547d0_logoipsum-410.svg",
+          "alt": "Partner logo 06",
+          "class": "trust-bar-logo"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5bc7c3f8d75c8745c1df8_logoipsum-343.svg",
+          "local": "/assets/logos/6af5bc7c3f8d75c8745c1df8_logoipsum-343.svg",
+          "alt": "Partner logo 01",
+          "class": "trust-bar-logo"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5bc7cc9d9a21f4a748e40_logoipsum-418.svg",
+          "local": "/assets/logos/6af5bc7cc9d9a21f4a748e40_logoipsum-418.svg",
+          "alt": "Partner logo 02",
+          "class": "trust-bar-logo"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5bc7cd9c8feee4b1100f1_logoipsum-330.svg",
+          "local": "/assets/logos/6af5bc7cd9c8feee4b1100f1_logoipsum-330.svg",
+          "alt": "Partner logo 03",
+          "class": "trust-bar-logo"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5bc7c59a35e175a88b869_logoipsum-264.svg",
+          "local": "/assets/logos/6af5bc7c59a35e175a88b869_logoipsum-264.svg",
+          "alt": "Partner logo 04",
+          "class": "trust-bar-logo"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5bc7ca3bedc320e2b324e_logoipsum-262.svg",
+          "local": "/assets/logos/6af5bc7ca3bedc320e2b324e_logoipsum-262.svg",
+          "alt": "Partner logo 05",
+          "class": "trust-bar-logo"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5bc7c6b3ef6a1b0a547d0_logoipsum-410.svg",
+          "local": "/assets/logos/6af5bc7c6b3ef6a1b0a547d0_logoipsum-410.svg",
+          "alt": "Partner logo 06",
+          "class": "trust-bar-logo"
+        }
+      ],
+      "svgCount": 0
+    },
+    {
+      "tag": "section",
+      "class": "section-about-intro",
+      "headings": [
+        {
+          "tag": "h2",
+          "class": "heading-style-h2",
+          "text": "Independent banking built on trust, discipline and long-term thinking."
+        }
+      ],
+      "paragraphs": [
+        "For over two decades we have helped families, founders and institutions grow and protect what matters, with advice that always puts your goals first."
+      ],
+      "links": [
+        {
+          "href": "/about-us",
+          "text": "More about us",
+          "class": "btn w-inline-block"
+        }
+      ],
+      "images": [],
+      "svgCount": 1
+    },
+    {
+      "tag": "section",
+      "class": "section-services-split",
+      "headings": [
+        {
+          "tag": "h2",
+          "class": "heading-style-h2",
+          "text": "Banking and investing, handled by one team."
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h4 is-on-dark",
+          "text": "Wealth management"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "Wealth management"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "Investment portfolios"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "Private banking"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "Retirement planning"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "Business banking"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "Lending and mortgages"
+        }
+      ],
+      "paragraphs": [
+        "Choose a single service or combine them into one plan, managed by an advisor who sees the full picture.",
+        "One advisor and one plan for everything you own, earn and want to pass on.",
+        "One advisor and one plan for everything you own, earn and want to pass on.",
+        "Diversified, low-cost portfolios matched to your goals and your risk tolerance.",
+        "A dedicated banker, priority service and accounts built around your cash flow.",
+        "A clear answer to when you can stop working, and how to get there.",
+        "Accounts, payments and treasury tools for growing companies.",
+        "Mortgages and credit structured around your full financial position."
+      ],
+      "links": [
+        {
+          "href": "/services-v1",
+          "text": "All services",
+          "class": "btn w-inline-block"
+        },
+        {
+          "href": "/services/wealth-management",
+          "text": "01 Wealth management One advisor and one plan for everything you own, earn and want to pass on. View service",
+          "class": "services-featured-card w-inline-block"
+        },
+        {
+          "href": "/services/wealth-management",
+          "text": "01 Wealth management One advisor and one plan for everything you own, earn and want to pass on.",
+          "class": "services-card is-link w-inline-block"
+        },
+        {
+          "href": "/services/investment-portfolios",
+          "text": "02 Investment portfolios Diversified, low-cost portfolios matched to your goals and your risk tolerance.",
+          "class": "services-card is-link w-inline-block"
+        },
+        {
+          "href": "/services/private-banking",
+          "text": "03 Private banking A dedicated banker, priority service and accounts built around your cash flow.",
+          "class": "services-card is-link w-inline-block"
+        },
+        {
+          "href": "/services/retirement-planning",
+          "text": "04 Retirement planning A clear answer to when you can stop working, and how to get there.",
+          "class": "services-card is-link w-inline-block"
+        },
+        {
+          "href": "/services/business-banking",
+          "text": "05 Business banking Accounts, payments and treasury tools for growing companies.",
+          "class": "services-card is-link w-inline-block"
+        },
+        {
+          "href": "/services/lending-and-mortgages",
+          "text": "06 Lending and mortgages Mortgages and credit structured around your full financial position.",
+          "class": "services-card is-link w-inline-block"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afbc18a61535adcef60ebd3_Professional%20Discussion%20(7)%201.webp",
+          "local": "/assets/images/media/6afbc18a61535adcef60ebd3_professional-discussion-7-1.webp",
+          "alt": "Vaxmor advisors meeting with clients",
+          "class": "services-split-img"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bca9e9aa5d8af67e6a9_6afc7370d88ed11e06008a4b_Business%2520Meeting%2520Scene%2520(11)%25201.webp",
+          "local": "/assets/images/media/6afd0bca9e9aa5d8af67e6a9_6afc7370d88ed11e06008a4b_business-meeting-scene-11-1.webp",
+          "alt": "Advisor walking two clients through a plan on a whiteboard",
+          "class": "services-split-img"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6b4_6afc72e17f3094a19b1c1d33_Woman%2520Analyzing%2520Financial%2520Charts%2520on%2520Desktop%2520Monitor%25201.webp",
+          "local": "/assets/images/media/6afd0bcb9e9aa5d8af67e6b4_6afc72e17f3094a19b1c1d33_woman-analyzing-financial-charts-on-desktop-monitor-1.webp",
+          "alt": "Woman analysing market charts on a desktop monitor",
+          "class": "services-split-img"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6b8_6afc72390c98fa052de6ef1f_Professional%2520Discussion%2520(10)%25201.webp",
+          "local": "/assets/images/media/6afd0bcb9e9aa5d8af67e6b8_6afc72390c98fa052de6ef1f_professional-discussion-10-1.webp",
+          "alt": "Private banker reviewing a document with a client in his office",
+          "class": "services-split-img"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bd47ca8a3e5b2ef8386_6afc7400af8765fd91d016c6_Elderly%2520Couple%2520Relaxing%25201.webp",
+          "local": "/assets/images/media/6afd0bd47ca8a3e5b2ef8386_6afc7400af8765fd91d016c6_elderly-couple-relaxing-1.webp",
+          "alt": "Retired couple relaxing together on a sofa at home",
+          "class": "services-split-img"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6cc_6afc732840cd4db306e3afae_Business%2520Meeting%2520Scene%2520(10)%25201.webp",
+          "local": "/assets/images/media/6afd0bcb9e9aa5d8af67e6cc_6afc732840cd4db306e3afae_business-meeting-scene-10-1.webp",
+          "alt": "Business owner leading a meeting with his team",
+          "class": "services-split-img"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6d7_6afc72891e2e0fde6bc0778b_Key%2520Exchange%2520Outdoors%2520(1)%25201.webp",
+          "local": "/assets/images/media/6afd0bcb9e9aa5d8af67e6d7_6afc72891e2e0fde6bc0778b_key-exchange-outdoors-1-1.webp",
+          "alt": "Couple receiving the keys to their new home",
+          "class": "services-split-img"
+        }
+      ],
+      "svgCount": 15
+    },
+    {
+      "tag": "section",
+      "class": "section-card-feature",
+      "headings": [
+        {
+          "tag": "h2",
+          "class": "heading-style-h2",
+          "text": "More than a card. A smarter way to spend."
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "Contactless payments"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "2% cashback"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "Instant card lock"
+        }
+      ],
+      "paragraphs": [
+        "The Vaxmor Metal card comes with no foreign transaction fees, cashback on every purchase and full control from your phone.",
+        "Tap to pay in stores worldwide, or add your card to your phone's digital wallet.",
+        "Earn on every purchase with no categories to track and no cap on rewards.",
+        "Freeze and unfreeze your card in one tap if it ever goes missing."
+      ],
+      "links": [
+        {
+          "href": "/pricing",
+          "text": "Get your card",
+          "class": "btn w-inline-block"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5d2261bad0a2eb02fa963_051a2a9e83e019d0bc490ff4c0fdc901_vaxmor-card-metal.webp",
+          "local": "/assets/graphics/cards/6af5d2261bad0a2eb02fa963_051a2a9e83e019d0bc490ff4c0fdc901_vaxmor-card-metal.webp",
+          "alt": "Sample Vaxmor debit card in navy metal finish",
+          "class": "card-feature-img is-back"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5d2260986746faf76c14b_5c666efe4db681b62cd2b0ad24f91542_vaxmor-card-everyday.webp",
+          "local": "/assets/graphics/cards/6af5d2260986746faf76c14b_5c666efe4db681b62cd2b0ad24f91542_vaxmor-card-everyday.webp",
+          "alt": "Sample Vaxmor everyday debit card in bright blue",
+          "class": "card-feature-img"
+        }
+      ],
+      "svgCount": 4
+    },
+    {
+      "tag": "section",
+      "class": "section-segments",
+      "headings": [
+        {
+          "tag": "h2",
+          "class": "heading-style-h2",
+          "text": "Built to support every business"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "Small businesses"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "Startups"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "Enterprises"
+        }
+      ],
+      "paragraphs": [
+        "Accounts, credit and payments that grow with you, from your first invoice to global payroll.",
+        "A business account, card and invoicing in one place, with a banker who answers.",
+        "Fast onboarding, venture debt and treasury tools built for funded teams.",
+        "Cash management, trade finance and FX across every entity you run."
+      ],
+      "links": [
+        {
+          "href": "/contact-v2",
+          "text": "Open an account",
+          "class": "btn w-inline-block"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afbc18ab615b4f78b0053ea_Artisan%20Retailer%20in%20Concentration%201.webp",
+          "local": "/assets/images/media/6afbc18ab615b4f78b0053ea_artisan-retailer-in-concentration-1.webp",
+          "alt": "Small business owner at work",
+          "class": "segments-img is-active"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afbc18a29e3a56f0daa0f47_Collaborative%20Workspace%20(1)%201.webp",
+          "local": "/assets/images/media/6afbc18a29e3a56f0daa0f47_collaborative-workspace-1-1.webp",
+          "alt": "Startup founder in a meeting",
+          "class": "segments-img"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afbc18a29e3a56f0daa0f56_Office%20Meeting%20Discussion%20(1)%201.webp",
+          "local": "/assets/images/media/6afbc18a29e3a56f0daa0f56_office-meeting-discussion-1-1.webp",
+          "alt": "Enterprise finance team",
+          "class": "segments-img"
+        }
+      ],
+      "svgCount": 1
+    },
+    {
+      "tag": "section",
+      "class": "section-steps",
+      "headings": [
+        {
+          "tag": "h2",
+          "class": "heading-style-h2",
+          "text": "Open an account in three steps"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "Apply online"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "Verify your ID"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "Meet your banker"
+        }
+      ],
+      "paragraphs": [
+        "About 10 minutes",
+        "Fill in a short form from your phone or laptop.",
+        "Scan your passport and take a quick selfie.",
+        "Your named banker calls to set up your plan."
+      ],
+      "links": [],
+      "images": [],
+      "svgCount": 4
+    },
+    {
+      "tag": "section",
+      "class": "section-app",
+      "headings": [
+        {
+          "tag": "h2",
+          "class": "heading-style-h2",
+          "text": "Every account, one app"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "Instant transfers"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "Card controls"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "Savings goals"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "Spending insights"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "Biometric sign-in"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "Scheduled payments"
+        }
+      ],
+      "paragraphs": [
+        "Send money, freeze a card and check your spending from your phone, with the same protection as our branches.",
+        "Pay anyone in seconds with just a phone number.",
+        "Freeze a card or set spending limits in one tap.",
+        "Round up purchases and watch each goal fill.",
+        "See where every month goes, sorted by category.",
+        "Open the app with your face or fingerprint.",
+        "Set rent and bills once, get a reminder before each one."
+      ],
+      "links": [],
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af8f54c79c0e4f0e735b18a_vaxmor-app-screen.webp",
+          "local": "/assets/graphics/app/6af8f54c79c0e4f0e735b18a_vaxmor-app-screen.webp",
+          "alt": "Vaxmor mobile banking app home screen",
+          "class": "app-screen"
+        }
+      ],
+      "svgCount": 6
+    },
+    {
+      "tag": "section",
+      "class": "section-testimonial-featured",
+      "headings": [
+        {
+          "tag": "h2",
+          "class": "heading-style-h2",
+          "text": "What our clients say"
+        }
+      ],
+      "paragraphs": [
+        "For the first time I can see everything we own on one page. Our advisor turned six accounts and three pensions into one plan we actually understand.",
+        "Marcus B.",
+        "Wealth management client, London",
+        "They asked about our plans for the next ten years before they mentioned a single fund. The portfolio still matches the goals we set together.",
+        "Patricia H.",
+        "Investment portfolio client, Manchester",
+        "Fees are shown in full, reports arrive on time, and my advisor tells me plainly when doing nothing is the right move. That honesty is rare.",
+        "Daniel K.",
+        "Private banking client, Edinburgh",
+        "Our bank saw self-employed income as a problem. Vaxmor read the whole balance sheet and approved our mortgage in under three weeks.",
+        "James P.",
+        "Mortgage client, Bristol",
+        "We kept putting off retirement planning. One afternoon with our advisor gave us a date, a monthly number and, finally, some peace of mind.",
+        "Maria S.",
+        "Retirement planning client, Leeds",
+        "International payments that used to take days now clear the same afternoon, and our idle cash finally earns something. Finance stopped being a bottleneck.",
+        "Thomas W.",
+        "Business banking client, Founder",
+        "When markets dropped, my advisor called me before I could panic. We stayed the course, and I am glad every single day that we did.",
+        "Karen D.",
+        "Wealth management client, Cambridge",
+        "They asked about our plans for the next ten years before they mentioned a single fund. The portfolio still matches the goals we set together.",
+        "Patricia H.",
+        "Investment portfolio client, Manchester",
+        "Fees are shown in full, reports arrive on time, and my advisor tells me plainly when doing nothing is the right move. That honesty is rare.",
+        "Daniel K.",
+        "Private banking client, Edinburgh",
+        "Our bank saw self-employed income as a problem. Vaxmor read the whole balance sheet and approved our mortgage in under three weeks.",
+        "James P.",
+        "Mortgage client, Bristol",
+        "We kept putting off retirement planning. One afternoon with our advisor gave us a date, a monthly number and, finally, some peace of mind.",
+        "Maria S.",
+        "Retirement planning client, Leeds",
+        "International payments that used to take days now clear the same afternoon, and our idle cash finally earns something. Finance stopped being a bottleneck.",
+        "Thomas W.",
+        "Business banking client, Founder",
+        "When markets dropped, my advisor called me before I could panic. We stayed the course, and I am glad every single day that we did.",
+        "Karen D.",
+        "Wealth management client, Cambridge"
+      ],
+      "links": [],
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3993a_6aa79f39e4ffc4ef227d9100_6a92eddafe4ac4fdef10d1c2_Neutral%252520Portrait%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d3993a_6aa79f39e4ffc4ef227d9100_6a92eddafe4ac4fdef10d1c2_neutral-20portrait-201.webp",
+          "alt": "Marcus B.",
+          "class": "founder-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398b5_6aa79f39e4ffc4ef227d90f0_6a92eddafe4ac4fdef10d225_Confident%252520Woman%252520Portrait%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d398b5_6aa79f39e4ffc4ef227d90f0_6a92eddafe4ac4fdef10d225_confident-20woman-20portrait-201.webp",
+          "alt": "Patricia H.",
+          "class": "founder-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d39905_6aa79f39e4ffc4ef227d90fd_6a92eddafe4ac4fdef10d24a_Portrait%252520of%252520a%252520Gentleman%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d39905_6aa79f39e4ffc4ef227d90fd_6a92eddafe4ac4fdef10d24a_portrait-20of-20a-20gentleman-201.webp",
+          "alt": "Daniel K.",
+          "class": "founder-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398d7_6aa79f39e4ffc4ef227d90f3_6a92eddafe4ac4fdef10d1d8_Portrait%252520of%252520a%252520Man%252520(1)%2525202.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d398d7_6aa79f39e4ffc4ef227d90f3_6a92eddafe4ac4fdef10d1d8_portrait-20of-20a-20man-20-1-202.webp",
+          "alt": "James P.",
+          "class": "founder-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3995d_6aa79f39e4ffc4ef227d9106_6a92eddafe4ac4fdef10d24c_Professional%252520Portrait%252520(10)%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d3995d_6aa79f39e4ffc4ef227d9106_6a92eddafe4ac4fdef10d24c_professional-20portrait-20-10-201.webp",
+          "alt": "Maria S.",
+          "class": "founder-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3991d_6aa79f39e4ffc4ef227d90fa_6a92eddafe4ac4fdef10d24b_Portrait%252520of%252520a%252520Man%252520(2)%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d3991d_6aa79f39e4ffc4ef227d90fa_6a92eddafe4ac4fdef10d24b_portrait-20of-20a-20man-20-2-201.webp",
+          "alt": "Thomas W.",
+          "class": "founder-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398ee_6aa79f39e4ffc4ef227d90f6_6a92eddafe4ac4fdef10d1ef_Professional%252520Portrait%252520(11)%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d398ee_6aa79f39e4ffc4ef227d90f6_6a92eddafe4ac4fdef10d1ef_professional-20portrait-20-11-201.webp",
+          "alt": "Karen D.",
+          "class": "founder-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398b5_6aa79f39e4ffc4ef227d90f0_6a92eddafe4ac4fdef10d225_Confident%252520Woman%252520Portrait%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d398b5_6aa79f39e4ffc4ef227d90f0_6a92eddafe4ac4fdef10d225_confident-20woman-20portrait-201.webp",
+          "alt": "Patricia H.",
+          "class": "founder-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d39905_6aa79f39e4ffc4ef227d90fd_6a92eddafe4ac4fdef10d24a_Portrait%252520of%252520a%252520Gentleman%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d39905_6aa79f39e4ffc4ef227d90fd_6a92eddafe4ac4fdef10d24a_portrait-20of-20a-20gentleman-201.webp",
+          "alt": "Daniel K.",
+          "class": "founder-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398d7_6aa79f39e4ffc4ef227d90f3_6a92eddafe4ac4fdef10d1d8_Portrait%252520of%252520a%252520Man%252520(1)%2525202.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d398d7_6aa79f39e4ffc4ef227d90f3_6a92eddafe4ac4fdef10d1d8_portrait-20of-20a-20man-20-1-202.webp",
+          "alt": "James P.",
+          "class": "founder-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3995d_6aa79f39e4ffc4ef227d9106_6a92eddafe4ac4fdef10d24c_Professional%252520Portrait%252520(10)%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d3995d_6aa79f39e4ffc4ef227d9106_6a92eddafe4ac4fdef10d24c_professional-20portrait-20-10-201.webp",
+          "alt": "Maria S.",
+          "class": "founder-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3991d_6aa79f39e4ffc4ef227d90fa_6a92eddafe4ac4fdef10d24b_Portrait%252520of%252520a%252520Man%252520(2)%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d3991d_6aa79f39e4ffc4ef227d90fa_6a92eddafe4ac4fdef10d24b_portrait-20of-20a-20man-20-2-201.webp",
+          "alt": "Thomas W.",
+          "class": "founder-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398ee_6aa79f39e4ffc4ef227d90f6_6a92eddafe4ac4fdef10d1ef_Professional%252520Portrait%252520(11)%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d398ee_6aa79f39e4ffc4ef227d90f6_6a92eddafe4ac4fdef10d1ef_professional-20portrait-20-11-201.webp",
+          "alt": "Karen D.",
+          "class": "founder-avatar"
+        }
+      ],
+      "svgCount": 1
+    },
+    {
+      "tag": "section",
+      "class": "section-facts",
+      "headings": [],
+      "paragraphs": [
+        "of our clients stay with Vaxmor for more than five years.",
+        "$4.2B",
+        "Assets under management",
+        "12,000",
+        "Active clients",
+        "25 years",
+        "Advising families and founders",
+        "Based on client accounts active between 2019 and 2025."
+      ],
+      "links": [],
+      "images": [],
+      "svgCount": 0
+    },
+    {
+      "tag": "section",
+      "class": "section-news",
+      "headings": [
+        {
+          "tag": "h2",
+          "class": "heading-style-h2",
+          "text": "Market notes from our advisors"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "How Much Cash Should You Really Keep?"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "What Interest Rate Changes Mean for You in 2026"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "Seven Questions to Ask Before Choosing a Financial Advisor"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h4 text-color-white",
+          "text": "Get the monthly market note"
+        }
+      ],
+      "paragraphs": [
+        "Too little cash leaves you exposed. Too much quietly loses value. Here is how we help clients find the right emergency buffer.",
+        "Rate decisions move savings, mortgages and markets at the same time. A plain-language guide to what changes and what does not.",
+        "The right advisor relationship can last decades. These are the seven questions worth asking before you sign anything.",
+        "One email a month. No sales pitch.",
+        "You are subscribed. Our next market note will arrive in your inbox.",
+        "We could not add that address. Please check it and try again."
+      ],
+      "links": [
+        {
+          "href": "/blog",
+          "text": "Read all insights",
+          "class": "btn w-variant-1b61d514-ac9e-2ab2-daee-0f4197e82870 w-inline-block"
+        },
+        {
+          "href": "/blog/how-much-cash-should-you-really-keep",
+          "text": "Saving How Much Cash Should You Really Keep? Too little cash leaves you exposed. Too much quietly loses value. Here is how we help clients find the right emergency buffer.",
+          "class": "news-row w-inline-block"
+        },
+        {
+          "href": "/blog/what-interest-rate-changes-mean-for-you-in-2026",
+          "text": "Markets What Interest Rate Changes Mean for You in 2026 Rate decisions move savings, mortgages and markets at the same time. A plain-language guide to what changes and what does not.",
+          "class": "news-row w-inline-block"
+        },
+        {
+          "href": "/blog/seven-questions-to-ask-before-choosing-a-financial-advisor",
+          "text": "Advice Seven Questions to Ask Before Choosing a Financial Advisor The right advisor relationship can last decades. These are the seven questions worth asking before you sign anything.",
+          "class": "news-row w-inline-block"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd141f81e51878ec0aedff_6afd11d9a4691909cb0cba1c_Woman%2520Using%2520Smartphone%2520(2)%25201.webp",
+          "local": "/assets/graphics/app/6afd141f81e51878ec0aedff_6afd11d9a4691909cb0cba1c_woman-using-smartphone-2-1.webp",
+          "alt": "Smiling woman checking her savings on a smartphone while relaxing on a sofa",
+          "class": "img-cover"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd141f81e51878ec0aee02_6afd1241bca7125b3b3239eb_Document%2520Signing%2520Scene%25201.webp",
+          "local": "/assets/images/media/6afd141f81e51878ec0aee02_6afd1241bca7125b3b3239eb_document-signing-scene-1.webp",
+          "alt": "Close-up of a client signing a financial agreement beside a pair of glasses",
+          "class": "img-cover"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd141f81e51878ec0aee06_6afd139d0cf70e9f0fda8954_Professional%2520Meeting%2520Scene%2520(6)%25201.webp",
+          "local": "/assets/images/media/6afd141f81e51878ec0aee06_6afd139d0cf70e9f0fda8954_professional-meeting-scene-6-1.webp",
+          "alt": "Financial advisor listening to a client across a table with a laptop",
+          "class": "img-cover"
+        }
+      ],
+      "svgCount": 0
+    },
+    {
+      "tag": "section",
+      "class": "section-faq-split",
+      "headings": [
+        {
+          "tag": "h2",
+          "class": "heading-style-h2",
+          "text": "Questions before you switch"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h4 text-color-white",
+          "text": "Still deciding?"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h6",
+          "text": "What does an account cost?"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h6",
+          "text": "How is my money protected?"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h6",
+          "text": "Can you move my existing accounts?"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h6",
+          "text": "Do I need a minimum balance?"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h6",
+          "text": "Can I bank fully from my phone?"
+        }
+      ],
+      "paragraphs": [
+        "Straight answers on fees, safety and moving your accounts.",
+        "A named banker replies within one business day.",
+        "Everyday accounts are free for the first year. Advisory fees are shown in writing before you sign anything.",
+        "Deposits are covered by your national guarantee scheme, and every login uses two-factor sign-in.",
+        "Yes. Your banker handles the transfer and redirects your regular payments for you.",
+        "There is no minimum for everyday banking. Wealth plans start from a sample threshold you can edit.",
+        "Most tasks work in the app, and our branches stay open by appointment."
+      ],
+      "links": [
+        {
+          "href": "/contact-v2",
+          "text": "Talk to an advisor",
+          "class": "btn w-variant-e9f31f79-c607-2b27-4acb-0b35343e4557 w-inline-block"
+        }
+      ],
+      "images": [],
+      "svgCount": 5
+    },
+    {
+      "tag": "section",
+      "class": "section-cta-account",
+      "headings": [
+        {
+          "tag": "h2",
+          "class": "heading-style-h2",
+          "text": "Open an account with us today"
+        }
+      ],
+      "paragraphs": [
+        "Set up in under ten minutes, with a named banker from day one."
+      ],
+      "links": [
+        {
+          "href": "/contact-v2",
+          "text": "Open account",
+          "class": "btn w-inline-block"
+        },
+        {
+          "href": "/contact-v2",
+          "text": "Talk to an advisor",
+          "class": "btn w-variant-1b61d514-ac9e-2ab2-daee-0f4197e82870 w-inline-block"
+        }
+      ],
+      "images": [],
+      "svgCount": 1
+    }
+  ]
+}

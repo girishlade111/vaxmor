@@ -1,0 +1,845 @@
+{
+  "route": "/pricing",
+  "title": "Pricing - Vaxmor - Webflow HTML website template",
+  "metaDescription": "Three account and advisory plans compared side by side in Vaxmor, a Webflow banking template, from everyday banking through to full wealth management services.",
+  "sections": [
+    {
+      "tag": "header",
+      "class": "nav",
+      "headings": [],
+      "paragraphs": [
+        "View pricing"
+      ],
+      "links": [
+        {
+          "href": "/",
+          "text": "Vaxmor",
+          "class": "nav_brand w-nav-brand"
+        },
+        {
+          "href": "/",
+          "text": "home",
+          "class": "nav_link w-inline-block"
+        },
+        {
+          "href": "/about-us",
+          "text": "about us",
+          "class": "nav_link w-inline-block"
+        },
+        {
+          "href": "/services/private-banking",
+          "text": "Everyday banking Checking and savings accounts with no monthly fees.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/pricing",
+          "text": "Credit cards Cashback and travel cards with clear, simple rates.",
+          "class": "mega-item w-inline-block w--current"
+        },
+        {
+          "href": "/services/lending-and-mortgages",
+          "text": "Home loans Fixed and variable mortgages for every stage of life.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/wealth-management",
+          "text": "Savings and deposits Term deposits that grow your money at a steady rate.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/business-banking",
+          "text": "Business accounts Multi-user accounts built for daily operations.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/lending-and-mortgages",
+          "text": "Business lending Working capital and equipment finance on fair terms.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services-v2",
+          "text": "Payments and payroll Pay suppliers and staff from one simple dashboard.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services-v2",
+          "text": "Treasury management Cash flow forecasting and liquidity tools for growth.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/private-banking",
+          "text": "Joint accounts Shared spending with separate controls for each member.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/investment-portfolios",
+          "text": "Education savings Plan ahead for school and university costs.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/retirement-planning",
+          "text": "Life and protection Cover that keeps your family secure through change.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/wealth-management",
+          "text": "Estate planning Pass on wealth with clear, well-structured trusts.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/pricing",
+          "text": "View pricing",
+          "class": "button is-link w-inline-block w--current"
+        },
+        {
+          "href": "/blog",
+          "text": "insights",
+          "class": "nav_link w-inline-block"
+        },
+        {
+          "href": "/",
+          "text": "Homepage Main landing layout",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/home-v2",
+          "text": "Home V2 Sticky service index",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/home-v3",
+          "text": "Home V3 Card-led opening",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/about-us",
+          "text": "About us Story, team and values",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/pricing",
+          "text": "Pricing Plans compared side by side",
+          "class": "mega-item is-third w-inline-block w--current"
+        },
+        {
+          "href": "/blog",
+          "text": "Insights Articles and market notes",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/services-v1",
+          "text": "Services V1 Service list and finder",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/services-v2",
+          "text": "Services V2 Image grid and comparison",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/services-v3",
+          "text": "Services V3 Service slider and process",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/contact-v1",
+          "text": "Contact V1 Form with branch details",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/contact-v2",
+          "text": "Contact V2 Form beside support details",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/contact-v3",
+          "text": "Contact V3 Form with office locations",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/services/wealth-management",
+          "text": "Service detail CMS service template",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/blog/how-much-cash-should-you-really-keep",
+          "text": "Insight detail CMS article template",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/testimonial/marcus-b",
+          "text": "Testimonial detail CMS testimonial template",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/style-guide",
+          "text": "Style guide Type, colors and components",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/instructions",
+          "text": "Instructions How the template works",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/changelog",
+          "text": "Changelog Release notes",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/licenses",
+          "text": "Licenses Fonts, images and icons",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/404",
+          "text": "404 page Page not found",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/401",
+          "text": "Password page Protected page",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/pricing",
+          "text": "Pricing",
+          "class": "nav_link w-inline-block w--current"
+        },
+        {
+          "href": "/contact-v1",
+          "text": "contact",
+          "class": "nav_link w-inline-block"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af96ebc6cca54008f8adfb3_Vaxmor%20Dark.svg",
+          "local": "/assets/brand/6af96ebc6cca54008f8adfb3_vaxmor-dark.svg",
+          "alt": "Vaxmor logo",
+          "class": "nav_logo"
+        }
+      ],
+      "svgCount": 76
+    },
+    {
+      "tag": "section",
+      "class": "section-banner w-variant-aaf93f1b-9d81-30d9-0290-06113d7fd714",
+      "headings": [
+        {
+          "tag": "h1",
+          "class": "heading-style-h1 text-color-white",
+          "text": "Clear fees, shown before you commit"
+        },
+        {
+          "tag": "h2",
+          "class": "heading-style-h6 text-color-white",
+          "text": "Choose the plan that fits where you are today, from free everyday banking to full wealth management. Every fee is written down up front, with no hidden commissions or exit penalties."
+        }
+      ],
+      "paragraphs": [],
+      "links": [],
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc05196ffe4f8553611c76_Typing%20on%20Laptop%201.webp",
+          "local": "/assets/images/media/6afc05196ffe4f8553611c76_typing-on-laptop-1.webp",
+          "alt": "Hands typing on a laptop keyboard",
+          "class": "parallax-img"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc3f82aa31e8988f72b25a_Professional%20Discussion%20(9)%201.webp",
+          "local": "/assets/images/media/6afc3f82aa31e8988f72b25a_professional-discussion-9-1.webp",
+          "alt": "",
+          "class": "banner-editorial-img"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc05196ffe4f8553611c76_Typing%20on%20Laptop%201.webp",
+          "local": "/assets/images/media/6afc05196ffe4f8553611c76_typing-on-laptop-1.webp",
+          "alt": "",
+          "class": "banner-editorial-img"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc05196ffe4f8553611c76_Typing%20on%20Laptop%201.webp",
+          "local": "/assets/images/media/6afc05196ffe4f8553611c76_typing-on-laptop-1.webp",
+          "alt": "",
+          "class": "banner-editorial-img"
+        }
+      ],
+      "svgCount": 0
+    },
+    {
+      "tag": "section",
+      "class": "section-pricing",
+      "headings": [
+        {
+          "tag": "h2",
+          "class": "heading-style-h3",
+          "text": "Personal plans, priced in plain numbers"
+        },
+        {
+          "tag": "h2",
+          "class": "heading-style-h3",
+          "text": "Personal plans, priced in plain numbers"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "href": "/contact-v1",
+          "text": "Open an account",
+          "class": "btn w-inline-block"
+        },
+        {
+          "href": "/contact-v2",
+          "text": "Start investing",
+          "class": "btn w-variant-bff2d5ba-46aa-95df-d1dd-63949699ce23 w-inline-block"
+        },
+        {
+          "href": "/contact-v3",
+          "text": "Talk to an advisor",
+          "class": "btn w-inline-block"
+        },
+        {
+          "href": "/contact-v1",
+          "text": "Open an account",
+          "class": "btn w-inline-block"
+        },
+        {
+          "href": "/contact-v2",
+          "text": "Start investing",
+          "class": "btn w-variant-bff2d5ba-46aa-95df-d1dd-63949699ce23 w-inline-block"
+        },
+        {
+          "href": "/contact-v3",
+          "text": "Talk to an advisor",
+          "class": "btn w-inline-block"
+        }
+      ],
+      "images": [],
+      "svgCount": 15
+    },
+    {
+      "tag": "section",
+      "class": "section-pricing",
+      "headings": [
+        {
+          "tag": "h2",
+          "class": "heading-style-h3",
+          "text": "Business plans for every size of company"
+        },
+        {
+          "tag": "h2",
+          "class": "heading-style-h3",
+          "text": "Business plans for every size of company"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "href": "/contact-v1",
+          "text": "Open a business account",
+          "class": "btn w-inline-block"
+        },
+        {
+          "href": "/contact-v2",
+          "text": "Choose Growth",
+          "class": "btn w-variant-bff2d5ba-46aa-95df-d1dd-63949699ce23 w-inline-block"
+        },
+        {
+          "href": "/contact-v3",
+          "text": "Talk to our team",
+          "class": "btn w-inline-block"
+        },
+        {
+          "href": "/contact-v1",
+          "text": "Open a business account",
+          "class": "btn w-inline-block"
+        },
+        {
+          "href": "/contact-v2",
+          "text": "Choose Growth",
+          "class": "btn w-variant-bff2d5ba-46aa-95df-d1dd-63949699ce23 w-inline-block"
+        },
+        {
+          "href": "/contact-v3",
+          "text": "Talk to our team",
+          "class": "btn w-inline-block"
+        }
+      ],
+      "images": [],
+      "svgCount": 15
+    },
+    {
+      "tag": "section",
+      "class": "section-compare",
+      "headings": [
+        {
+          "tag": "h2",
+          "class": "heading-style-h2",
+          "text": "How each service is priced"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5 is-compare-name",
+          "text": "Private banking"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5 is-compare-name",
+          "text": "Investment portfolios"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5 is-compare-name",
+          "text": "Wealth management"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5 is-compare-name",
+          "text": "Retirement planning"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5 is-compare-name",
+          "text": "Business banking"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5 is-compare-name",
+          "text": "Lending and mortgages"
+        }
+      ],
+      "paragraphs": [
+        "Minimums and fees for every service on one table, so you can budget before your first call.",
+        "Service",
+        "Best for",
+        "Minimum",
+        "Fee",
+        "Best for",
+        "High earners and professionals",
+        "Minimum",
+        "$250,000",
+        "Fee",
+        "From 0.20% a year",
+        "View",
+        "Best for",
+        "First-time and growing investors",
+        "Minimum",
+        "$5,000",
+        "Fee",
+        "0.45% a year",
+        "View",
+        "Best for",
+        "Families and business owners",
+        "Minimum",
+        "$1,000,000",
+        "Fee",
+        "0.80% a year",
+        "View",
+        "Best for",
+        "Ages 45 and over",
+        "Minimum",
+        "No minimum",
+        "Fee",
+        "Fixed planning fee",
+        "View",
+        "Best for",
+        "Founders and small businesses",
+        "Minimum",
+        "No minimum",
+        "Fee",
+        "$0 a month",
+        "View",
+        "Best for",
+        "Home buyers and businesses",
+        "Minimum",
+        "Case by case",
+        "Fee",
+        "Rate set on review",
+        "View",
+        "Sample figures for illustration. Replace with your own rates and terms."
+      ],
+      "links": [
+        {
+          "href": "/services/private-banking",
+          "text": "Private banking Best for High earners and professionals Minimum $250,000 Fee From 0.20% a year View",
+          "class": "compare-row w-inline-block"
+        },
+        {
+          "href": "/services/investment-portfolios",
+          "text": "Investment portfolios Best for First-time and growing investors Minimum $5,000 Fee 0.45% a year View",
+          "class": "compare-row w-inline-block"
+        },
+        {
+          "href": "/services/wealth-management",
+          "text": "Wealth management Best for Families and business owners Minimum $1,000,000 Fee 0.80% a year View",
+          "class": "compare-row w-inline-block"
+        },
+        {
+          "href": "/services/retirement-planning",
+          "text": "Retirement planning Best for Ages 45 and over Minimum No minimum Fee Fixed planning fee View",
+          "class": "compare-row w-inline-block"
+        },
+        {
+          "href": "/services/business-banking",
+          "text": "Business banking Best for Founders and small businesses Minimum No minimum Fee $0 a month View",
+          "class": "compare-row w-inline-block"
+        },
+        {
+          "href": "/services/lending-and-mortgages",
+          "text": "Lending and mortgages Best for Home buyers and businesses Minimum Case by case Fee Rate set on review View",
+          "class": "compare-row w-inline-block"
+        },
+        {
+          "href": "/contact-v1",
+          "text": "Talk to an advisor",
+          "class": "btn w-variant-1b61d514-ac9e-2ab2-daee-0f4197e82870 w-inline-block"
+        }
+      ],
+      "images": [],
+      "svgCount": 6
+    },
+    {
+      "tag": "section",
+      "class": "section-testimonial-featured",
+      "headings": [
+        {
+          "tag": "h2",
+          "class": "heading-style-h2",
+          "text": "Clients on what they pay and what they get"
+        }
+      ],
+      "paragraphs": [
+        "For the first time I can see everything we own on one page. Our advisor turned six accounts and three pensions into one plan we actually understand.",
+        "Marcus B.",
+        "Wealth management client, London",
+        "They asked about our plans for the next ten years before they mentioned a single fund. The portfolio still matches the goals we set together.",
+        "Patricia H.",
+        "Investment portfolio client, Manchester",
+        "Fees are shown in full, reports arrive on time, and my advisor tells me plainly when doing nothing is the right move. That honesty is rare.",
+        "Daniel K.",
+        "Private banking client, Edinburgh",
+        "Our bank saw self-employed income as a problem. Vaxmor read the whole balance sheet and approved our mortgage in under three weeks.",
+        "James P.",
+        "Mortgage client, Bristol",
+        "We kept putting off retirement planning. One afternoon with our advisor gave us a date, a monthly number and, finally, some peace of mind.",
+        "Maria S.",
+        "Retirement planning client, Leeds",
+        "International payments that used to take days now clear the same afternoon, and our idle cash finally earns something. Finance stopped being a bottleneck.",
+        "Thomas W.",
+        "Business banking client, Founder",
+        "When markets dropped, my advisor called me before I could panic. We stayed the course, and I am glad every single day that we did.",
+        "Karen D.",
+        "Wealth management client, Cambridge",
+        "They asked about our plans for the next ten years before they mentioned a single fund. The portfolio still matches the goals we set together.",
+        "Patricia H.",
+        "Investment portfolio client, Manchester",
+        "Fees are shown in full, reports arrive on time, and my advisor tells me plainly when doing nothing is the right move. That honesty is rare.",
+        "Daniel K.",
+        "Private banking client, Edinburgh",
+        "Our bank saw self-employed income as a problem. Vaxmor read the whole balance sheet and approved our mortgage in under three weeks.",
+        "James P.",
+        "Mortgage client, Bristol",
+        "We kept putting off retirement planning. One afternoon with our advisor gave us a date, a monthly number and, finally, some peace of mind.",
+        "Maria S.",
+        "Retirement planning client, Leeds",
+        "International payments that used to take days now clear the same afternoon, and our idle cash finally earns something. Finance stopped being a bottleneck.",
+        "Thomas W.",
+        "Business banking client, Founder",
+        "When markets dropped, my advisor called me before I could panic. We stayed the course, and I am glad every single day that we did.",
+        "Karen D.",
+        "Wealth management client, Cambridge"
+      ],
+      "links": [],
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3993a_6aa79f39e4ffc4ef227d9100_6a92eddafe4ac4fdef10d1c2_Neutral%252520Portrait%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d3993a_6aa79f39e4ffc4ef227d9100_6a92eddafe4ac4fdef10d1c2_neutral-20portrait-201.webp",
+          "alt": "Marcus B.",
+          "class": "founder-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398b5_6aa79f39e4ffc4ef227d90f0_6a92eddafe4ac4fdef10d225_Confident%252520Woman%252520Portrait%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d398b5_6aa79f39e4ffc4ef227d90f0_6a92eddafe4ac4fdef10d225_confident-20woman-20portrait-201.webp",
+          "alt": "Patricia H.",
+          "class": "founder-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d39905_6aa79f39e4ffc4ef227d90fd_6a92eddafe4ac4fdef10d24a_Portrait%252520of%252520a%252520Gentleman%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d39905_6aa79f39e4ffc4ef227d90fd_6a92eddafe4ac4fdef10d24a_portrait-20of-20a-20gentleman-201.webp",
+          "alt": "Daniel K.",
+          "class": "founder-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398d7_6aa79f39e4ffc4ef227d90f3_6a92eddafe4ac4fdef10d1d8_Portrait%252520of%252520a%252520Man%252520(1)%2525202.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d398d7_6aa79f39e4ffc4ef227d90f3_6a92eddafe4ac4fdef10d1d8_portrait-20of-20a-20man-20-1-202.webp",
+          "alt": "James P.",
+          "class": "founder-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3995d_6aa79f39e4ffc4ef227d9106_6a92eddafe4ac4fdef10d24c_Professional%252520Portrait%252520(10)%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d3995d_6aa79f39e4ffc4ef227d9106_6a92eddafe4ac4fdef10d24c_professional-20portrait-20-10-201.webp",
+          "alt": "Maria S.",
+          "class": "founder-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3991d_6aa79f39e4ffc4ef227d90fa_6a92eddafe4ac4fdef10d24b_Portrait%252520of%252520a%252520Man%252520(2)%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d3991d_6aa79f39e4ffc4ef227d90fa_6a92eddafe4ac4fdef10d24b_portrait-20of-20a-20man-20-2-201.webp",
+          "alt": "Thomas W.",
+          "class": "founder-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398ee_6aa79f39e4ffc4ef227d90f6_6a92eddafe4ac4fdef10d1ef_Professional%252520Portrait%252520(11)%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d398ee_6aa79f39e4ffc4ef227d90f6_6a92eddafe4ac4fdef10d1ef_professional-20portrait-20-11-201.webp",
+          "alt": "Karen D.",
+          "class": "founder-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398b5_6aa79f39e4ffc4ef227d90f0_6a92eddafe4ac4fdef10d225_Confident%252520Woman%252520Portrait%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d398b5_6aa79f39e4ffc4ef227d90f0_6a92eddafe4ac4fdef10d225_confident-20woman-20portrait-201.webp",
+          "alt": "Patricia H.",
+          "class": "founder-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d39905_6aa79f39e4ffc4ef227d90fd_6a92eddafe4ac4fdef10d24a_Portrait%252520of%252520a%252520Gentleman%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d39905_6aa79f39e4ffc4ef227d90fd_6a92eddafe4ac4fdef10d24a_portrait-20of-20a-20gentleman-201.webp",
+          "alt": "Daniel K.",
+          "class": "founder-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398d7_6aa79f39e4ffc4ef227d90f3_6a92eddafe4ac4fdef10d1d8_Portrait%252520of%252520a%252520Man%252520(1)%2525202.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d398d7_6aa79f39e4ffc4ef227d90f3_6a92eddafe4ac4fdef10d1d8_portrait-20of-20a-20man-20-1-202.webp",
+          "alt": "James P.",
+          "class": "founder-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3995d_6aa79f39e4ffc4ef227d9106_6a92eddafe4ac4fdef10d24c_Professional%252520Portrait%252520(10)%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d3995d_6aa79f39e4ffc4ef227d9106_6a92eddafe4ac4fdef10d24c_professional-20portrait-20-10-201.webp",
+          "alt": "Maria S.",
+          "class": "founder-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3991d_6aa79f39e4ffc4ef227d90fa_6a92eddafe4ac4fdef10d24b_Portrait%252520of%252520a%252520Man%252520(2)%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d3991d_6aa79f39e4ffc4ef227d90fa_6a92eddafe4ac4fdef10d24b_portrait-20of-20a-20man-20-2-201.webp",
+          "alt": "Thomas W.",
+          "class": "founder-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398ee_6aa79f39e4ffc4ef227d90f6_6a92eddafe4ac4fdef10d1ef_Professional%252520Portrait%252520(11)%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d398ee_6aa79f39e4ffc4ef227d90f6_6a92eddafe4ac4fdef10d1ef_professional-20portrait-20-11-201.webp",
+          "alt": "Karen D.",
+          "class": "founder-avatar"
+        }
+      ],
+      "svgCount": 1
+    },
+    {
+      "tag": "section",
+      "class": "section-faq-split",
+      "headings": [
+        {
+          "tag": "h2",
+          "class": "heading-style-h2",
+          "text": "Questions about fees and billing"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h4 text-color-white",
+          "text": "Want a personal fee quote?"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h6",
+          "text": "When are fees taken?"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h6",
+          "text": "Are there exit or transfer fees?"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h6",
+          "text": "What does the percentage fee cover?"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h6",
+          "text": "Can I switch plans later?"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h6",
+          "text": "Do you earn commission on products?"
+        }
+      ],
+      "paragraphs": [
+        "How we charge, when we charge and what is never charged.",
+        "Your advisor can model the exact fees for your balances before you sign up.",
+        "Monthly plan fees are taken on the first of each month. Percentage fees are worked out daily and charged monthly.",
+        "No. You can move or close any account or portfolio without an exit penalty.",
+        "Portfolio management, rebalancing, reporting and advisor reviews. Fund costs are listed separately on every statement.",
+        "Yes. Move up or down at any time, and the new fee applies from the next billing month.",
+        "Never. We are paid only by your fees, so no recommendation earns us a commission."
+      ],
+      "links": [
+        {
+          "href": "/contact-v1",
+          "text": "Talk to an advisor",
+          "class": "btn w-variant-e9f31f79-c607-2b27-4acb-0b35343e4557 w-inline-block"
+        }
+      ],
+      "images": [],
+      "svgCount": 5
+    },
+    {
+      "tag": "section",
+      "class": "section-cta-account",
+      "headings": [
+        {
+          "tag": "h2",
+          "class": "heading-style-h2",
+          "text": "Pick a plan and open your account"
+        }
+      ],
+      "paragraphs": [
+        "Start on the free Everyday plan and upgrade only when your plans call for it."
+      ],
+      "links": [
+        {
+          "href": "/contact-v1",
+          "text": "Open account",
+          "class": "btn w-inline-block"
+        },
+        {
+          "href": "/contact-v2",
+          "text": "Talk to an advisor",
+          "class": "btn w-variant-1b61d514-ac9e-2ab2-daee-0f4197e82870 w-inline-block"
+        }
+      ],
+      "images": [],
+      "svgCount": 1
+    },
+    {
+      "tag": "footer",
+      "class": "footer-light",
+      "headings": [
+        {
+          "tag": "h2",
+          "class": "heading-style-h4",
+          "text": "Talk to an advisor"
+        }
+      ],
+      "paragraphs": [
+        "A named banker replies within one business day.",
+        "Independent banking and investment advice for families, founders and institutions since 2001.",
+        "Banking",
+        "Company",
+        "Template",
+        "Sample disclosure: deposits are protected up to the limits of your national guarantee scheme. Investments can fall as well as rise.",
+        "\u00a9 2026 Vaxmor. All rights reserved. Powered by"
+      ],
+      "links": [
+        {
+          "href": "/contact-v2",
+          "text": "Book a call",
+          "class": "btn w-inline-block"
+        },
+        {
+          "href": "/",
+          "text": "Vaxmor",
+          "class": "footer-logo-link w-inline-block"
+        },
+        {
+          "href": "https://www.facebook.com/",
+          "text": "",
+          "class": "footer-social w-inline-block"
+        },
+        {
+          "href": "https://www.instagram.com/",
+          "text": "",
+          "class": "footer-social w-inline-block"
+        },
+        {
+          "href": "https://www.pinterest.com/",
+          "text": "",
+          "class": "footer-social w-inline-block"
+        },
+        {
+          "href": "/services-v1",
+          "text": "Private banking",
+          "class": "footer-link"
+        },
+        {
+          "href": "/services-v1",
+          "text": "Investments",
+          "class": "footer-link"
+        },
+        {
+          "href": "/services-v1",
+          "text": "Business lending",
+          "class": "footer-link"
+        },
+        {
+          "href": "/pricing",
+          "text": "Cards",
+          "class": "footer-link w--current"
+        },
+        {
+          "href": "/about-us",
+          "text": "About us",
+          "class": "footer-link"
+        },
+        {
+          "href": "/blog",
+          "text": "Insights",
+          "class": "footer-link"
+        },
+        {
+          "href": "/pricing",
+          "text": "Pricing",
+          "class": "footer-link w--current"
+        },
+        {
+          "href": "/contact-v2",
+          "text": "Contact",
+          "class": "footer-link"
+        },
+        {
+          "href": "/style-guide",
+          "text": "Style guide",
+          "class": "footer-link"
+        },
+        {
+          "href": "/instructions",
+          "text": "Instructions",
+          "class": "footer-link"
+        },
+        {
+          "href": "/licenses",
+          "text": "Licenses",
+          "class": "footer-link"
+        },
+        {
+          "href": "/changelog",
+          "text": "Changelog",
+          "class": "footer-link"
+        },
+        {
+          "href": "https://webflow.com/",
+          "text": "Webflow",
+          "class": "text-size-small"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af96ebc6cca54008f8adfb3_Vaxmor%20Dark.svg",
+          "local": "/assets/brand/6af96ebc6cca54008f8adfb3_vaxmor-dark.svg",
+          "alt": "Vaxmor logo",
+          "class": "footer-logo"
+        }
+      ],
+      "svgCount": 3
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "/401": {
+    "title": "Protected Page - Vaxmor - Webflow HTML website template",
+    "metaDescription": "This page is password protected. Enter the password to continue, or return to the Vaxmor homepage to keep exploring this banking and investment template.",
+    "sectionCount": 2
+  },
+  "/404": {
+    "title": "Page Not Found - Vaxmor - Webflow HTML website template",
+    "metaDescription": "That page could not be found. Head back to the Vaxmor homepage, browse our banking and investment services, or contact an advisor about your financial goals.",
+    "sectionCount": 2
+  },
+  "/about-us": {
+    "title": "About Us - Vaxmor - Webflow HTML website template",
+    "metaDescription": "Meet the team behind Vaxmor, a Webflow template for banks and investment firms, with the founding story, advisors, values and the figures behind them.",
+    "sectionCount": 10
+  },
+  "/blog": {
+    "title": "Insights - Vaxmor Webflow HTML website template",
+    "metaDescription": "Market insights from Vaxmor advisors on investing, saving, retirement, interest rates and business finance, written in plain language for everyday clients.",
+    "sectionCount": 5
+  },
+  "/blog/cash-flow-habits-of-fast-growing-businesses": {
+    "title": "Cash Flow Habits of Fast-Growing Businesses  - Vaxmor - Webflow HTML website template",
+    "metaDescription": "Cash flow habits of fast-growing businesses, from thirteen-week forecasts to faster invoicing, that help companies keep growing without a cash crunch.",
+    "sectionCount": 4
+  },
+  "/blog/diversification-explained-without-the-jargon": {
+    "title": "Diversification, Explained Without the Jargon  - Vaxmor - Webflow HTML website template",
+    "metaDescription": "Diversification explained without the jargon: how spreading money across companies, regions and asset types protects your portfolio, and where it stops.",
+    "sectionCount": 4
+  },
+  "/blog/how-much-cash-should-you-really-keep": {
+    "title": "How Much Cash Should You Really Keep?  - Vaxmor - Webflow HTML website template",
+    "metaDescription": "How much cash should you keep in savings? A practical guide to sizing your emergency fund, where to hold it and when the rest is better invested for growth.",
+    "sectionCount": 4
+  },
+  "/blog/planning-retirement-in-your-forties-five-steps": {
+    "title": "Planning Retirement in Your Forties: Five Steps  - Vaxmor - Webflow HTML website template",
+    "metaDescription": "Planning retirement in your forties: five practical steps, from finding old pensions to raising contributions, that make the biggest long-term difference.",
+    "sectionCount": 4
+  },
+  "/blog/seven-questions-to-ask-before-choosing-a-financial-advisor": {
+    "title": "Seven Questions to Ask Before Choosing a Financial Advisor  - Vaxmor - Webflow HTML website template",
+    "metaDescription": "Seven questions to ask before choosing a financial advisor, from how they are paid to who you will speak to, so you can compare firms with confidence.",
+    "sectionCount": 4
+  },
+  "/blog/what-interest-rate-changes-mean-for-you-in-2026": {
+    "title": "What Interest Rate Changes Mean for You in 2026  - Vaxmor - Webflow HTML website template",
+    "metaDescription": "What interest rate changes in 2026 mean for your savings, mortgage and investments, explained in plain language by Vaxmor advisors, with what to do next.",
+    "sectionCount": 4
+  },
+  "/changelog": {
+    "title": "Changelog - Vaxmor - Webflow HTML website template",
+    "metaDescription": "Release notes for Vaxmor, a Webflow template for banks and investment firms, listing what changed in each version, when it shipped and why it matters.",
+    "sectionCount": 3
+  },
+  "/contact-v1": {
+    "title": "Contact V1 - Vaxmor - Webflow HTML website template",
+    "metaDescription": "Book a call with an advisor. A short enquiry form paired with branch details, opening hours and a reply within one business day, in Vaxmor for Webflow.",
+    "sectionCount": 6
+  },
+  "/contact-v2": {
+    "title": "Contact V2 - Vaxmor - Webflow HTML website template",
+    "metaDescription": "The second contact layout in Vaxmor, a Webflow banking template, with the enquiry form set beside full branch, phone and client support details for visitors.",
+    "sectionCount": 6
+  },
+  "/contact-v3": {
+    "title": "Contact V3 - Vaxmor - Webflow HTML website template",
+    "metaDescription": "The third contact layout in Vaxmor, a Webflow investment template, pairing an advisor enquiry form with office locations, business hours and direct contacts.",
+    "sectionCount": 6
+  },
+  "/home-v2": {
+    "title": "Home V2 - Vaxmor - Webflow HTML website template",
+    "metaDescription": "The second home layout in Vaxmor, a Webflow banking template, with a sticky service index, larger imagery and a calmer opening built for private banks.",
+    "sectionCount": 12
+  },
+  "/home-v3": {
+    "title": "Home V3 - Vaxmor - Webflow HTML website template",
+    "metaDescription": "The third home layout in Vaxmor, a Webflow banking template, opening with a card-led hero, live stats and an app preview for digital banks and card issuers.",
+    "sectionCount": 10
+  },
+  "/": {
+    "title": "Vaxmor - Webflow HTML website template",
+    "metaDescription": "Vaxmor is a Webflow template for banks, wealth managers and investment firms, with clear service pages, market insights, client stories and an advisor CTA.",
+    "sectionCount": 13
+  },
+  "/instructions": {
+    "title": "Instructions - Vaxmor - Webflow HTML website template",
+    "metaDescription": "Setup notes for Vaxmor, a Webflow template for banks and investment firms, explaining how its components, variables and CMS collections all fit together.",
+    "sectionCount": 3
+  },
+  "/licenses": {
+    "title": "Licenses - Vaxmor - Webflow HTML website template",
+    "metaDescription": "Licensing details for the images, fonts, icons and other assets used across Vaxmor, a Webflow template for banks, wealth managers and investment firms.",
+    "sectionCount": 3
+  },
+  "/nonexistent-404-test_404": {
+    "title": "Page Not Found - Vaxmor - Webflow HTML website template",
+    "metaDescription": "That page could not be found. Head back to the Vaxmor homepage, browse our banking and investment services, or contact an advisor about your financial goals.",
+    "sectionCount": 2
+  },
+  "/pricing": {
+    "title": "Pricing - Vaxmor - Webflow HTML website template",
+    "metaDescription": "Three account and advisory plans compared side by side in Vaxmor, a Webflow banking template, from everyday banking through to full wealth management services.",
+    "sectionCount": 9
+  },
+  "/services-v1": {
+    "title": "Services V1 - Vaxmor - Webflow HTML website template",
+    "metaDescription": "Wealth management, investment portfolios, private banking, retirement planning, business banking and lending, presented in Vaxmor's first services layout.",
+    "sectionCount": 10
+  },
+  "/services-v2": {
+    "title": "Services V2 - Vaxmor - Webflow HTML website template",
+    "metaDescription": "The second services layout in Vaxmor, a Webflow banking template, with each financial service arranged in a compact grid and paired with its own image.",
+    "sectionCount": 11
+  },
+  "/services-v3": {
+    "title": "Services V3 - Vaxmor - Webflow HTML website template",
+    "metaDescription": "The third services layout in Vaxmor, a Webflow banking template, with a service slider, a five-step process, security panel and the advisors behind each plan.",
+    "sectionCount": 11
+  },
+  "/services/business-banking": {
+    "title": "Business banking  - Vaxmor - Webflow HTML website template",
+    "metaDescription": "Business banking for growing companies: current accounts, international payments, payroll integration and treasury tools, with a dedicated specialist.",
+    "sectionCount": 9
+  },
+  "/services/investment-portfolios": {
+    "title": "Investment portfolios  - Vaxmor - Webflow HTML website template",
+    "metaDescription": "Diversified, low-cost investment portfolios matched to your goals and risk level, with every holding and fee visible and plain-language quarterly reports.",
+    "sectionCount": 9
+  },
+  "/services/lending-and-mortgages": {
+    "title": "Lending and mortgages  - Vaxmor - Webflow HTML website template",
+    "metaDescription": "Mortgages, buy-to-let finance and secured credit assessed on your whole balance sheet, with clear terms, fast decisions and no early repayment surprises.",
+    "sectionCount": 9
+  },
+  "/services/private-banking": {
+    "title": "Private banking  - Vaxmor - Webflow HTML website template",
+    "metaDescription": "Private banking with a named relationship banker, multi-currency accounts and priority access to lending and foreign exchange, built around your cash flow.",
+    "sectionCount": 9
+  },
+  "/services/retirement-planning": {
+    "title": "Retirement planning  - Vaxmor - Webflow HTML website template",
+    "metaDescription": "Retirement planning that shows when you can stop working and how to get there, with pension consolidation, a drawdown strategy and a yearly plan check-in.",
+    "sectionCount": 9
+  },
+  "/services/wealth-management": {
+    "title": "Wealth management  - Vaxmor - Webflow HTML website template",
+    "metaDescription": "Wealth management with one advisor and one written plan for your investments, property, pensions, tax and estate, reviewed twice a year as your life moves.",
+    "sectionCount": 9
+  },
+  "/style-guide": {
+    "title": "Style Guide - Vaxmor - Webflow HTML website template",
+    "metaDescription": "Typography, color, spacing and component reference for Vaxmor, a Webflow template for banks and investment firms, with every single style kept in one place.",
+    "sectionCount": 1
+  },
+  "/testimonial/daniel-k": {
+    "title": "Daniel K.  - Vaxmor - Webflow HTML website template",
+    "metaDescription": "Daniel K., a private banking client in Edinburgh, on transparent fees, reports that arrive on time and an advisor honest enough to recommend doing nothing.",
+    "sectionCount": 5
+  },
+  "/testimonial/james-p": {
+    "title": "James P.  - Vaxmor - Webflow HTML website template",
+    "metaDescription": "James P., a self-employed mortgage client in Bristol, on how Vaxmor read his whole balance sheet and approved the family mortgage in under three weeks.",
+    "sectionCount": 5
+  },
+  "/testimonial/karen-d": {
+    "title": "Karen D.  - Vaxmor - Webflow HTML website template",
+    "metaDescription": "Karen D., a wealth management client in Cambridge, on the advisor who called before she could panic in a market drop, and why staying the course paid off.",
+    "sectionCount": 5
+  },
+  "/testimonial/marcus-b": {
+    "title": "Marcus B.  - Vaxmor - Webflow HTML website template",
+    "metaDescription": "Marcus B., a Vaxmor wealth management client in London, on how one advisor turned six accounts and three pensions into a single plan the family understands.",
+    "sectionCount": 5
+  },
+  "/testimonial/maria-s": {
+    "title": "Maria S.  - Vaxmor - Webflow HTML website template",
+    "metaDescription": "Maria S., a retirement planning client in Leeds, on how one afternoon with a Vaxmor advisor gave her family a retirement date, a monthly number and calm.",
+    "sectionCount": 5
+  },
+  "/testimonial/patricia-h": {
+    "title": "Patricia H.  - Vaxmor - Webflow HTML website template",
+    "metaDescription": "Patricia H., an investment portfolio client in Manchester, on why Vaxmor asked about her ten-year plans first and built a portfolio around those goals.",
+    "sectionCount": 5
+  },
+  "/testimonial/robert-m": {
+    "title": "Robert M.  - Vaxmor - Webflow HTML website template",
+    "metaDescription": "Robert M., a private banking client in Oxford, on a ten-minute account opening and a named banker who feels like a private bank without the stuffiness.",
+    "sectionCount": 5
+  },
+  "/testimonial/thomas-w": {
+    "title": "Thomas W.  - Vaxmor - Webflow HTML website template",
+    "metaDescription": "Thomas W., a business banking client and founder, on same-day international payments and idle cash that now earns, so finance no longer slows his growth.",
+    "sectionCount": 5
+  }
+}

@@ -1,0 +1,554 @@
+{
+  "route": "/testimonial/karen-d",
+  "title": "Karen D.  - Vaxmor - Webflow HTML website template",
+  "metaDescription": "Karen D., a wealth management client in Cambridge, on the advisor who called before she could panic in a market drop, and why staying the course paid off.",
+  "sections": [
+    {
+      "tag": "header",
+      "class": "nav",
+      "headings": [],
+      "paragraphs": [
+        "View pricing"
+      ],
+      "links": [
+        {
+          "href": "/",
+          "text": "Vaxmor",
+          "class": "nav_brand w-nav-brand"
+        },
+        {
+          "href": "/",
+          "text": "home",
+          "class": "nav_link w-inline-block"
+        },
+        {
+          "href": "/about-us",
+          "text": "about us",
+          "class": "nav_link w-inline-block"
+        },
+        {
+          "href": "/services/private-banking",
+          "text": "Everyday banking Checking and savings accounts with no monthly fees.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/pricing",
+          "text": "Credit cards Cashback and travel cards with clear, simple rates.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/lending-and-mortgages",
+          "text": "Home loans Fixed and variable mortgages for every stage of life.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/investment-portfolios",
+          "text": "Savings and deposits Term deposits that grow your money at a steady rate.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/business-banking",
+          "text": "Business accounts Multi-user accounts built for daily operations.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/lending-and-mortgages",
+          "text": "Business lending Working capital and equipment finance on fair terms.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/business-banking",
+          "text": "Payments and payroll Pay suppliers and staff from one simple dashboard.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/wealth-management",
+          "text": "Treasury management Cash flow forecasting and liquidity tools for growth.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/private-banking",
+          "text": "Joint accounts Shared spending with separate controls for each member.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/investment-portfolios",
+          "text": "Education savings Plan ahead for school and university costs.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/retirement-planning",
+          "text": "Life and protection Cover that keeps your family secure through change.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/wealth-management",
+          "text": "Estate planning Pass on wealth with clear, well-structured trusts.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/pricing",
+          "text": "View pricing",
+          "class": "button is-link w-inline-block"
+        },
+        {
+          "href": "/blog",
+          "text": "insights",
+          "class": "nav_link w-inline-block"
+        },
+        {
+          "href": "/",
+          "text": "Homepage Main landing layout",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/home-v2",
+          "text": "Home V2 Sticky service index",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/home-v3",
+          "text": "Home V3 Card-led opening",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/about-us",
+          "text": "About us Story, team and values",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/pricing",
+          "text": "Pricing Plans compared side by side",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/blog",
+          "text": "Insights Articles and market notes",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/services-v1",
+          "text": "Services V1 Service list and finder",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/services-v2",
+          "text": "Services V2 Image grid and comparison",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/services-v3",
+          "text": "Services V3 Service slider and process",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/contact-v1",
+          "text": "Contact V1 Form with branch details",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/contact-v2",
+          "text": "Contact V2 Form beside support details",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/contact-v3",
+          "text": "Contact V3 Form with office locations",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/services/wealth-management",
+          "text": "Service detail CMS service template",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/blog/how-much-cash-should-you-really-keep",
+          "text": "Insight detail CMS article template",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/testimonial/marcus-b",
+          "text": "Testimonial detail CMS testimonial template",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/style-guide",
+          "text": "Style guide Type, colors and components",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/instructions",
+          "text": "Instructions How the template works",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/changelog",
+          "text": "Changelog Release notes",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/licenses",
+          "text": "Licenses Fonts, images and icons",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/404",
+          "text": "404 page Page not found",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/401",
+          "text": "Password page Protected page",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/pricing",
+          "text": "Pricing",
+          "class": "nav_link w-inline-block"
+        },
+        {
+          "href": "/contact-v1",
+          "text": "contact",
+          "class": "nav_link w-inline-block"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af96ebc6cca54008f8adfb3_Vaxmor%20Dark.svg",
+          "local": "/assets/brand/6af96ebc6cca54008f8adfb3_vaxmor-dark.svg",
+          "alt": "Vaxmor logo",
+          "class": "nav_logo"
+        }
+      ],
+      "svgCount": 76
+    },
+    {
+      "tag": "section",
+      "class": "section-banner w-variant-aaf93f1b-9d81-30d9-0290-06113d7fd714",
+      "headings": [
+        {
+          "tag": "h1",
+          "class": "heading-style-h1 text-color-white",
+          "text": "Karen D."
+        },
+        {
+          "tag": "h2",
+          "class": "heading-style-h6 text-color-white",
+          "text": "When markets dropped, my advisor called me before I could panic. We stayed the course, and I am glad every single day that we did."
+        }
+      ],
+      "paragraphs": [],
+      "links": [],
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398ee_6aa79f39e4ffc4ef227d90f6_6a92eddafe4ac4fdef10d1ef_Professional%252520Portrait%252520(11)%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d398ee_6aa79f39e4ffc4ef227d90f6_6a92eddafe4ac4fdef10d1ef_professional-20portrait-20-11-201.webp",
+          "alt": "Portrait of Karen D., a Vaxmor client",
+          "class": "parallax-img"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc3f82aa31e8988f72b25a_Professional%20Discussion%20(9)%201.webp",
+          "local": "/assets/images/media/6afc3f82aa31e8988f72b25a_professional-discussion-9-1.webp",
+          "alt": "",
+          "class": "banner-editorial-img"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398ee_6aa79f39e4ffc4ef227d90f6_6a92eddafe4ac4fdef10d1ef_Professional%252520Portrait%252520(11)%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d398ee_6aa79f39e4ffc4ef227d90f6_6a92eddafe4ac4fdef10d1ef_professional-20portrait-20-11-201.webp",
+          "alt": "",
+          "class": "banner-editorial-img"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398ee_6aa79f39e4ffc4ef227d90f6_6a92eddafe4ac4fdef10d1ef_Professional%252520Portrait%252520(11)%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d398ee_6aa79f39e4ffc4ef227d90f6_6a92eddafe4ac4fdef10d1ef_professional-20portrait-20-11-201.webp",
+          "alt": "",
+          "class": "banner-editorial-img"
+        }
+      ],
+      "svgCount": 0
+    },
+    {
+      "tag": "section",
+      "class": "section-testimonial-featured",
+      "headings": [
+        {
+          "tag": "h2",
+          "class": "heading-style-h2",
+          "text": "What our clients say"
+        }
+      ],
+      "paragraphs": [
+        "For the first time I can see everything we own on one page. Our advisor turned six accounts and three pensions into one plan we actually understand.",
+        "Marcus B.",
+        "Wealth management client, London",
+        "They asked about our plans for the next ten years before they mentioned a single fund. The portfolio still matches the goals we set together.",
+        "Patricia H.",
+        "Investment portfolio client, Manchester",
+        "Fees are shown in full, reports arrive on time, and my advisor tells me plainly when doing nothing is the right move. That honesty is rare.",
+        "Daniel K.",
+        "Private banking client, Edinburgh",
+        "Our bank saw self-employed income as a problem. Vaxmor read the whole balance sheet and approved our mortgage in under three weeks.",
+        "James P.",
+        "Mortgage client, Bristol",
+        "We kept putting off retirement planning. One afternoon with our advisor gave us a date, a monthly number and, finally, some peace of mind.",
+        "Maria S.",
+        "Retirement planning client, Leeds",
+        "International payments that used to take days now clear the same afternoon, and our idle cash finally earns something. Finance stopped being a bottleneck.",
+        "Thomas W.",
+        "Business banking client, Founder",
+        "When markets dropped, my advisor called me before I could panic. We stayed the course, and I am glad every single day that we did.",
+        "Karen D.",
+        "Wealth management client, Cambridge",
+        "They asked about our plans for the next ten years before they mentioned a single fund. The portfolio still matches the goals we set together.",
+        "Patricia H.",
+        "Investment portfolio client, Manchester",
+        "Fees are shown in full, reports arrive on time, and my advisor tells me plainly when doing nothing is the right move. That honesty is rare.",
+        "Daniel K.",
+        "Private banking client, Edinburgh",
+        "Our bank saw self-employed income as a problem. Vaxmor read the whole balance sheet and approved our mortgage in under three weeks.",
+        "James P.",
+        "Mortgage client, Bristol",
+        "We kept putting off retirement planning. One afternoon with our advisor gave us a date, a monthly number and, finally, some peace of mind.",
+        "Maria S.",
+        "Retirement planning client, Leeds",
+        "International payments that used to take days now clear the same afternoon, and our idle cash finally earns something. Finance stopped being a bottleneck.",
+        "Thomas W.",
+        "Business banking client, Founder",
+        "When markets dropped, my advisor called me before I could panic. We stayed the course, and I am glad every single day that we did.",
+        "Karen D.",
+        "Wealth management client, Cambridge"
+      ],
+      "links": [],
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3993a_6aa79f39e4ffc4ef227d9100_6a92eddafe4ac4fdef10d1c2_Neutral%252520Portrait%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d3993a_6aa79f39e4ffc4ef227d9100_6a92eddafe4ac4fdef10d1c2_neutral-20portrait-201.webp",
+          "alt": "Marcus B.",
+          "class": "founder-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398b5_6aa79f39e4ffc4ef227d90f0_6a92eddafe4ac4fdef10d225_Confident%252520Woman%252520Portrait%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d398b5_6aa79f39e4ffc4ef227d90f0_6a92eddafe4ac4fdef10d225_confident-20woman-20portrait-201.webp",
+          "alt": "Patricia H.",
+          "class": "founder-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d39905_6aa79f39e4ffc4ef227d90fd_6a92eddafe4ac4fdef10d24a_Portrait%252520of%252520a%252520Gentleman%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d39905_6aa79f39e4ffc4ef227d90fd_6a92eddafe4ac4fdef10d24a_portrait-20of-20a-20gentleman-201.webp",
+          "alt": "Daniel K.",
+          "class": "founder-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398d7_6aa79f39e4ffc4ef227d90f3_6a92eddafe4ac4fdef10d1d8_Portrait%252520of%252520a%252520Man%252520(1)%2525202.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d398d7_6aa79f39e4ffc4ef227d90f3_6a92eddafe4ac4fdef10d1d8_portrait-20of-20a-20man-20-1-202.webp",
+          "alt": "James P.",
+          "class": "founder-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3995d_6aa79f39e4ffc4ef227d9106_6a92eddafe4ac4fdef10d24c_Professional%252520Portrait%252520(10)%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d3995d_6aa79f39e4ffc4ef227d9106_6a92eddafe4ac4fdef10d24c_professional-20portrait-20-10-201.webp",
+          "alt": "Maria S.",
+          "class": "founder-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3991d_6aa79f39e4ffc4ef227d90fa_6a92eddafe4ac4fdef10d24b_Portrait%252520of%252520a%252520Man%252520(2)%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d3991d_6aa79f39e4ffc4ef227d90fa_6a92eddafe4ac4fdef10d24b_portrait-20of-20a-20man-20-2-201.webp",
+          "alt": "Thomas W.",
+          "class": "founder-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398ee_6aa79f39e4ffc4ef227d90f6_6a92eddafe4ac4fdef10d1ef_Professional%252520Portrait%252520(11)%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d398ee_6aa79f39e4ffc4ef227d90f6_6a92eddafe4ac4fdef10d1ef_professional-20portrait-20-11-201.webp",
+          "alt": "Karen D.",
+          "class": "founder-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398b5_6aa79f39e4ffc4ef227d90f0_6a92eddafe4ac4fdef10d225_Confident%252520Woman%252520Portrait%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d398b5_6aa79f39e4ffc4ef227d90f0_6a92eddafe4ac4fdef10d225_confident-20woman-20portrait-201.webp",
+          "alt": "Patricia H.",
+          "class": "founder-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d39905_6aa79f39e4ffc4ef227d90fd_6a92eddafe4ac4fdef10d24a_Portrait%252520of%252520a%252520Gentleman%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d39905_6aa79f39e4ffc4ef227d90fd_6a92eddafe4ac4fdef10d24a_portrait-20of-20a-20gentleman-201.webp",
+          "alt": "Daniel K.",
+          "class": "founder-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398d7_6aa79f39e4ffc4ef227d90f3_6a92eddafe4ac4fdef10d1d8_Portrait%252520of%252520a%252520Man%252520(1)%2525202.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d398d7_6aa79f39e4ffc4ef227d90f3_6a92eddafe4ac4fdef10d1d8_portrait-20of-20a-20man-20-1-202.webp",
+          "alt": "James P.",
+          "class": "founder-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3995d_6aa79f39e4ffc4ef227d9106_6a92eddafe4ac4fdef10d24c_Professional%252520Portrait%252520(10)%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d3995d_6aa79f39e4ffc4ef227d9106_6a92eddafe4ac4fdef10d24c_professional-20portrait-20-10-201.webp",
+          "alt": "Maria S.",
+          "class": "founder-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3991d_6aa79f39e4ffc4ef227d90fa_6a92eddafe4ac4fdef10d24b_Portrait%252520of%252520a%252520Man%252520(2)%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d3991d_6aa79f39e4ffc4ef227d90fa_6a92eddafe4ac4fdef10d24b_portrait-20of-20a-20man-20-2-201.webp",
+          "alt": "Thomas W.",
+          "class": "founder-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398ee_6aa79f39e4ffc4ef227d90f6_6a92eddafe4ac4fdef10d1ef_Professional%252520Portrait%252520(11)%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d398ee_6aa79f39e4ffc4ef227d90f6_6a92eddafe4ac4fdef10d1ef_professional-20portrait-20-11-201.webp",
+          "alt": "Karen D.",
+          "class": "founder-avatar"
+        }
+      ],
+      "svgCount": 1
+    },
+    {
+      "tag": "section",
+      "class": "section-cta-account",
+      "headings": [
+        {
+          "tag": "h2",
+          "class": "heading-style-h2",
+          "text": "Open an account with us today"
+        }
+      ],
+      "paragraphs": [
+        "Set up in under ten minutes, with a named banker from day one."
+      ],
+      "links": [
+        {
+          "href": "/contact-v1",
+          "text": "Open account",
+          "class": "btn w-inline-block"
+        },
+        {
+          "href": "/contact-v2",
+          "text": "Talk to an advisor",
+          "class": "btn w-variant-1b61d514-ac9e-2ab2-daee-0f4197e82870 w-inline-block"
+        }
+      ],
+      "images": [],
+      "svgCount": 1
+    },
+    {
+      "tag": "footer",
+      "class": "footer-light",
+      "headings": [
+        {
+          "tag": "h2",
+          "class": "heading-style-h4",
+          "text": "Talk to an advisor"
+        }
+      ],
+      "paragraphs": [
+        "A named banker replies within one business day.",
+        "Independent banking and investment advice for families, founders and institutions since 2001.",
+        "Banking",
+        "Company",
+        "Template",
+        "Sample disclosure: deposits are protected up to the limits of your national guarantee scheme. Investments can fall as well as rise.",
+        "\u00a9 2026 Vaxmor. All rights reserved. Powered by"
+      ],
+      "links": [
+        {
+          "href": "/contact-v2",
+          "text": "Book a call",
+          "class": "btn w-inline-block"
+        },
+        {
+          "href": "/",
+          "text": "Vaxmor",
+          "class": "footer-logo-link w-inline-block"
+        },
+        {
+          "href": "https://www.facebook.com/",
+          "text": "",
+          "class": "footer-social w-inline-block"
+        },
+        {
+          "href": "https://www.instagram.com/",
+          "text": "",
+          "class": "footer-social w-inline-block"
+        },
+        {
+          "href": "https://www.pinterest.com/",
+          "text": "",
+          "class": "footer-social w-inline-block"
+        },
+        {
+          "href": "/services-v1",
+          "text": "Private banking",
+          "class": "footer-link"
+        },
+        {
+          "href": "/services-v1",
+          "text": "Investments",
+          "class": "footer-link"
+        },
+        {
+          "href": "/services-v1",
+          "text": "Business lending",
+          "class": "footer-link"
+        },
+        {
+          "href": "/pricing",
+          "text": "Cards",
+          "class": "footer-link"
+        },
+        {
+          "href": "/about-us",
+          "text": "About us",
+          "class": "footer-link"
+        },
+        {
+          "href": "/blog",
+          "text": "Insights",
+          "class": "footer-link"
+        },
+        {
+          "href": "/pricing",
+          "text": "Pricing",
+          "class": "footer-link"
+        },
+        {
+          "href": "/contact-v2",
+          "text": "Contact",
+          "class": "footer-link"
+        },
+        {
+          "href": "/style-guide",
+          "text": "Style guide",
+          "class": "footer-link"
+        },
+        {
+          "href": "/instructions",
+          "text": "Instructions",
+          "class": "footer-link"
+        },
+        {
+          "href": "/licenses",
+          "text": "Licenses",
+          "class": "footer-link"
+        },
+        {
+          "href": "/changelog",
+          "text": "Changelog",
+          "class": "footer-link"
+        },
+        {
+          "href": "https://webflow.com/",
+          "text": "Webflow",
+          "class": "text-size-small"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af96ebc6cca54008f8adfb3_Vaxmor%20Dark.svg",
+          "local": "/assets/brand/6af96ebc6cca54008f8adfb3_vaxmor-dark.svg",
+          "alt": "Vaxmor logo",
+          "class": "footer-logo"
+        }
+      ],
+      "svgCount": 3
+    }
+  ]
+}

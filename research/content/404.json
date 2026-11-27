@@ -1,0 +1,347 @@
+{
+  "route": "/404",
+  "title": "Page Not Found - Vaxmor - Webflow HTML website template",
+  "metaDescription": "That page could not be found. Head back to the Vaxmor homepage, browse our banking and investment services, or contact an advisor about your financial goals.",
+  "sections": [
+    {
+      "tag": "header",
+      "class": "nav",
+      "headings": [],
+      "paragraphs": [
+        "View pricing"
+      ],
+      "links": [
+        {
+          "href": "/",
+          "text": "Vaxmor",
+          "class": "nav_brand w-nav-brand"
+        },
+        {
+          "href": "/",
+          "text": "home",
+          "class": "nav_link w-inline-block"
+        },
+        {
+          "href": "/about-us",
+          "text": "about us",
+          "class": "nav_link w-inline-block"
+        },
+        {
+          "href": "/services/private-banking",
+          "text": "Everyday banking Checking and savings accounts with no monthly fees.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/pricing",
+          "text": "Credit cards Cashback and travel cards with clear, simple rates.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/lending-and-mortgages",
+          "text": "Home loans Fixed and variable mortgages for every stage of life.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/investment-portfolios",
+          "text": "Savings and deposits Term deposits that grow your money at a steady rate.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/business-banking",
+          "text": "Business accounts Multi-user accounts built for daily operations.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/lending-and-mortgages",
+          "text": "Business lending Working capital and equipment finance on fair terms.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/business-banking",
+          "text": "Payments and payroll Pay suppliers and staff from one simple dashboard.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/wealth-management",
+          "text": "Treasury management Cash flow forecasting and liquidity tools for growth.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/private-banking",
+          "text": "Joint accounts Shared spending with separate controls for each member.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/investment-portfolios",
+          "text": "Education savings Plan ahead for school and university costs.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/retirement-planning",
+          "text": "Life and protection Cover that keeps your family secure through change.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/wealth-management",
+          "text": "Estate planning Pass on wealth with clear, well-structured trusts.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/pricing",
+          "text": "View pricing",
+          "class": "button is-link w-inline-block"
+        },
+        {
+          "href": "/blog",
+          "text": "insights",
+          "class": "nav_link w-inline-block"
+        },
+        {
+          "href": "/",
+          "text": "Homepage Main landing layout",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/home-v2",
+          "text": "Home V2 Sticky service index",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/home-v3",
+          "text": "Home V3 Card-led opening",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/about-us",
+          "text": "About us Story, team and values",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/pricing",
+          "text": "Pricing Plans compared side by side",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/blog",
+          "text": "Insights Articles and market notes",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/services-v1",
+          "text": "Services V1 Service list and finder",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/services-v2",
+          "text": "Services V2 Image grid and comparison",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/services-v3",
+          "text": "Services V3 Service slider and process",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/contact-v1",
+          "text": "Contact V1 Form with branch details",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/contact-v2",
+          "text": "Contact V2 Form beside support details",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/contact-v3",
+          "text": "Contact V3 Form with office locations",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/services/wealth-management",
+          "text": "Service detail CMS service template",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/blog/how-much-cash-should-you-really-keep",
+          "text": "Insight detail CMS article template",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/testimonial/marcus-b",
+          "text": "Testimonial detail CMS testimonial template",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/style-guide",
+          "text": "Style guide Type, colors and components",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/instructions",
+          "text": "Instructions How the template works",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/changelog",
+          "text": "Changelog Release notes",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/licenses",
+          "text": "Licenses Fonts, images and icons",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/404",
+          "text": "404 page Page not found",
+          "class": "mega-item is-third w-inline-block w--current"
+        },
+        {
+          "href": "/401",
+          "text": "Password page Protected page",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/pricing",
+          "text": "Pricing",
+          "class": "nav_link w-inline-block"
+        },
+        {
+          "href": "/contact-v1",
+          "text": "contact",
+          "class": "nav_link w-inline-block"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af96ebc6cca54008f8adfb3_Vaxmor%20Dark.svg",
+          "local": "/assets/brand/6af96ebc6cca54008f8adfb3_vaxmor-dark.svg",
+          "alt": "Vaxmor logo",
+          "class": "nav_logo"
+        }
+      ],
+      "svgCount": 76
+    },
+    {
+      "tag": "footer",
+      "class": "footer-light",
+      "headings": [
+        {
+          "tag": "h2",
+          "class": "heading-style-h4",
+          "text": "Talk to an advisor"
+        }
+      ],
+      "paragraphs": [
+        "A named banker replies within one business day.",
+        "Independent banking and investment advice for families, founders and institutions since 2001.",
+        "Banking",
+        "Company",
+        "Template",
+        "Sample disclosure: deposits are protected up to the limits of your national guarantee scheme. Investments can fall as well as rise.",
+        "\u00a9 2026 Vaxmor. All rights reserved. Powered by"
+      ],
+      "links": [
+        {
+          "href": "/contact-v2",
+          "text": "Book a call",
+          "class": "btn w-inline-block"
+        },
+        {
+          "href": "/",
+          "text": "Vaxmor",
+          "class": "footer-logo-link w-inline-block"
+        },
+        {
+          "href": "https://www.facebook.com/",
+          "text": "",
+          "class": "footer-social w-inline-block"
+        },
+        {
+          "href": "https://www.instagram.com/",
+          "text": "",
+          "class": "footer-social w-inline-block"
+        },
+        {
+          "href": "https://www.pinterest.com/",
+          "text": "",
+          "class": "footer-social w-inline-block"
+        },
+        {
+          "href": "/services-v1",
+          "text": "Private banking",
+          "class": "footer-link"
+        },
+        {
+          "href": "/services-v1",
+          "text": "Investments",
+          "class": "footer-link"
+        },
+        {
+          "href": "/services-v1",
+          "text": "Business lending",
+          "class": "footer-link"
+        },
+        {
+          "href": "/pricing",
+          "text": "Cards",
+          "class": "footer-link"
+        },
+        {
+          "href": "/about-us",
+          "text": "About us",
+          "class": "footer-link"
+        },
+        {
+          "href": "/blog",
+          "text": "Insights",
+          "class": "footer-link"
+        },
+        {
+          "href": "/pricing",
+          "text": "Pricing",
+          "class": "footer-link"
+        },
+        {
+          "href": "/contact-v2",
+          "text": "Contact",
+          "class": "footer-link"
+        },
+        {
+          "href": "/style-guide",
+          "text": "Style guide",
+          "class": "footer-link"
+        },
+        {
+          "href": "/instructions",
+          "text": "Instructions",
+          "class": "footer-link"
+        },
+        {
+          "href": "/licenses",
+          "text": "Licenses",
+          "class": "footer-link"
+        },
+        {
+          "href": "/changelog",
+          "text": "Changelog",
+          "class": "footer-link"
+        },
+        {
+          "href": "https://webflow.com/",
+          "text": "Webflow",
+          "class": "text-size-small"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af96ebc6cca54008f8adfb3_Vaxmor%20Dark.svg",
+          "local": "/assets/brand/6af96ebc6cca54008f8adfb3_vaxmor-dark.svg",
+          "alt": "Vaxmor logo",
+          "class": "footer-logo"
+        }
+      ],
+      "svgCount": 3
+    }
+  ]
+}

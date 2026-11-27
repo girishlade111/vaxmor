@@ -1,0 +1,52 @@
+{
+  "route": "/style-guide",
+  "title": "Style Guide - Vaxmor - Webflow HTML website template",
+  "metaDescription": "Typography, color, spacing and component reference for Vaxmor, a Webflow template for banks and investment firms, with every single style kept in one place.",
+  "sections": [
+    {
+      "tag": "section",
+      "class": "section-banner w-variant-60c2f868-6ff4-12e5-570c-45e66c7bae9a",
+      "headings": [
+        {
+          "tag": "h1",
+          "class": "heading-style-h1 text-color-white",
+          "text": "Style guide"
+        },
+        {
+          "tag": "h2",
+          "class": "heading-style-h6 text-color-white",
+          "text": "Typography, colors, spacing and components used across Vaxmor, kept in one place for quick edits."
+        }
+      ],
+      "paragraphs": [],
+      "links": [],
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc185bab8c56af9d6173b1_Modern%20Urban%20Minimalism%201.webp",
+          "local": "/assets/images/architecture/6afc185bab8c56af9d6173b1_modern-urban-minimalism-1.webp",
+          "alt": "Low white office building with a long glass facade",
+          "class": "parallax-img"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc3f82aa31e8988f72b25a_Professional%20Discussion%20(9)%201.webp",
+          "local": "/assets/images/media/6afc3f82aa31e8988f72b25a_professional-discussion-9-1.webp",
+          "alt": "",
+          "class": "banner-editorial-img"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc185bab8c56af9d6173b1_Modern%20Urban%20Minimalism%201.webp",
+          "local": "/assets/images/architecture/6afc185bab8c56af9d6173b1_modern-urban-minimalism-1.webp",
+          "alt": "",
+          "class": "banner-editorial-img"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc185bab8c56af9d6173b1_Modern%20Urban%20Minimalism%201.webp",
+          "local": "/assets/images/architecture/6afc185bab8c56af9d6173b1_modern-urban-minimalism-1.webp",
+          "alt": "",
+          "class": "banner-editorial-img"
+        }
+      ],
+      "svgCount": 0
+    }
+  ]
+}

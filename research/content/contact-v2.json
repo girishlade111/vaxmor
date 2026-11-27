@@ -1,0 +1,650 @@
+{
+  "route": "/contact-v2",
+  "title": "Contact V2 - Vaxmor - Webflow HTML website template",
+  "metaDescription": "The second contact layout in Vaxmor, a Webflow banking template, with the enquiry form set beside full branch, phone and client support details for visitors.",
+  "sections": [
+    {
+      "tag": "header",
+      "class": "nav",
+      "headings": [],
+      "paragraphs": [
+        "View pricing"
+      ],
+      "links": [
+        {
+          "href": "/",
+          "text": "Vaxmor",
+          "class": "nav_brand w-nav-brand"
+        },
+        {
+          "href": "/",
+          "text": "home",
+          "class": "nav_link w-inline-block"
+        },
+        {
+          "href": "/about-us",
+          "text": "about us",
+          "class": "nav_link w-inline-block"
+        },
+        {
+          "href": "/services/private-banking",
+          "text": "Everyday banking Checking and savings accounts with no monthly fees.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/pricing",
+          "text": "Credit cards Cashback and travel cards with clear, simple rates.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/lending-and-mortgages",
+          "text": "Home loans Fixed and variable mortgages for every stage of life.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/wealth-management",
+          "text": "Savings and deposits Term deposits that grow your money at a steady rate.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/business-banking",
+          "text": "Business accounts Multi-user accounts built for daily operations.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/lending-and-mortgages",
+          "text": "Business lending Working capital and equipment finance on fair terms.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services-v2",
+          "text": "Payments and payroll Pay suppliers and staff from one simple dashboard.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services-v2",
+          "text": "Treasury management Cash flow forecasting and liquidity tools for growth.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/private-banking",
+          "text": "Joint accounts Shared spending with separate controls for each member.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/investment-portfolios",
+          "text": "Education savings Plan ahead for school and university costs.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/retirement-planning",
+          "text": "Life and protection Cover that keeps your family secure through change.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/wealth-management",
+          "text": "Estate planning Pass on wealth with clear, well-structured trusts.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/pricing",
+          "text": "View pricing",
+          "class": "button is-link w-inline-block"
+        },
+        {
+          "href": "/blog",
+          "text": "insights",
+          "class": "nav_link w-inline-block"
+        },
+        {
+          "href": "/",
+          "text": "Homepage Main landing layout",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/home-v2",
+          "text": "Home V2 Sticky service index",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/home-v3",
+          "text": "Home V3 Card-led opening",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/about-us",
+          "text": "About us Story, team and values",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/pricing",
+          "text": "Pricing Plans compared side by side",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/blog",
+          "text": "Insights Articles and market notes",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/services-v1",
+          "text": "Services V1 Service list and finder",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/services-v2",
+          "text": "Services V2 Image grid and comparison",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/services-v3",
+          "text": "Services V3 Service slider and process",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/contact-v1",
+          "text": "Contact V1 Form with branch details",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/contact-v2",
+          "text": "Contact V2 Form beside support details",
+          "class": "mega-item is-third w-inline-block w--current"
+        },
+        {
+          "href": "/contact-v3",
+          "text": "Contact V3 Form with office locations",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/services/wealth-management",
+          "text": "Service detail CMS service template",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/blog/how-much-cash-should-you-really-keep",
+          "text": "Insight detail CMS article template",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/testimonial/marcus-b",
+          "text": "Testimonial detail CMS testimonial template",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/style-guide",
+          "text": "Style guide Type, colors and components",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/instructions",
+          "text": "Instructions How the template works",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/changelog",
+          "text": "Changelog Release notes",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/licenses",
+          "text": "Licenses Fonts, images and icons",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/404",
+          "text": "404 page Page not found",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/401",
+          "text": "Password page Protected page",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/pricing",
+          "text": "Pricing",
+          "class": "nav_link w-inline-block"
+        },
+        {
+          "href": "/contact-v1",
+          "text": "contact",
+          "class": "nav_link w-inline-block"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af96ebc6cca54008f8adfb3_Vaxmor%20Dark.svg",
+          "local": "/assets/brand/6af96ebc6cca54008f8adfb3_vaxmor-dark.svg",
+          "alt": "Vaxmor logo",
+          "class": "nav_logo"
+        }
+      ],
+      "svgCount": 76
+    },
+    {
+      "tag": "section",
+      "class": "section-banner w-variant-aaf93f1b-9d81-30d9-0290-06113d7fd714",
+      "headings": [
+        {
+          "tag": "h1",
+          "class": "heading-style-h1 text-color-white",
+          "text": "Support for clients and new enquiries"
+        },
+        {
+          "tag": "h2",
+          "class": "heading-style-h6 text-color-white",
+          "text": "Already banking with us or just exploring? Reach the right team by phone, email or message and get a reply within one business day."
+        }
+      ],
+      "paragraphs": [],
+      "links": [],
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc19fe519256b8fafaa834_Virtual%20Meeting%20in%20a%20Modern%20Office%201.webp",
+          "local": "/assets/images/media/6afc19fe519256b8fafaa834_virtual-meeting-in-a-modern-office-1.webp",
+          "alt": "Video call with an advisor shown on a desktop monitor",
+          "class": "parallax-img"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc3f82aa31e8988f72b25a_Professional%20Discussion%20(9)%201.webp",
+          "local": "/assets/images/media/6afc3f82aa31e8988f72b25a_professional-discussion-9-1.webp",
+          "alt": "",
+          "class": "banner-editorial-img"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc19fe519256b8fafaa834_Virtual%20Meeting%20in%20a%20Modern%20Office%201.webp",
+          "local": "/assets/images/media/6afc19fe519256b8fafaa834_virtual-meeting-in-a-modern-office-1.webp",
+          "alt": "",
+          "class": "banner-editorial-img"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc19fe519256b8fafaa834_Virtual%20Meeting%20in%20a%20Modern%20Office%201.webp",
+          "local": "/assets/images/media/6afc19fe519256b8fafaa834_virtual-meeting-in-a-modern-office-1.webp",
+          "alt": "",
+          "class": "banner-editorial-img"
+        }
+      ],
+      "svgCount": 0
+    },
+    {
+      "tag": "section",
+      "class": "section-contact",
+      "headings": [
+        {
+          "tag": "h2",
+          "class": "heading-style-h4",
+          "text": "Message our support team"
+        },
+        {
+          "tag": "h2",
+          "class": "heading-style-h5 text-color-white",
+          "text": "Help when you need it"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h3",
+          "text": "Message our support team"
+        }
+      ],
+      "paragraphs": [
+        "Thank you. Your message is with our team, and a named banker will reply within one business day.",
+        "We could not send your message. Please check each field and try again, or call us on +44 20 7946 0182.",
+        "Level 4, 25 King William Street, London EC4R 9AS",
+        "+44 20 7946 0182",
+        "hello@vaxmor.com",
+        "Existing clients can reach their banker directly. New enquiries go to the advisor best placed to help.",
+        "Thank you. An advisor has your enquiry and will be in touch within one business day.",
+        "Your enquiry did not go through. Please check each field and try again, or call us on +44 20 7946 0182."
+      ],
+      "links": [],
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc07f5a04eb31a0c3b7551_de8ec50489d43c1df59dddb030383b7f_Screenshot%202026-11-17%20at%2015.52.55%201.webp",
+          "local": "/assets/maps/6afc07f5a04eb31a0c3b7551_de8ec50489d43c1df59dddb030383b7f_screenshot-2026-11-17-at-15.52.55-1.webp",
+          "alt": "Map of central London showing the office location",
+          "class": "maps-img"
+        }
+      ],
+      "svgCount": 7
+    },
+    {
+      "tag": "section",
+      "class": "section-team w-variant-072ef146-0f33-4450-41ce-0916f2388fa8",
+      "headings": [
+        {
+          "tag": "h2",
+          "class": "heading-style-h2",
+          "text": "Choose who you would like to speak with"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "C\u00e9line Hart"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "Idris Bello"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "Rosa Kwan"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "Henrik Sund"
+        }
+      ],
+      "paragraphs": [
+        "Meet an advisor"
+      ],
+      "links": [
+        {
+          "href": "/contact-v1",
+          "text": "Meet an advisor",
+          "class": "button is-link w-inline-block"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d399fc_Professional%20Portrait%20(6)%201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d399fc_professional-portrait-6-1.webp",
+          "alt": "Smiling woman with curly hair wearing pearl earrings, a gold necklace, black top, and brown blazer.",
+          "class": "img-cover-team"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39a03_Portrait%20of%20a%20Man%201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d39a03_portrait-of-a-man-1.webp",
+          "alt": "Smiling young man with short black hair wearing a black blazer and shirt against gray background.",
+          "class": "img-cover-team"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39a05_Smiling%20Professional%20Portrait%201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d39a05_smiling-professional-portrait-1.webp",
+          "alt": "Smiling woman with long dark hair wearing a teal blazer and black shirt against a gray background.",
+          "class": "img-cover-team"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d399fe_Professional%20Portrait%20(8)%201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d399fe_professional-portrait-8-1.webp",
+          "alt": "Smiling man with short hair and beard wearing a gray blazer and white shirt against a gray background.",
+          "class": "img-cover-team"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39a0c_Professional%20Portrait%20(5)%201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d39a0c_professional-portrait-5-1.webp",
+          "alt": "Young woman with a mauve hijab wearing a cream blazer and white shirt smiling against gray background.",
+          "class": "img-cover-team"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39a0a_Smiling%20Man%20Portrait%201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d39a0a_smiling-man-portrait-1.webp",
+          "alt": "Smiling man with curly hair wearing a light blue button-up shirt against a gray background.",
+          "class": "img-cover-team"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39a02_Confident%20Portrait%201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d39a02_confident-portrait-1.webp",
+          "alt": "Confident woman with braided hair wearing a navy blazer and white blouse, against a gray background.",
+          "class": "img-cover-team"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d399fc_Professional%20Portrait%20(6)%201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d399fc_professional-portrait-6-1.webp",
+          "alt": "Smiling woman with curly hair wearing pearl earrings, a gold necklace, black top, and brown blazer.",
+          "class": "img-cover-team"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39a03_Portrait%20of%20a%20Man%201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d39a03_portrait-of-a-man-1.webp",
+          "alt": "Smiling young man with short black hair wearing a black blazer and shirt against gray background.",
+          "class": "img-cover-team"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39a05_Smiling%20Professional%20Portrait%201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d39a05_smiling-professional-portrait-1.webp",
+          "alt": "Smiling woman with long dark hair wearing a teal blazer and black shirt against a gray background.",
+          "class": "img-cover-team"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d399fe_Professional%20Portrait%20(8)%201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d399fe_professional-portrait-8-1.webp",
+          "alt": "Smiling man with short hair and beard wearing a gray blazer and white shirt against a gray background.",
+          "class": "img-cover-team"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d399fc_Professional%20Portrait%20(6)%201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d399fc_professional-portrait-6-1.webp",
+          "alt": "Smiling woman with curly hair wearing pearl earrings, a gold necklace, black top, and brown blazer.",
+          "class": "img-cover-team"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39a03_Portrait%20of%20a%20Man%201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d39a03_portrait-of-a-man-1.webp",
+          "alt": "Smiling young man with short black hair wearing a black blazer and shirt against gray background.",
+          "class": "img-cover-team"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39a05_Smiling%20Professional%20Portrait%201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d39a05_smiling-professional-portrait-1.webp",
+          "alt": "Smiling woman with long dark hair wearing a teal blazer and black shirt against a gray background.",
+          "class": "img-cover-team"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39a0c_Professional%20Portrait%20(5)%201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d39a0c_professional-portrait-5-1.webp",
+          "alt": "Young woman with a mauve hijab wearing a cream blazer and white shirt smiling against gray background.",
+          "class": "img-cover-team"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39a0a_Smiling%20Man%20Portrait%201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d39a0a_smiling-man-portrait-1.webp",
+          "alt": "Smiling man with curly hair wearing a light blue button-up shirt against a gray background.",
+          "class": "img-cover-team"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39a02_Confident%20Portrait%201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d39a02_confident-portrait-1.webp",
+          "alt": "Confident woman with braided hair wearing a navy blazer and white blouse, against a gray background.",
+          "class": "img-cover-team"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d399fc_Professional%20Portrait%20(6)%201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d399fc_professional-portrait-6-1.webp",
+          "alt": "Smiling woman with curly hair wearing pearl earrings, a gold necklace, black top, and brown blazer.",
+          "class": "img-cover-team"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39a03_Portrait%20of%20a%20Man%201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d39a03_portrait-of-a-man-1.webp",
+          "alt": "Smiling young man with short black hair wearing a black blazer and shirt against gray background.",
+          "class": "img-cover-team"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39a05_Smiling%20Professional%20Portrait%201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d39a05_smiling-professional-portrait-1.webp",
+          "alt": "Smiling woman with long dark hair wearing a teal blazer and black shirt against a gray background.",
+          "class": "img-cover-team"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d399fe_Professional%20Portrait%20(8)%201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d399fe_professional-portrait-8-1.webp",
+          "alt": "Smiling man with short hair and beard wearing a gray blazer and white shirt against a gray background.",
+          "class": "img-cover-team"
+        }
+      ],
+      "svgCount": 1
+    },
+    {
+      "tag": "section",
+      "class": "section-faq-split",
+      "headings": [
+        {
+          "tag": "h2",
+          "class": "heading-style-h2",
+          "text": "Support questions"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h4 text-color-white",
+          "text": "Card lost or stolen?"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h6",
+          "text": "How do I reset my app password?"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h6",
+          "text": "How do I report a suspicious payment?"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h6",
+          "text": "Can I change my named banker?"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h6",
+          "text": "Where do I find my statements?"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h6",
+          "text": "How do I make a complaint?"
+        }
+      ],
+      "paragraphs": [
+        "Quick answers for clients who already bank with Vaxmor.",
+        "Call our card line any time, day or night, to block it straight away.",
+        "Tap Forgot password on the sign-in screen and confirm with your face or fingerprint.",
+        "Freeze your card in the app, then call us. We investigate and update you within two business days.",
+        "Yes. Ask in the app or by email and we will introduce you to another advisor.",
+        "Monthly statements sit in the Documents tab of the app and client portal, going back seven years.",
+        "Email or call us and a senior team member responds within five business days. Sample process, edit for your region."
+      ],
+      "links": [
+        {
+          "href": "tel:+442079460182",
+          "text": "Call the card line",
+          "class": "btn w-variant-e9f31f79-c607-2b27-4acb-0b35343e4557 w-inline-block"
+        }
+      ],
+      "images": [],
+      "svgCount": 5
+    },
+    {
+      "tag": "footer",
+      "class": "footer-light",
+      "headings": [],
+      "paragraphs": [
+        "Independent banking and investment advice for families, founders and institutions since 2001.",
+        "Banking",
+        "Company",
+        "Template",
+        "Sample disclosure: deposits are protected up to the limits of your national guarantee scheme. Investments can fall as well as rise.",
+        "\u00a9 2026 Vaxmor. All rights reserved. Powered by"
+      ],
+      "links": [
+        {
+          "href": "/",
+          "text": "Vaxmor",
+          "class": "footer-logo-link w-inline-block"
+        },
+        {
+          "href": "https://www.facebook.com/",
+          "text": "",
+          "class": "footer-social w-inline-block"
+        },
+        {
+          "href": "https://www.instagram.com/",
+          "text": "",
+          "class": "footer-social w-inline-block"
+        },
+        {
+          "href": "https://www.pinterest.com/",
+          "text": "",
+          "class": "footer-social w-inline-block"
+        },
+        {
+          "href": "/services-v1",
+          "text": "Private banking",
+          "class": "footer-link"
+        },
+        {
+          "href": "/services-v1",
+          "text": "Investments",
+          "class": "footer-link"
+        },
+        {
+          "href": "/services-v1",
+          "text": "Business lending",
+          "class": "footer-link"
+        },
+        {
+          "href": "/pricing",
+          "text": "Cards",
+          "class": "footer-link"
+        },
+        {
+          "href": "/about-us",
+          "text": "About us",
+          "class": "footer-link"
+        },
+        {
+          "href": "/blog",
+          "text": "Insights",
+          "class": "footer-link"
+        },
+        {
+          "href": "/pricing",
+          "text": "Pricing",
+          "class": "footer-link"
+        },
+        {
+          "href": "/contact-v2",
+          "text": "Contact",
+          "class": "footer-link w--current"
+        },
+        {
+          "href": "/style-guide",
+          "text": "Style guide",
+          "class": "footer-link"
+        },
+        {
+          "href": "/instructions",
+          "text": "Instructions",
+          "class": "footer-link"
+        },
+        {
+          "href": "/licenses",
+          "text": "Licenses",
+          "class": "footer-link"
+        },
+        {
+          "href": "/changelog",
+          "text": "Changelog",
+          "class": "footer-link"
+        },
+        {
+          "href": "https://webflow.com/",
+          "text": "Webflow",
+          "class": "text-size-small"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af96ebc6cca54008f8adfb3_Vaxmor%20Dark.svg",
+          "local": "/assets/brand/6af96ebc6cca54008f8adfb3_vaxmor-dark.svg",
+          "alt": "Vaxmor logo",
+          "class": "footer-logo"
+        }
+      ],
+      "svgCount": 3
+    }
+  ]
+}

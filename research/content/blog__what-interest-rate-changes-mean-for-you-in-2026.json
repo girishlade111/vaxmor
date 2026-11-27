@@ -1,0 +1,467 @@
+{
+  "route": "/blog/what-interest-rate-changes-mean-for-you-in-2026",
+  "title": "What Interest Rate Changes Mean for You in 2026  - Vaxmor - Webflow HTML website template",
+  "metaDescription": "What interest rate changes in 2026 mean for your savings, mortgage and investments, explained in plain language by Vaxmor advisors, with what to do next.",
+  "sections": [
+    {
+      "tag": "header",
+      "class": "nav",
+      "headings": [],
+      "paragraphs": [
+        "View pricing"
+      ],
+      "links": [
+        {
+          "href": "/",
+          "text": "Vaxmor",
+          "class": "nav_brand w-nav-brand"
+        },
+        {
+          "href": "/",
+          "text": "home",
+          "class": "nav_link w-inline-block"
+        },
+        {
+          "href": "/about-us",
+          "text": "about us",
+          "class": "nav_link w-inline-block"
+        },
+        {
+          "href": "/services/private-banking",
+          "text": "Everyday banking Checking and savings accounts with no monthly fees.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/pricing",
+          "text": "Credit cards Cashback and travel cards with clear, simple rates.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/lending-and-mortgages",
+          "text": "Home loans Fixed and variable mortgages for every stage of life.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/investment-portfolios",
+          "text": "Savings and deposits Term deposits that grow your money at a steady rate.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/business-banking",
+          "text": "Business accounts Multi-user accounts built for daily operations.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/lending-and-mortgages",
+          "text": "Business lending Working capital and equipment finance on fair terms.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/business-banking",
+          "text": "Payments and payroll Pay suppliers and staff from one simple dashboard.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/wealth-management",
+          "text": "Treasury management Cash flow forecasting and liquidity tools for growth.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/private-banking",
+          "text": "Joint accounts Shared spending with separate controls for each member.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/investment-portfolios",
+          "text": "Education savings Plan ahead for school and university costs.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/retirement-planning",
+          "text": "Life and protection Cover that keeps your family secure through change.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/wealth-management",
+          "text": "Estate planning Pass on wealth with clear, well-structured trusts.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/pricing",
+          "text": "View pricing",
+          "class": "button is-link w-inline-block"
+        },
+        {
+          "href": "/blog",
+          "text": "insights",
+          "class": "nav_link w-inline-block"
+        },
+        {
+          "href": "/",
+          "text": "Homepage Main landing layout",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/home-v2",
+          "text": "Home V2 Sticky service index",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/home-v3",
+          "text": "Home V3 Card-led opening",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/about-us",
+          "text": "About us Story, team and values",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/pricing",
+          "text": "Pricing Plans compared side by side",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/blog",
+          "text": "Insights Articles and market notes",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/services-v1",
+          "text": "Services V1 Service list and finder",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/services-v2",
+          "text": "Services V2 Image grid and comparison",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/services-v3",
+          "text": "Services V3 Service slider and process",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/contact-v1",
+          "text": "Contact V1 Form with branch details",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/contact-v2",
+          "text": "Contact V2 Form beside support details",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/contact-v3",
+          "text": "Contact V3 Form with office locations",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/services/wealth-management",
+          "text": "Service detail CMS service template",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/blog/how-much-cash-should-you-really-keep",
+          "text": "Insight detail CMS article template",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/testimonial/marcus-b",
+          "text": "Testimonial detail CMS testimonial template",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/style-guide",
+          "text": "Style guide Type, colors and components",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/instructions",
+          "text": "Instructions How the template works",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/changelog",
+          "text": "Changelog Release notes",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/licenses",
+          "text": "Licenses Fonts, images and icons",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/404",
+          "text": "404 page Page not found",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/401",
+          "text": "Password page Protected page",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/pricing",
+          "text": "Pricing",
+          "class": "nav_link w-inline-block"
+        },
+        {
+          "href": "/contact-v1",
+          "text": "contact",
+          "class": "nav_link w-inline-block"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af96ebc6cca54008f8adfb3_Vaxmor%20Dark.svg",
+          "local": "/assets/brand/6af96ebc6cca54008f8adfb3_vaxmor-dark.svg",
+          "alt": "Vaxmor logo",
+          "class": "nav_logo"
+        }
+      ],
+      "svgCount": 76
+    },
+    {
+      "tag": "section",
+      "class": "section-blog-detail",
+      "headings": [
+        {
+          "tag": "h1",
+          "class": "heading-style-h2",
+          "text": "What Interest Rate Changes Mean for You in 2026"
+        },
+        {
+          "tag": "h2",
+          "class": "",
+          "text": "Savers"
+        },
+        {
+          "tag": "h2",
+          "class": "",
+          "text": "Borrowers"
+        },
+        {
+          "tag": "h2",
+          "class": "",
+          "text": "Investors"
+        },
+        {
+          "tag": "h2",
+          "class": "",
+          "text": "What not to do"
+        }
+      ],
+      "paragraphs": [
+        "Markets",
+        "In short",
+        "Rate decisions move savings, mortgages and markets at the same time. A plain-language guide to what changes and what does not.",
+        "An advisor can size your cash buffer in one call.",
+        "Back to all insights",
+        "Every central bank announcement brings a wave of headlines, but the effect on your own finances depends on what you hold. Here is how rate changes typically flow through to savers, borrowers and investors.",
+        "When rates fall, easy-access savings rates usually follow within weeks. Fixed-term accounts lock in a rate for a set period, which can be useful if you expect further cuts and will not need the money.",
+        "Tracker and variable mortgages respond quickly. Fixed-rate borrowers are protected until their deal ends, which makes the remortgage date the moment that matters most. Start reviewing options three to six months before it arrives.",
+        "Bond prices tend to rise when rates fall, and some sectors of the share market react strongly to rate expectations. A diversified portfolio is designed so that no single rate decision determines your outcome.",
+        "Avoid making large changes in reaction to a single announcement. Markets usually price in expected decisions well before they happen, so the surprise, not the decision itself, drives movement.",
+        "General information only, not personal financial advice. Past performance is not a reliable indicator of future results."
+      ],
+      "links": [
+        {
+          "href": "/contact-v1",
+          "text": "Book a call",
+          "class": "btn w-inline-block"
+        },
+        {
+          "href": "/blog",
+          "text": "Back to all insights",
+          "class": "blog-detail-back w-inline-block"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd141f81e51878ec0aee02_6afd1241bca7125b3b3239eb_Document%2520Signing%2520Scene%25201.webp",
+          "local": "/assets/images/media/6afd141f81e51878ec0aee02_6afd1241bca7125b3b3239eb_document-signing-scene-1.webp",
+          "alt": "Close-up of a client signing a financial agreement beside a pair of glasses",
+          "class": "img-cover"
+        }
+      ],
+      "svgCount": 1
+    },
+    {
+      "tag": "section",
+      "class": "section-blog-list",
+      "headings": [
+        {
+          "tag": "h2",
+          "class": "heading-style-h2",
+          "text": "Market notes from our advisors"
+        }
+      ],
+      "paragraphs": [],
+      "links": [
+        {
+          "href": "/blog",
+          "text": "Read all insights",
+          "class": "btn w-inline-block"
+        },
+        {
+          "href": "/blog/how-much-cash-should-you-really-keep",
+          "text": "How Much Cash Should You Really Keep? November 18, 2026",
+          "class": "blog-content w-inline-block"
+        },
+        {
+          "href": "/blog/what-interest-rate-changes-mean-for-you-in-2026",
+          "text": "What Interest Rate Changes Mean for You in 2026 November 18, 2026",
+          "class": "blog-content w-inline-block w--current"
+        },
+        {
+          "href": "/blog/seven-questions-to-ask-before-choosing-a-financial-advisor",
+          "text": "Seven Questions to Ask Before Choosing a Financial Advisor November 18, 2026",
+          "class": "blog-content w-inline-block"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd141f81e51878ec0aedff_6afd11d9a4691909cb0cba1c_Woman%2520Using%2520Smartphone%2520(2)%25201.webp",
+          "local": "/assets/graphics/app/6afd141f81e51878ec0aedff_6afd11d9a4691909cb0cba1c_woman-using-smartphone-2-1.webp",
+          "alt": "Smiling woman checking her savings on a smartphone while relaxing on a sofa",
+          "class": "img-cover"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd141f81e51878ec0aee02_6afd1241bca7125b3b3239eb_Document%2520Signing%2520Scene%25201.webp",
+          "local": "/assets/images/media/6afd141f81e51878ec0aee02_6afd1241bca7125b3b3239eb_document-signing-scene-1.webp",
+          "alt": "Close-up of a client signing a financial agreement beside a pair of glasses",
+          "class": "img-cover"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd141f81e51878ec0aee06_6afd139d0cf70e9f0fda8954_Professional%2520Meeting%2520Scene%2520(6)%25201.webp",
+          "local": "/assets/images/media/6afd141f81e51878ec0aee06_6afd139d0cf70e9f0fda8954_professional-meeting-scene-6-1.webp",
+          "alt": "Financial advisor listening to a client across a table with a laptop",
+          "class": "img-cover"
+        }
+      ],
+      "svgCount": 3
+    },
+    {
+      "tag": "footer",
+      "class": "footer-light",
+      "headings": [
+        {
+          "tag": "h2",
+          "class": "heading-style-h4",
+          "text": "Talk to an advisor"
+        }
+      ],
+      "paragraphs": [
+        "A named banker replies within one business day.",
+        "Independent banking and investment advice for families, founders and institutions since 2001.",
+        "Banking",
+        "Company",
+        "Template",
+        "Sample disclosure: deposits are protected up to the limits of your national guarantee scheme. Investments can fall as well as rise.",
+        "\u00a9 2026 Vaxmor. All rights reserved. Powered by"
+      ],
+      "links": [
+        {
+          "href": "/contact-v2",
+          "text": "Book a call",
+          "class": "btn w-inline-block"
+        },
+        {
+          "href": "/",
+          "text": "Vaxmor",
+          "class": "footer-logo-link w-inline-block"
+        },
+        {
+          "href": "https://www.facebook.com/",
+          "text": "",
+          "class": "footer-social w-inline-block"
+        },
+        {
+          "href": "https://www.instagram.com/",
+          "text": "",
+          "class": "footer-social w-inline-block"
+        },
+        {
+          "href": "https://www.pinterest.com/",
+          "text": "",
+          "class": "footer-social w-inline-block"
+        },
+        {
+          "href": "/services-v1",
+          "text": "Private banking",
+          "class": "footer-link"
+        },
+        {
+          "href": "/services-v1",
+          "text": "Investments",
+          "class": "footer-link"
+        },
+        {
+          "href": "/services-v1",
+          "text": "Business lending",
+          "class": "footer-link"
+        },
+        {
+          "href": "/pricing",
+          "text": "Cards",
+          "class": "footer-link"
+        },
+        {
+          "href": "/about-us",
+          "text": "About us",
+          "class": "footer-link"
+        },
+        {
+          "href": "/blog",
+          "text": "Insights",
+          "class": "footer-link"
+        },
+        {
+          "href": "/pricing",
+          "text": "Pricing",
+          "class": "footer-link"
+        },
+        {
+          "href": "/contact-v2",
+          "text": "Contact",
+          "class": "footer-link"
+        },
+        {
+          "href": "/style-guide",
+          "text": "Style guide",
+          "class": "footer-link"
+        },
+        {
+          "href": "/instructions",
+          "text": "Instructions",
+          "class": "footer-link"
+        },
+        {
+          "href": "/licenses",
+          "text": "Licenses",
+          "class": "footer-link"
+        },
+        {
+          "href": "/changelog",
+          "text": "Changelog",
+          "class": "footer-link"
+        },
+        {
+          "href": "https://webflow.com/",
+          "text": "Webflow",
+          "class": "text-size-small"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af96ebc6cca54008f8adfb3_Vaxmor%20Dark.svg",
+          "local": "/assets/brand/6af96ebc6cca54008f8adfb3_vaxmor-dark.svg",
+          "alt": "Vaxmor logo",
+          "class": "footer-logo"
+        }
+      ],
+      "svgCount": 3
+    }
+  ]
+}

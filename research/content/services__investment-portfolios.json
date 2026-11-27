@@ -1,0 +1,921 @@
+{
+  "route": "/services/investment-portfolios",
+  "title": "Investment portfolios  - Vaxmor - Webflow HTML website template",
+  "metaDescription": "Diversified, low-cost investment portfolios matched to your goals and risk level, with every holding and fee visible and plain-language quarterly reports.",
+  "sections": [
+    {
+      "tag": "header",
+      "class": "nav",
+      "headings": [],
+      "paragraphs": [
+        "View pricing"
+      ],
+      "links": [
+        {
+          "href": "/",
+          "text": "Vaxmor",
+          "class": "nav_brand w-nav-brand"
+        },
+        {
+          "href": "/",
+          "text": "home",
+          "class": "nav_link w-inline-block"
+        },
+        {
+          "href": "/about-us",
+          "text": "about us",
+          "class": "nav_link w-inline-block"
+        },
+        {
+          "href": "/services/private-banking",
+          "text": "Everyday banking Checking and savings accounts with no monthly fees.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/pricing",
+          "text": "Credit cards Cashback and travel cards with clear, simple rates.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/lending-and-mortgages",
+          "text": "Home loans Fixed and variable mortgages for every stage of life.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/investment-portfolios",
+          "text": "Savings and deposits Term deposits that grow your money at a steady rate.",
+          "class": "mega-item w-inline-block w--current"
+        },
+        {
+          "href": "/services/business-banking",
+          "text": "Business accounts Multi-user accounts built for daily operations.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/lending-and-mortgages",
+          "text": "Business lending Working capital and equipment finance on fair terms.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/business-banking",
+          "text": "Payments and payroll Pay suppliers and staff from one simple dashboard.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/wealth-management",
+          "text": "Treasury management Cash flow forecasting and liquidity tools for growth.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/private-banking",
+          "text": "Joint accounts Shared spending with separate controls for each member.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/investment-portfolios",
+          "text": "Education savings Plan ahead for school and university costs.",
+          "class": "mega-item w-inline-block w--current"
+        },
+        {
+          "href": "/services/retirement-planning",
+          "text": "Life and protection Cover that keeps your family secure through change.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/wealth-management",
+          "text": "Estate planning Pass on wealth with clear, well-structured trusts.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/pricing",
+          "text": "View pricing",
+          "class": "button is-link w-inline-block"
+        },
+        {
+          "href": "/blog",
+          "text": "insights",
+          "class": "nav_link w-inline-block"
+        },
+        {
+          "href": "/",
+          "text": "Homepage Main landing layout",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/home-v2",
+          "text": "Home V2 Sticky service index",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/home-v3",
+          "text": "Home V3 Card-led opening",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/about-us",
+          "text": "About us Story, team and values",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/pricing",
+          "text": "Pricing Plans compared side by side",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/blog",
+          "text": "Insights Articles and market notes",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/services-v1",
+          "text": "Services V1 Service list and finder",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/services-v2",
+          "text": "Services V2 Image grid and comparison",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/services-v3",
+          "text": "Services V3 Service slider and process",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/contact-v1",
+          "text": "Contact V1 Form with branch details",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/contact-v2",
+          "text": "Contact V2 Form beside support details",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/contact-v3",
+          "text": "Contact V3 Form with office locations",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/services/wealth-management",
+          "text": "Service detail CMS service template",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/blog/how-much-cash-should-you-really-keep",
+          "text": "Insight detail CMS article template",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/testimonial/marcus-b",
+          "text": "Testimonial detail CMS testimonial template",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/style-guide",
+          "text": "Style guide Type, colors and components",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/instructions",
+          "text": "Instructions How the template works",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/changelog",
+          "text": "Changelog Release notes",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/licenses",
+          "text": "Licenses Fonts, images and icons",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/404",
+          "text": "404 page Page not found",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/401",
+          "text": "Password page Protected page",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/pricing",
+          "text": "Pricing",
+          "class": "nav_link w-inline-block"
+        },
+        {
+          "href": "/contact-v1",
+          "text": "contact",
+          "class": "nav_link w-inline-block"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af96ebc6cca54008f8adfb3_Vaxmor%20Dark.svg",
+          "local": "/assets/brand/6af96ebc6cca54008f8adfb3_vaxmor-dark.svg",
+          "alt": "Vaxmor logo",
+          "class": "nav_logo"
+        }
+      ],
+      "svgCount": 76
+    },
+    {
+      "tag": "section",
+      "class": "section-banner w-variant-60c2f868-6ff4-12e5-570c-45e66c7bae9a",
+      "headings": [
+        {
+          "tag": "h1",
+          "class": "heading-style-h1 text-color-white",
+          "text": "Investment portfolios"
+        },
+        {
+          "tag": "h2",
+          "class": "heading-style-h6 text-color-white",
+          "text": "Diversified, low-cost portfolios matched to your goals and your risk tolerance."
+        }
+      ],
+      "paragraphs": [],
+      "links": [],
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6b4_6afc72e17f3094a19b1c1d33_Woman%2520Analyzing%2520Financial%2520Charts%2520on%2520Desktop%2520Monitor%25201.webp",
+          "local": "/assets/images/media/6afd0bcb9e9aa5d8af67e6b4_6afc72e17f3094a19b1c1d33_woman-analyzing-financial-charts-on-desktop-monitor-1.webp",
+          "alt": "Woman analysing market charts on a desktop monitor",
+          "class": "parallax-img"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6bb_6afc72e390692b19cb423eae_Financial%2520Analyst%2520at%2520Work%25201.webp",
+          "local": "/assets/images/media/6afd0bcb9e9aa5d8af67e6bb_6afc72e390692b19cb423eae_financial-analyst-at-work-1.webp",
+          "alt": "",
+          "class": "banner-editorial-img"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6b4_6afc72e17f3094a19b1c1d33_Woman%2520Analyzing%2520Financial%2520Charts%2520on%2520Desktop%2520Monitor%25201.webp",
+          "local": "/assets/images/media/6afd0bcb9e9aa5d8af67e6b4_6afc72e17f3094a19b1c1d33_woman-analyzing-financial-charts-on-desktop-monitor-1.webp",
+          "alt": "",
+          "class": "banner-editorial-img"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6b4_6afc72e17f3094a19b1c1d33_Woman%2520Analyzing%2520Financial%2520Charts%2520on%2520Desktop%2520Monitor%25201.webp",
+          "local": "/assets/images/media/6afd0bcb9e9aa5d8af67e6b4_6afc72e17f3094a19b1c1d33_woman-analyzing-financial-charts-on-desktop-monitor-1.webp",
+          "alt": "",
+          "class": "banner-editorial-img"
+        }
+      ],
+      "svgCount": 0
+    },
+    {
+      "tag": "section",
+      "class": "section-service-overview",
+      "headings": [
+        {
+          "tag": "h2",
+          "class": "heading-style-h3",
+          "text": "About this service"
+        }
+      ],
+      "paragraphs": [
+        "Globally diversified portfolios built from low-cost funds and rebalanced automatically. You choose from five risk levels, see every holding and every fee in your dashboard, and receive a plain-language report each quarter. No lock-in period and no performance fees."
+      ],
+      "links": [
+        {
+          "href": "/contact-v1",
+          "text": "Talk to an advisor",
+          "class": "btn w-inline-block"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6b4_6afc72e17f3094a19b1c1d33_Woman%2520Analyzing%2520Financial%2520Charts%2520on%2520Desktop%2520Monitor%25201.webp",
+          "local": "/assets/images/media/6afd0bcb9e9aa5d8af67e6b4_6afc72e17f3094a19b1c1d33_woman-analyzing-financial-charts-on-desktop-monitor-1.webp",
+          "alt": "Woman analysing market charts on a desktop monitor",
+          "class": "img-cover"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6bb_6afc72e390692b19cb423eae_Financial%2520Analyst%2520at%2520Work%25201.webp",
+          "local": "/assets/images/media/6afd0bcb9e9aa5d8af67e6bb_6afc72e390692b19cb423eae_financial-analyst-at-work-1.webp",
+          "alt": "Analyst studying stock charts on a large screen",
+          "class": "img-cover"
+        }
+      ],
+      "svgCount": 1
+    },
+    {
+      "tag": "section",
+      "class": "section-why w-variant-c7b01c0e-4041-4b6e-ac90-03c892394b22",
+      "headings": [
+        {
+          "tag": "h2",
+          "class": "heading-style-h2",
+          "text": "What comes with every Vaxmor service"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h4 w-variant-c7b01c0e-4041-4b6e-ac90-03c892394b22",
+          "text": "A written scope"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h4 w-variant-c7b01c0e-4041-4b6e-ac90-03c892394b22",
+          "text": "A specialist on call"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h4 w-variant-c7b01c0e-4041-4b6e-ac90-03c892394b22",
+          "text": "Fixed review dates"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h4 w-variant-c7b01c0e-4041-4b6e-ac90-03c892394b22",
+          "text": "Live reporting"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h4 w-variant-c7b01c0e-4041-4b6e-ac90-03c892394b22",
+          "text": "No lock-in"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h4 w-variant-c7b01c0e-4041-4b6e-ac90-03c892394b22",
+          "text": "Works with the rest"
+        }
+      ],
+      "paragraphs": [
+        "You get a short document setting out exactly what the service covers and what it does not.",
+        "Your advisor brings in a lending, tax or investment specialist whenever the service needs one.",
+        "Review meetings are booked a year ahead, so the service never drifts out of date.",
+        "Balances, performance and fees for this service update daily in the app and client portal.",
+        "Pause or close the service at any time, with no exit penalty and no awkward questions.",
+        "Add another service later and it slots into the same plan, statement and login."
+      ],
+      "links": [],
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afbca7f8f474a0b55a713b5_Hand%20with%20Smartphone%201.webp",
+          "local": "/assets/graphics/app/6afbca7f8f474a0b55a713b5_hand-with-smartphone-1.webp",
+          "alt": "Hand holding a smartphone beside an open laptop",
+          "class": "img-cover"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afbca7f9c0f9c512fe63bc1_Woman%20Shopping%20Online%201.webp",
+          "local": "/assets/images/media/6afbca7f9c0f9c512fe63bc1_woman-shopping-online-1.webp",
+          "alt": "Woman paying online with her card and smartphone at a desk",
+          "class": "img-cover"
+        }
+      ],
+      "svgCount": 10
+    },
+    {
+      "tag": "section",
+      "class": "section-timeline background-color-light-grey",
+      "headings": [
+        {
+          "tag": "h2",
+          "class": "heading-style-h2",
+          "text": "How this service gets started"
+        },
+        {
+          "tag": "h2",
+          "class": "heading-style-h2",
+          "text": "How this service gets started"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "Introductory call"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "Scope and quote"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "Setup and onboarding"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "First review"
+        }
+      ],
+      "paragraphs": [
+        "A 30-minute call to check this service suits your situation before any paperwork.",
+        "We send a written scope and a fixed quote for the service, valid for 30 days.",
+        "Accounts are opened and documents signed online, usually within two weeks.",
+        "Three months in, we check the service is working as agreed and fine-tune anything that is not.",
+        "Your quote stays fixed for 30 days, so you have time to decide without pressure."
+      ],
+      "links": [],
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc03f0d0256c9c4118cdb9_Brickwork%20Verticality%20Modern%20Commercial%20Building%201.webp",
+          "local": "/assets/images/architecture/6afc03f0d0256c9c4118cdb9_brickwork-verticality-modern-commercial-building-1.webp",
+          "alt": "Modern brick office building with tall vertical windows",
+          "class": "img-timeline w-variant-81314b02-c6d1-4955-494e-bb48be0067b6"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc03f0d0256c9c4118cdb9_Brickwork%20Verticality%20Modern%20Commercial%20Building%201.webp",
+          "local": "/assets/images/architecture/6afc03f0d0256c9c4118cdb9_brickwork-verticality-modern-commercial-building-1.webp",
+          "alt": "Modern brick office building with tall vertical windows",
+          "class": "img-timeline w-variant-81314b02-c6d1-4955-494e-bb48be0067b6"
+        }
+      ],
+      "svgCount": 0
+    },
+    {
+      "tag": "section",
+      "class": "section-faq-split",
+      "headings": [
+        {
+          "tag": "h2",
+          "class": "heading-style-h2",
+          "text": "Questions about this service"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h4 text-color-white",
+          "text": "Is this service right for you?"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h6",
+          "text": "Who is this service designed for?"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h6",
+          "text": "How is the fee calculated?"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h6",
+          "text": "How long does setup take?"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h6",
+          "text": "Can I combine it with other services?"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h6",
+          "text": "What if my needs change?"
+        }
+      ],
+      "paragraphs": [
+        "Who it suits, what it costs and how it fits with the rest of your finances.",
+        "Book a free introductory call and we will tell you honestly if it fits.",
+        "The overview above lists the clients it suits best. Your advisor confirms the fit on your first call.",
+        "Each service has a published fee, confirmed in a written quote before you sign anything.",
+        "Most services are live within two weeks of accepting your quote.",
+        "Yes. Every service shares one advisor, one statement and one login.",
+        "Tell your advisor and the service is adjusted at your next review, or sooner if it matters."
+      ],
+      "links": [
+        {
+          "href": "/contact-v1",
+          "text": "Talk to an advisor",
+          "class": "btn w-variant-e9f31f79-c607-2b27-4acb-0b35343e4557 w-inline-block"
+        }
+      ],
+      "images": [],
+      "svgCount": 5
+    },
+    {
+      "tag": "section",
+      "class": "section-service w-variant-bccf3e2c-a90d-80e2-0c93-a2c79a833321",
+      "headings": [
+        {
+          "tag": "h2",
+          "class": "heading-style-h2",
+          "text": "Explore our other services"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "Wealth management"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "Investment portfolios"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "Private banking"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "Retirement planning"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "Business banking"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "Wealth management"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "Investment portfolios"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "Private banking"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "Retirement planning"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "Business banking"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "Lending and mortgages"
+        }
+      ],
+      "paragraphs": [
+        "One advisor and one plan for everything you own, earn and want to pass on.",
+        "Diversified, low-cost portfolios matched to your goals and your risk tolerance.",
+        "A dedicated banker, priority service and accounts built around your cash flow.",
+        "A clear answer to when you can stop working, and how to get there.",
+        "Accounts, payments and treasury tools for growing companies.",
+        "Mortgages and credit structured around your full financial position."
+      ],
+      "links": [
+        {
+          "href": "/contact-v1",
+          "text": "Talk to an advisor",
+          "class": "btn w-inline-block"
+        },
+        {
+          "href": "/services/wealth-management",
+          "text": "See service detail",
+          "class": "btn w-variant-1b61d514-ac9e-2ab2-daee-0f4197e82870 w-inline-block"
+        },
+        {
+          "href": "/services/investment-portfolios",
+          "text": "See service detail",
+          "class": "btn w-variant-1b61d514-ac9e-2ab2-daee-0f4197e82870 w-inline-block w--current"
+        },
+        {
+          "href": "/services/private-banking",
+          "text": "See service detail",
+          "class": "btn w-variant-1b61d514-ac9e-2ab2-daee-0f4197e82870 w-inline-block"
+        },
+        {
+          "href": "/services/retirement-planning",
+          "text": "See service detail",
+          "class": "btn w-variant-1b61d514-ac9e-2ab2-daee-0f4197e82870 w-inline-block"
+        },
+        {
+          "href": "/services/business-banking",
+          "text": "See service detail",
+          "class": "btn w-variant-1b61d514-ac9e-2ab2-daee-0f4197e82870 w-inline-block"
+        },
+        {
+          "href": "/contact-v1",
+          "text": "Talk to an advisor",
+          "class": "btn w-inline-block"
+        },
+        {
+          "href": "/services/wealth-management",
+          "text": "Wealth management One advisor and one plan for everything you own, earn and want to pass on.",
+          "class": "service-link-block w-inline-block"
+        },
+        {
+          "href": "/services/investment-portfolios",
+          "text": "Investment portfolios Diversified, low-cost portfolios matched to your goals and your risk tolerance.",
+          "class": "service-link-block w-inline-block w--current"
+        },
+        {
+          "href": "/services/private-banking",
+          "text": "Private banking A dedicated banker, priority service and accounts built around your cash flow.",
+          "class": "service-link-block w-inline-block"
+        },
+        {
+          "href": "/services/retirement-planning",
+          "text": "Retirement planning A clear answer to when you can stop working, and how to get there.",
+          "class": "service-link-block w-inline-block"
+        },
+        {
+          "href": "/services/business-banking",
+          "text": "Business banking Accounts, payments and treasury tools for growing companies.",
+          "class": "service-link-block w-inline-block"
+        },
+        {
+          "href": "/contact-v1",
+          "text": "Talk to an Advisor",
+          "class": "btn w-inline-block"
+        },
+        {
+          "href": "/services/wealth-management",
+          "text": "01 Wealth management One advisor and one plan for everything you own, earn and want to pass on.",
+          "class": "service-link-block w-inline-block"
+        },
+        {
+          "href": "/services/investment-portfolios",
+          "text": "02 Investment portfolios Diversified, low-cost portfolios matched to your goals and your risk tolerance.",
+          "class": "service-link-block w-inline-block w--current"
+        },
+        {
+          "href": "/services/private-banking",
+          "text": "03 Private banking A dedicated banker, priority service and accounts built around your cash flow.",
+          "class": "service-link-block w-inline-block"
+        },
+        {
+          "href": "/services/retirement-planning",
+          "text": "04 Retirement planning A clear answer to when you can stop working, and how to get there.",
+          "class": "service-link-block w-inline-block"
+        },
+        {
+          "href": "/services/business-banking",
+          "text": "05 Business banking Accounts, payments and treasury tools for growing companies.",
+          "class": "service-link-block w-inline-block"
+        },
+        {
+          "href": "/services/lending-and-mortgages",
+          "text": "06 Lending and mortgages Mortgages and credit structured around your full financial position.",
+          "class": "service-link-block w-inline-block"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d395ab_Weight4.svg",
+          "local": "/assets/icons/6af5425e48b17c8a81d395ab_weight4.svg",
+          "alt": "Icon Line Arrow Down",
+          "class": "icon-24"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bca9e9aa5d8af67e6a9_6afc7370d88ed11e06008a4b_Business%2520Meeting%2520Scene%2520(11)%25201.webp",
+          "local": "/assets/images/media/6afd0bca9e9aa5d8af67e6a9_6afc7370d88ed11e06008a4b_business-meeting-scene-11-1.webp",
+          "alt": "Advisor walking two clients through a plan on a whiteboard",
+          "class": "img-services"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bca9e9aa5d8af67e6ac_6afc737274114210ba4904e6_Team%2520Strategy%2520Meeting%25201.webp",
+          "local": "/assets/images/media/6afd0bca9e9aa5d8af67e6ac_6afc737274114210ba4904e6_team-strategy-meeting-1.webp",
+          "alt": "Advisor presenting a strategy on a flip chart to a small group",
+          "class": "img-services"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d395ab_Weight4.svg",
+          "local": "/assets/icons/6af5425e48b17c8a81d395ab_weight4.svg",
+          "alt": "Icon Line Arrow Down",
+          "class": "icon-24"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6b4_6afc72e17f3094a19b1c1d33_Woman%2520Analyzing%2520Financial%2520Charts%2520on%2520Desktop%2520Monitor%25201.webp",
+          "local": "/assets/images/media/6afd0bcb9e9aa5d8af67e6b4_6afc72e17f3094a19b1c1d33_woman-analyzing-financial-charts-on-desktop-monitor-1.webp",
+          "alt": "Woman analysing market charts on a desktop monitor",
+          "class": "img-services"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6bb_6afc72e390692b19cb423eae_Financial%2520Analyst%2520at%2520Work%25201.webp",
+          "local": "/assets/images/media/6afd0bcb9e9aa5d8af67e6bb_6afc72e390692b19cb423eae_financial-analyst-at-work-1.webp",
+          "alt": "Analyst studying stock charts on a large screen",
+          "class": "img-services"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d395ab_Weight4.svg",
+          "local": "/assets/icons/6af5425e48b17c8a81d395ab_weight4.svg",
+          "alt": "Icon Line Arrow Down",
+          "class": "icon-24"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6b8_6afc72390c98fa052de6ef1f_Professional%2520Discussion%2520(10)%25201.webp",
+          "local": "/assets/images/media/6afd0bcb9e9aa5d8af67e6b8_6afc72390c98fa052de6ef1f_professional-discussion-10-1.webp",
+          "alt": "Private banker reviewing a document with a client in his office",
+          "class": "img-services"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6c4_6afc723c8f3c89befe3f1232_Professional%2520Reading%2520Scene%2520(1)%25201.webp",
+          "local": "/assets/images/media/6afd0bcb9e9aa5d8af67e6c4_6afc723c8f3c89befe3f1232_professional-reading-scene-1-1.webp",
+          "alt": "Client reading a report in a quiet private office",
+          "class": "img-services"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d395ab_Weight4.svg",
+          "local": "/assets/icons/6af5425e48b17c8a81d395ab_weight4.svg",
+          "alt": "Icon Line Arrow Down",
+          "class": "icon-24"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bd47ca8a3e5b2ef8386_6afc7400af8765fd91d016c6_Elderly%2520Couple%2520Relaxing%25201.webp",
+          "local": "/assets/images/media/6afd0bd47ca8a3e5b2ef8386_6afc7400af8765fd91d016c6_elderly-couple-relaxing-1.webp",
+          "alt": "Retired couple relaxing together on a sofa at home",
+          "class": "img-services"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6c8_6afc7403ea9cdce60758c2eb_Office%2520Collaboration%2520Scene%2520(4)%25201.webp",
+          "local": "/assets/images/media/6afd0bcb9e9aa5d8af67e6c8_6afc7403ea9cdce60758c2eb_office-collaboration-scene-4-1.webp",
+          "alt": "Advisor and older client talking at a table by the window",
+          "class": "img-services"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d395ab_Weight4.svg",
+          "local": "/assets/icons/6af5425e48b17c8a81d395ab_weight4.svg",
+          "alt": "Icon Line Arrow Down",
+          "class": "icon-24"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6cc_6afc732840cd4db306e3afae_Business%2520Meeting%2520Scene%2520(10)%25201.webp",
+          "local": "/assets/images/media/6afd0bcb9e9aa5d8af67e6cc_6afc732840cd4db306e3afae_business-meeting-scene-10-1.webp",
+          "alt": "Business owner leading a meeting with his team",
+          "class": "img-services"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6d3_6afc732974114210ba48de49_Team%2520Meeting%2520Discussion%25201.webp",
+          "local": "/assets/images/media/6afd0bcb9e9aa5d8af67e6d3_6afc732974114210ba48de49_team-meeting-discussion-1.webp",
+          "alt": "Small business team discussing plans around a table",
+          "class": "img-services"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bca9e9aa5d8af67e6a9_6afc7370d88ed11e06008a4b_Business%2520Meeting%2520Scene%2520(11)%25201.webp",
+          "local": "/assets/images/media/6afd0bca9e9aa5d8af67e6a9_6afc7370d88ed11e06008a4b_business-meeting-scene-11-1.webp",
+          "alt": "Advisor walking two clients through a plan on a whiteboard",
+          "class": "img-services"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6b4_6afc72e17f3094a19b1c1d33_Woman%2520Analyzing%2520Financial%2520Charts%2520on%2520Desktop%2520Monitor%25201.webp",
+          "local": "/assets/images/media/6afd0bcb9e9aa5d8af67e6b4_6afc72e17f3094a19b1c1d33_woman-analyzing-financial-charts-on-desktop-monitor-1.webp",
+          "alt": "Woman analysing market charts on a desktop monitor",
+          "class": "img-services"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6b8_6afc72390c98fa052de6ef1f_Professional%2520Discussion%2520(10)%25201.webp",
+          "local": "/assets/images/media/6afd0bcb9e9aa5d8af67e6b8_6afc72390c98fa052de6ef1f_professional-discussion-10-1.webp",
+          "alt": "Private banker reviewing a document with a client in his office",
+          "class": "img-services"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bd47ca8a3e5b2ef8386_6afc7400af8765fd91d016c6_Elderly%2520Couple%2520Relaxing%25201.webp",
+          "local": "/assets/images/media/6afd0bd47ca8a3e5b2ef8386_6afc7400af8765fd91d016c6_elderly-couple-relaxing-1.webp",
+          "alt": "Retired couple relaxing together on a sofa at home",
+          "class": "img-services"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6cc_6afc732840cd4db306e3afae_Business%2520Meeting%2520Scene%2520(10)%25201.webp",
+          "local": "/assets/images/media/6afd0bcb9e9aa5d8af67e6cc_6afc732840cd4db306e3afae_business-meeting-scene-10-1.webp",
+          "alt": "Business owner leading a meeting with his team",
+          "class": "img-services"
+        }
+      ],
+      "svgCount": 5
+    },
+    {
+      "tag": "section",
+      "class": "section-cta-account",
+      "headings": [
+        {
+          "tag": "h2",
+          "class": "heading-style-h2",
+          "text": "Get started with this service"
+        }
+      ],
+      "paragraphs": [
+        "Book a free introductory call and receive a fixed quote within two business days."
+      ],
+      "links": [
+        {
+          "href": "/contact-v1",
+          "text": "Open account",
+          "class": "btn w-inline-block"
+        },
+        {
+          "href": "/contact-v2",
+          "text": "Talk to an advisor",
+          "class": "btn w-variant-1b61d514-ac9e-2ab2-daee-0f4197e82870 w-inline-block"
+        }
+      ],
+      "images": [],
+      "svgCount": 1
+    },
+    {
+      "tag": "footer",
+      "class": "footer-light",
+      "headings": [],
+      "paragraphs": [
+        "Independent banking and investment advice for families, founders and institutions since 2001.",
+        "Banking",
+        "Company",
+        "Template",
+        "Sample disclosure: deposits are protected up to the limits of your national guarantee scheme. Investments can fall as well as rise.",
+        "\u00a9 2026 Vaxmor. All rights reserved. Powered by"
+      ],
+      "links": [
+        {
+          "href": "/",
+          "text": "Vaxmor",
+          "class": "footer-logo-link w-inline-block"
+        },
+        {
+          "href": "https://www.facebook.com/",
+          "text": "",
+          "class": "footer-social w-inline-block"
+        },
+        {
+          "href": "https://www.instagram.com/",
+          "text": "",
+          "class": "footer-social w-inline-block"
+        },
+        {
+          "href": "https://www.pinterest.com/",
+          "text": "",
+          "class": "footer-social w-inline-block"
+        },
+        {
+          "href": "/services-v1",
+          "text": "Private banking",
+          "class": "footer-link"
+        },
+        {
+          "href": "/services-v1",
+          "text": "Investments",
+          "class": "footer-link"
+        },
+        {
+          "href": "/services-v1",
+          "text": "Business lending",
+          "class": "footer-link"
+        },
+        {
+          "href": "/pricing",
+          "text": "Cards",
+          "class": "footer-link"
+        },
+        {
+          "href": "/about-us",
+          "text": "About us",
+          "class": "footer-link"
+        },
+        {
+          "href": "/blog",
+          "text": "Insights",
+          "class": "footer-link"
+        },
+        {
+          "href": "/pricing",
+          "text": "Pricing",
+          "class": "footer-link"
+        },
+        {
+          "href": "/contact-v2",
+          "text": "Contact",
+          "class": "footer-link"
+        },
+        {
+          "href": "/style-guide",
+          "text": "Style guide",
+          "class": "footer-link"
+        },
+        {
+          "href": "/instructions",
+          "text": "Instructions",
+          "class": "footer-link"
+        },
+        {
+          "href": "/licenses",
+          "text": "Licenses",
+          "class": "footer-link"
+        },
+        {
+          "href": "/changelog",
+          "text": "Changelog",
+          "class": "footer-link"
+        },
+        {
+          "href": "https://webflow.com/",
+          "text": "Webflow",
+          "class": "text-size-small"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af96ebc6cca54008f8adfb3_Vaxmor%20Dark.svg",
+          "local": "/assets/brand/6af96ebc6cca54008f8adfb3_vaxmor-dark.svg",
+          "alt": "Vaxmor logo",
+          "class": "footer-logo"
+        }
+      ],
+      "svgCount": 3
+    }
+  ]
+}

@@ -1,0 +1,1253 @@
+{
+  "route": "/services-v1",
+  "title": "Services V1 - Vaxmor - Webflow HTML website template",
+  "metaDescription": "Wealth management, investment portfolios, private banking, retirement planning, business banking and lending, presented in Vaxmor's first services layout.",
+  "sections": [
+    {
+      "tag": "header",
+      "class": "nav",
+      "headings": [],
+      "paragraphs": [
+        "View pricing"
+      ],
+      "links": [
+        {
+          "href": "/",
+          "text": "Vaxmor",
+          "class": "nav_brand w-nav-brand"
+        },
+        {
+          "href": "/",
+          "text": "home",
+          "class": "nav_link w-inline-block"
+        },
+        {
+          "href": "/about-us",
+          "text": "about us",
+          "class": "nav_link w-inline-block"
+        },
+        {
+          "href": "/services/private-banking",
+          "text": "Everyday banking Checking and savings accounts with no monthly fees.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/pricing",
+          "text": "Credit cards Cashback and travel cards with clear, simple rates.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/lending-and-mortgages",
+          "text": "Home loans Fixed and variable mortgages for every stage of life.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/investment-portfolios",
+          "text": "Savings and deposits Term deposits that grow your money at a steady rate.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/business-banking",
+          "text": "Business accounts Multi-user accounts built for daily operations.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/lending-and-mortgages",
+          "text": "Business lending Working capital and equipment finance on fair terms.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/business-banking",
+          "text": "Payments and payroll Pay suppliers and staff from one simple dashboard.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/wealth-management",
+          "text": "Treasury management Cash flow forecasting and liquidity tools for growth.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/private-banking",
+          "text": "Joint accounts Shared spending with separate controls for each member.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/investment-portfolios",
+          "text": "Education savings Plan ahead for school and university costs.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/retirement-planning",
+          "text": "Life and protection Cover that keeps your family secure through change.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/services/wealth-management",
+          "text": "Estate planning Pass on wealth with clear, well-structured trusts.",
+          "class": "mega-item w-inline-block"
+        },
+        {
+          "href": "/pricing",
+          "text": "View pricing",
+          "class": "button is-link w-inline-block"
+        },
+        {
+          "href": "/blog",
+          "text": "insights",
+          "class": "nav_link w-inline-block"
+        },
+        {
+          "href": "/",
+          "text": "Homepage Main landing layout",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/home-v2",
+          "text": "Home V2 Sticky service index",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/home-v3",
+          "text": "Home V3 Card-led opening",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/about-us",
+          "text": "About us Story, team and values",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/pricing",
+          "text": "Pricing Plans compared side by side",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/blog",
+          "text": "Insights Articles and market notes",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/services-v1",
+          "text": "Services V1 Service list and finder",
+          "class": "mega-item is-third w-inline-block w--current"
+        },
+        {
+          "href": "/services-v2",
+          "text": "Services V2 Image grid and comparison",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/services-v3",
+          "text": "Services V3 Service slider and process",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/contact-v1",
+          "text": "Contact V1 Form with branch details",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/contact-v2",
+          "text": "Contact V2 Form beside support details",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/contact-v3",
+          "text": "Contact V3 Form with office locations",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/services/wealth-management",
+          "text": "Service detail CMS service template",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/blog/how-much-cash-should-you-really-keep",
+          "text": "Insight detail CMS article template",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/testimonial/marcus-b",
+          "text": "Testimonial detail CMS testimonial template",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/style-guide",
+          "text": "Style guide Type, colors and components",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/instructions",
+          "text": "Instructions How the template works",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/changelog",
+          "text": "Changelog Release notes",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/licenses",
+          "text": "Licenses Fonts, images and icons",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/404",
+          "text": "404 page Page not found",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/401",
+          "text": "Password page Protected page",
+          "class": "mega-item is-third w-inline-block"
+        },
+        {
+          "href": "/pricing",
+          "text": "Pricing",
+          "class": "nav_link w-inline-block"
+        },
+        {
+          "href": "/contact-v1",
+          "text": "contact",
+          "class": "nav_link w-inline-block"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af96ebc6cca54008f8adfb3_Vaxmor%20Dark.svg",
+          "local": "/assets/brand/6af96ebc6cca54008f8adfb3_vaxmor-dark.svg",
+          "alt": "Vaxmor logo",
+          "class": "nav_logo"
+        }
+      ],
+      "svgCount": 76
+    },
+    {
+      "tag": "section",
+      "class": "section-banner",
+      "headings": [
+        {
+          "tag": "h1",
+          "class": "heading-style-h1 text-color-white",
+          "text": "Six services, one advisor who sees them all"
+        },
+        {
+          "tag": "h2",
+          "class": "heading-style-h6 text-color-white",
+          "text": "Wealth, investing, private banking, retirement, business banking and lending, each shaped around the plan you already have."
+        }
+      ],
+      "paragraphs": [],
+      "links": [],
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc3f82aa31e8988f72b25a_Professional%20Discussion%20(9)%201.webp",
+          "local": "/assets/images/media/6afc3f82aa31e8988f72b25a_professional-discussion-9-1.webp",
+          "alt": "Two men in a focused one-to-one conversation in an office",
+          "class": "parallax-img"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc3f82aa31e8988f72b25a_Professional%20Discussion%20(9)%201.webp",
+          "local": "/assets/images/media/6afc3f82aa31e8988f72b25a_professional-discussion-9-1.webp",
+          "alt": "",
+          "class": "banner-editorial-img"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc3f82aa31e8988f72b25a_Professional%20Discussion%20(9)%201.webp",
+          "local": "/assets/images/media/6afc3f82aa31e8988f72b25a_professional-discussion-9-1.webp",
+          "alt": "",
+          "class": "banner-editorial-img"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc3f82aa31e8988f72b25a_Professional%20Discussion%20(9)%201.webp",
+          "local": "/assets/images/media/6afc3f82aa31e8988f72b25a_professional-discussion-9-1.webp",
+          "alt": "",
+          "class": "banner-editorial-img"
+        }
+      ],
+      "svgCount": 0
+    },
+    {
+      "tag": "section",
+      "class": "section-services-split",
+      "headings": [
+        {
+          "tag": "h2",
+          "class": "heading-style-h2 w-variant-7ebe003d-ed57-e2df-8967-fa6fd62c4234",
+          "text": "Banking and investing, handled by one team."
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h4 is-on-dark",
+          "text": "Wealth management"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5 w-variant-7ebe003d-ed57-e2df-8967-fa6fd62c4234",
+          "text": "Wealth management"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5 w-variant-7ebe003d-ed57-e2df-8967-fa6fd62c4234",
+          "text": "Investment portfolios"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5 w-variant-7ebe003d-ed57-e2df-8967-fa6fd62c4234",
+          "text": "Private banking"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5 w-variant-7ebe003d-ed57-e2df-8967-fa6fd62c4234",
+          "text": "Retirement planning"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5 w-variant-7ebe003d-ed57-e2df-8967-fa6fd62c4234",
+          "text": "Business banking"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5 w-variant-7ebe003d-ed57-e2df-8967-fa6fd62c4234",
+          "text": "Lending and mortgages"
+        }
+      ],
+      "paragraphs": [
+        "Choose a single service or combine them into one plan, managed by an advisor who sees the full picture.",
+        "One advisor and one plan for everything you own, earn and want to pass on.",
+        "One advisor and one plan for everything you own, earn and want to pass on.",
+        "Diversified, low-cost portfolios matched to your goals and your risk tolerance.",
+        "A dedicated banker, priority service and accounts built around your cash flow.",
+        "A clear answer to when you can stop working, and how to get there.",
+        "Accounts, payments and treasury tools for growing companies.",
+        "Mortgages and credit structured around your full financial position."
+      ],
+      "links": [
+        {
+          "href": "/services/wealth-management",
+          "text": "01 Wealth management One advisor and one plan for everything you own, earn and want to pass on. View service",
+          "class": "services-featured-card w-inline-block"
+        },
+        {
+          "href": "/services/wealth-management",
+          "text": "01 Wealth management One advisor and one plan for everything you own, earn and want to pass on.",
+          "class": "services-card w-variant-7ebe003d-ed57-e2df-8967-fa6fd62c4234 is-link w-inline-block"
+        },
+        {
+          "href": "/services/investment-portfolios",
+          "text": "02 Investment portfolios Diversified, low-cost portfolios matched to your goals and your risk tolerance.",
+          "class": "services-card w-variant-7ebe003d-ed57-e2df-8967-fa6fd62c4234 is-link w-inline-block"
+        },
+        {
+          "href": "/services/private-banking",
+          "text": "03 Private banking A dedicated banker, priority service and accounts built around your cash flow.",
+          "class": "services-card w-variant-7ebe003d-ed57-e2df-8967-fa6fd62c4234 is-link w-inline-block"
+        },
+        {
+          "href": "/services/retirement-planning",
+          "text": "04 Retirement planning A clear answer to when you can stop working, and how to get there.",
+          "class": "services-card w-variant-7ebe003d-ed57-e2df-8967-fa6fd62c4234 is-link w-inline-block"
+        },
+        {
+          "href": "/services/business-banking",
+          "text": "05 Business banking Accounts, payments and treasury tools for growing companies.",
+          "class": "services-card w-variant-7ebe003d-ed57-e2df-8967-fa6fd62c4234 is-link w-inline-block"
+        },
+        {
+          "href": "/services/lending-and-mortgages",
+          "text": "06 Lending and mortgages Mortgages and credit structured around your full financial position.",
+          "class": "services-card w-variant-7ebe003d-ed57-e2df-8967-fa6fd62c4234 is-link w-inline-block"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afbc18a61535adcef60ebd3_Professional%20Discussion%20(7)%201.webp",
+          "local": "/assets/images/media/6afbc18a61535adcef60ebd3_professional-discussion-7-1.webp",
+          "alt": "Advisor meeting a couple at a table in a bright office",
+          "class": "services-split-img"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bca9e9aa5d8af67e6a9_6afc7370d88ed11e06008a4b_Business%2520Meeting%2520Scene%2520(11)%25201.webp",
+          "local": "/assets/images/media/6afd0bca9e9aa5d8af67e6a9_6afc7370d88ed11e06008a4b_business-meeting-scene-11-1.webp",
+          "alt": "Advisor walking two clients through a plan on a whiteboard",
+          "class": "services-split-img"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6b4_6afc72e17f3094a19b1c1d33_Woman%2520Analyzing%2520Financial%2520Charts%2520on%2520Desktop%2520Monitor%25201.webp",
+          "local": "/assets/images/media/6afd0bcb9e9aa5d8af67e6b4_6afc72e17f3094a19b1c1d33_woman-analyzing-financial-charts-on-desktop-monitor-1.webp",
+          "alt": "Woman analysing market charts on a desktop monitor",
+          "class": "services-split-img"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6b8_6afc72390c98fa052de6ef1f_Professional%2520Discussion%2520(10)%25201.webp",
+          "local": "/assets/images/media/6afd0bcb9e9aa5d8af67e6b8_6afc72390c98fa052de6ef1f_professional-discussion-10-1.webp",
+          "alt": "Private banker reviewing a document with a client in his office",
+          "class": "services-split-img"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bd47ca8a3e5b2ef8386_6afc7400af8765fd91d016c6_Elderly%2520Couple%2520Relaxing%25201.webp",
+          "local": "/assets/images/media/6afd0bd47ca8a3e5b2ef8386_6afc7400af8765fd91d016c6_elderly-couple-relaxing-1.webp",
+          "alt": "Retired couple relaxing together on a sofa at home",
+          "class": "services-split-img"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6cc_6afc732840cd4db306e3afae_Business%2520Meeting%2520Scene%2520(10)%25201.webp",
+          "local": "/assets/images/media/6afd0bcb9e9aa5d8af67e6cc_6afc732840cd4db306e3afae_business-meeting-scene-10-1.webp",
+          "alt": "Business owner leading a meeting with his team",
+          "class": "services-split-img"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6d7_6afc72891e2e0fde6bc0778b_Key%2520Exchange%2520Outdoors%2520(1)%25201.webp",
+          "local": "/assets/images/media/6afd0bcb9e9aa5d8af67e6d7_6afc72891e2e0fde6bc0778b_key-exchange-outdoors-1-1.webp",
+          "alt": "Couple receiving the keys to their new home",
+          "class": "services-split-img"
+        }
+      ],
+      "svgCount": 14
+    },
+    {
+      "tag": "section",
+      "class": "section-timeline background-color-light-grey",
+      "headings": [
+        {
+          "tag": "h2",
+          "class": "heading-style-h2",
+          "text": "A clear path from first call to a working plan"
+        },
+        {
+          "tag": "h2",
+          "class": "heading-style-h2",
+          "text": "A clear path from first call to a working plan"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "Free consultation"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "Transparent fee proposal"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "Your financial plan"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5",
+          "text": "Ongoing reviews"
+        }
+      ],
+      "paragraphs": [
+        "Tell us about your goals. We review where you are today and explain your options honestly, at no cost.",
+        "You receive a clear, written proposal with every fee shown, so you know exactly what to expect.",
+        "We build a written plan covering savings, investments, protection and retirement, matched to your risk level.",
+        "Your advisor reviews the plan with you regularly and adjusts it as your life and the markets change.",
+        "No surprises: you receive a clear, written fee proposal before anything begins."
+      ],
+      "links": [],
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc3f8235a2dd180101dd29_Professional%20Discussion%20(8)%201.webp",
+          "local": "/assets/images/media/6afc3f8235a2dd180101dd29_professional-discussion-8-1.webp",
+          "alt": "Advisor and client discussing paperwork across a desk",
+          "class": "img-timeline w-variant-81314b02-c6d1-4955-494e-bb48be0067b6"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc3f8235a2dd180101dd29_Professional%20Discussion%20(8)%201.webp",
+          "local": "/assets/images/media/6afc3f8235a2dd180101dd29_professional-discussion-8-1.webp",
+          "alt": "Advisor and client discussing paperwork across a desk",
+          "class": "img-timeline w-variant-81314b02-c6d1-4955-494e-bb48be0067b6"
+        }
+      ],
+      "svgCount": 0
+    },
+    {
+      "tag": "section",
+      "class": "section-service-finder",
+      "headings": [
+        {
+          "tag": "h2",
+          "class": "heading-style-h2",
+          "text": "Find the right service for you"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5 is-finder-title",
+          "text": "Individuals"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5 is-finder-title",
+          "text": "Families"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5 is-finder-title",
+          "text": "Founders"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h5 is-finder-title",
+          "text": "Businesses"
+        }
+      ],
+      "paragraphs": [
+        "Pick the profile closest to yours and start with the services that fit. Your advisor tailors the rest.",
+        "Bank, save and invest with one advisor who knows your goals.",
+        "Plan school fees, a home and what you pass on, as one household.",
+        "Keep personal and company money apart, and plan the exit early.",
+        "Accounts, credit lines and cash flow, with a banker who answers."
+      ],
+      "links": [
+        {
+          "href": "/contact-v1",
+          "text": "Talk to an advisor",
+          "class": "btn w-inline-block"
+        },
+        {
+          "href": "/services/private-banking",
+          "text": "Private banking",
+          "class": "finder-chip"
+        },
+        {
+          "href": "/services/investment-portfolios",
+          "text": "Investment portfolios",
+          "class": "finder-chip"
+        },
+        {
+          "href": "/services/wealth-management",
+          "text": "Wealth management",
+          "class": "finder-chip"
+        },
+        {
+          "href": "/services/retirement-planning",
+          "text": "Retirement planning",
+          "class": "finder-chip"
+        },
+        {
+          "href": "/services/business-banking",
+          "text": "Business banking",
+          "class": "finder-chip"
+        },
+        {
+          "href": "/services/wealth-management",
+          "text": "Wealth management",
+          "class": "finder-chip"
+        },
+        {
+          "href": "/services/business-banking",
+          "text": "Business banking",
+          "class": "finder-chip"
+        },
+        {
+          "href": "/services/lending-and-mortgages",
+          "text": "Lending and mortgages",
+          "class": "finder-chip"
+        }
+      ],
+      "images": [],
+      "svgCount": 5
+    },
+    {
+      "tag": "section",
+      "class": "section-security",
+      "headings": [
+        {
+          "tag": "h2",
+          "class": "heading-style-h2 is-inherit",
+          "text": "Safeguards on every service we run"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h6 is-inherit",
+          "text": "Segregated client assets"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h6 is-inherit",
+          "text": "Two-person approvals"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h6 is-inherit",
+          "text": "Independent audits"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h6 is-inherit",
+          "text": "Deposit protection"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h4 is-inherit",
+          "text": "Independent audits"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h6 is-inherit",
+          "text": "Two-person approvals"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h6 is-inherit",
+          "text": "Segregated client assets"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h6 is-inherit",
+          "text": "Encrypted documents"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h6 is-inherit",
+          "text": "Deposit protection"
+        }
+      ],
+      "paragraphs": [
+        "Whether we hold your savings, your portfolio or your company account, the same controls apply.",
+        "Investments are held with regulated custodians, kept apart from our own balance sheet.",
+        "Large transfers and portfolio changes need sign-off from two members of staff.",
+        "External auditors review our controls every year and report directly to the board.",
+        "Eligible cash balances fall under the national guarantee scheme. Sample copy, edit for your region.",
+        "External auditors review our controls every year and report directly to the board.",
+        "Large transfers and portfolio changes need sign-off from two members of staff.",
+        "Investments are held with regulated custodians, kept apart from our own balance sheet.",
+        "Statements, plans and contracts are shared through an encrypted client portal, never plain email.",
+        "Eligible cash balances fall under the national guarantee scheme. Sample copy, edit for your region."
+      ],
+      "links": [
+        {
+          "href": "/contact-v1",
+          "text": "Ask about security",
+          "class": "btn w-inline-block"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc3f821f018b2f20a63775_Business%20Discussion%20(1)%201.webp",
+          "local": "/assets/images/media/6afc3f821f018b2f20a63775_business-discussion-1-1.webp",
+          "alt": "Advisors talking through account safeguards in a bright office",
+          "class": "security-img"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc3f821f018b2f20a63775_Business%20Discussion%20(1)%201.webp",
+          "local": "/assets/images/media/6afc3f821f018b2f20a63775_business-discussion-1-1.webp",
+          "alt": "Advisors talking through account safeguards in a bright office",
+          "class": "security-img"
+        }
+      ],
+      "svgCount": 10
+    },
+    {
+      "tag": "section",
+      "class": "section-testimonial",
+      "headings": [
+        {
+          "tag": "h2",
+          "class": "heading-style-h2",
+          "text": "What clients say about our services"
+        }
+      ],
+      "paragraphs": [],
+      "links": [],
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39574_Weight%3DRegular%20(1).svg",
+          "local": "/assets/icons/6af5425e48b17c8a81d39574_weight-regular-1-.svg",
+          "alt": "Icon Line Quote",
+          "class": "icon-56"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3993a_6aa79f39e4ffc4ef227d9100_6a92eddafe4ac4fdef10d1c2_Neutral%252520Portrait%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d3993a_6aa79f39e4ffc4ef227d9100_6a92eddafe4ac4fdef10d1c2_neutral-20portrait-201.webp",
+          "alt": "Portrait of Marcus B., a Vaxmor client",
+          "class": "testimonial-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3993a_6aa79f39e4ffc4ef227d9100_6a92eddafe4ac4fdef10d1c2_Neutral%252520Portrait%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d3993a_6aa79f39e4ffc4ef227d9100_6a92eddafe4ac4fdef10d1c2_neutral-20portrait-201.webp",
+          "alt": "Portrait of Marcus B., a Vaxmor client",
+          "class": "img-services"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39574_Weight%3DRegular%20(1).svg",
+          "local": "/assets/icons/6af5425e48b17c8a81d39574_weight-regular-1-.svg",
+          "alt": "Icon Line Quote",
+          "class": "icon-56"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398b5_6aa79f39e4ffc4ef227d90f0_6a92eddafe4ac4fdef10d225_Confident%252520Woman%252520Portrait%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d398b5_6aa79f39e4ffc4ef227d90f0_6a92eddafe4ac4fdef10d225_confident-20woman-20portrait-201.webp",
+          "alt": "Portrait of Patricia H., a Vaxmor client",
+          "class": "testimonial-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398b5_6aa79f39e4ffc4ef227d90f0_6a92eddafe4ac4fdef10d225_Confident%252520Woman%252520Portrait%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d398b5_6aa79f39e4ffc4ef227d90f0_6a92eddafe4ac4fdef10d225_confident-20woman-20portrait-201.webp",
+          "alt": "Portrait of Patricia H., a Vaxmor client",
+          "class": "img-services"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39574_Weight%3DRegular%20(1).svg",
+          "local": "/assets/icons/6af5425e48b17c8a81d39574_weight-regular-1-.svg",
+          "alt": "Icon Line Quote",
+          "class": "icon-56"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d39905_6aa79f39e4ffc4ef227d90fd_6a92eddafe4ac4fdef10d24a_Portrait%252520of%252520a%252520Gentleman%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d39905_6aa79f39e4ffc4ef227d90fd_6a92eddafe4ac4fdef10d24a_portrait-20of-20a-20gentleman-201.webp",
+          "alt": "Portrait of Daniel K., a Vaxmor client",
+          "class": "testimonial-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d39905_6aa79f39e4ffc4ef227d90fd_6a92eddafe4ac4fdef10d24a_Portrait%252520of%252520a%252520Gentleman%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d39905_6aa79f39e4ffc4ef227d90fd_6a92eddafe4ac4fdef10d24a_portrait-20of-20a-20gentleman-201.webp",
+          "alt": "Portrait of Daniel K., a Vaxmor client",
+          "class": "img-services"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39574_Weight%3DRegular%20(1).svg",
+          "local": "/assets/icons/6af5425e48b17c8a81d39574_weight-regular-1-.svg",
+          "alt": "Icon Line Quote",
+          "class": "icon-56"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398d7_6aa79f39e4ffc4ef227d90f3_6a92eddafe4ac4fdef10d1d8_Portrait%252520of%252520a%252520Man%252520(1)%2525202.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d398d7_6aa79f39e4ffc4ef227d90f3_6a92eddafe4ac4fdef10d1d8_portrait-20of-20a-20man-20-1-202.webp",
+          "alt": "Portrait of James P., a Vaxmor client",
+          "class": "testimonial-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398d7_6aa79f39e4ffc4ef227d90f3_6a92eddafe4ac4fdef10d1d8_Portrait%252520of%252520a%252520Man%252520(1)%2525202.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d398d7_6aa79f39e4ffc4ef227d90f3_6a92eddafe4ac4fdef10d1d8_portrait-20of-20a-20man-20-1-202.webp",
+          "alt": "Portrait of James P., a Vaxmor client",
+          "class": "img-services"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39574_Weight%3DRegular%20(1).svg",
+          "local": "/assets/icons/6af5425e48b17c8a81d39574_weight-regular-1-.svg",
+          "alt": "Icon Line Quote",
+          "class": "icon-56"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3995d_6aa79f39e4ffc4ef227d9106_6a92eddafe4ac4fdef10d24c_Professional%252520Portrait%252520(10)%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d3995d_6aa79f39e4ffc4ef227d9106_6a92eddafe4ac4fdef10d24c_professional-20portrait-20-10-201.webp",
+          "alt": "Portrait of Maria S., a Vaxmor client",
+          "class": "testimonial-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3995d_6aa79f39e4ffc4ef227d9106_6a92eddafe4ac4fdef10d24c_Professional%252520Portrait%252520(10)%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d3995d_6aa79f39e4ffc4ef227d9106_6a92eddafe4ac4fdef10d24c_professional-20portrait-20-10-201.webp",
+          "alt": "Portrait of Maria S., a Vaxmor client",
+          "class": "img-services"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39574_Weight%3DRegular%20(1).svg",
+          "local": "/assets/icons/6af5425e48b17c8a81d39574_weight-regular-1-.svg",
+          "alt": "Icon Line Quote",
+          "class": "icon-56"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3991d_6aa79f39e4ffc4ef227d90fa_6a92eddafe4ac4fdef10d24b_Portrait%252520of%252520a%252520Man%252520(2)%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d3991d_6aa79f39e4ffc4ef227d90fa_6a92eddafe4ac4fdef10d24b_portrait-20of-20a-20man-20-2-201.webp",
+          "alt": "Portrait of Thomas W., a Vaxmor client",
+          "class": "testimonial-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3991d_6aa79f39e4ffc4ef227d90fa_6a92eddafe4ac4fdef10d24b_Portrait%252520of%252520a%252520Man%252520(2)%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d3991d_6aa79f39e4ffc4ef227d90fa_6a92eddafe4ac4fdef10d24b_portrait-20of-20a-20man-20-2-201.webp",
+          "alt": "Portrait of Thomas W., a Vaxmor client",
+          "class": "img-services"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39574_Weight%3DRegular%20(1).svg",
+          "local": "/assets/icons/6af5425e48b17c8a81d39574_weight-regular-1-.svg",
+          "alt": "Icon Line Quote",
+          "class": "icon-56"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398ee_6aa79f39e4ffc4ef227d90f6_6a92eddafe4ac4fdef10d1ef_Professional%252520Portrait%252520(11)%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d398ee_6aa79f39e4ffc4ef227d90f6_6a92eddafe4ac4fdef10d1ef_professional-20portrait-20-11-201.webp",
+          "alt": "Portrait of Karen D., a Vaxmor client",
+          "class": "testimonial-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398ee_6aa79f39e4ffc4ef227d90f6_6a92eddafe4ac4fdef10d1ef_Professional%252520Portrait%252520(11)%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d398ee_6aa79f39e4ffc4ef227d90f6_6a92eddafe4ac4fdef10d1ef_professional-20portrait-20-11-201.webp",
+          "alt": "Portrait of Karen D., a Vaxmor client",
+          "class": "img-services"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39574_Weight%3DRegular%20(1).svg",
+          "local": "/assets/icons/6af5425e48b17c8a81d39574_weight-regular-1-.svg",
+          "alt": "Icon Line Quote",
+          "class": "icon-56"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3994c_6aa79f39e4ffc4ef227d9103_6a92eddafe4ac4fdef10d238_Portrait%252520of%252520Young%252520Man%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d3994c_6aa79f39e4ffc4ef227d9103_6a92eddafe4ac4fdef10d238_portrait-20of-20young-20man-201.webp",
+          "alt": "Portrait of Robert M., a Vaxmor client",
+          "class": "testimonial-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3994c_6aa79f39e4ffc4ef227d9103_6a92eddafe4ac4fdef10d238_Portrait%252520of%252520Young%252520Man%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d3994c_6aa79f39e4ffc4ef227d9103_6a92eddafe4ac4fdef10d238_portrait-20of-20young-20man-201.webp",
+          "alt": "Portrait of Robert M., a Vaxmor client",
+          "class": "img-services"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39574_Weight%3DRegular%20(1).svg",
+          "local": "/assets/icons/6af5425e48b17c8a81d39574_weight-regular-1-.svg",
+          "alt": "Icon Line Quote",
+          "class": "icon-56"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3993a_6aa79f39e4ffc4ef227d9100_6a92eddafe4ac4fdef10d1c2_Neutral%252520Portrait%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d3993a_6aa79f39e4ffc4ef227d9100_6a92eddafe4ac4fdef10d1c2_neutral-20portrait-201.webp",
+          "alt": "Portrait of Marcus B., a Vaxmor client",
+          "class": "testimonial-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3993a_6aa79f39e4ffc4ef227d9100_6a92eddafe4ac4fdef10d1c2_Neutral%252520Portrait%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d3993a_6aa79f39e4ffc4ef227d9100_6a92eddafe4ac4fdef10d1c2_neutral-20portrait-201.webp",
+          "alt": "Portrait of Marcus B., a Vaxmor client",
+          "class": "testimonial-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39574_Weight%3DRegular%20(1).svg",
+          "local": "/assets/icons/6af5425e48b17c8a81d39574_weight-regular-1-.svg",
+          "alt": "Icon Line Quote",
+          "class": "icon-56"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398b5_6aa79f39e4ffc4ef227d90f0_6a92eddafe4ac4fdef10d225_Confident%252520Woman%252520Portrait%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d398b5_6aa79f39e4ffc4ef227d90f0_6a92eddafe4ac4fdef10d225_confident-20woman-20portrait-201.webp",
+          "alt": "Portrait of Patricia H., a Vaxmor client",
+          "class": "testimonial-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398b5_6aa79f39e4ffc4ef227d90f0_6a92eddafe4ac4fdef10d225_Confident%252520Woman%252520Portrait%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d398b5_6aa79f39e4ffc4ef227d90f0_6a92eddafe4ac4fdef10d225_confident-20woman-20portrait-201.webp",
+          "alt": "Portrait of Patricia H., a Vaxmor client",
+          "class": "testimonial-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39574_Weight%3DRegular%20(1).svg",
+          "local": "/assets/icons/6af5425e48b17c8a81d39574_weight-regular-1-.svg",
+          "alt": "Icon Line Quote",
+          "class": "icon-56"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d39905_6aa79f39e4ffc4ef227d90fd_6a92eddafe4ac4fdef10d24a_Portrait%252520of%252520a%252520Gentleman%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d39905_6aa79f39e4ffc4ef227d90fd_6a92eddafe4ac4fdef10d24a_portrait-20of-20a-20gentleman-201.webp",
+          "alt": "Portrait of Daniel K., a Vaxmor client",
+          "class": "testimonial-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d39905_6aa79f39e4ffc4ef227d90fd_6a92eddafe4ac4fdef10d24a_Portrait%252520of%252520a%252520Gentleman%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d39905_6aa79f39e4ffc4ef227d90fd_6a92eddafe4ac4fdef10d24a_portrait-20of-20a-20gentleman-201.webp",
+          "alt": "Portrait of Daniel K., a Vaxmor client",
+          "class": "testimonial-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39574_Weight%3DRegular%20(1).svg",
+          "local": "/assets/icons/6af5425e48b17c8a81d39574_weight-regular-1-.svg",
+          "alt": "Icon Line Quote",
+          "class": "icon-56"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398d7_6aa79f39e4ffc4ef227d90f3_6a92eddafe4ac4fdef10d1d8_Portrait%252520of%252520a%252520Man%252520(1)%2525202.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d398d7_6aa79f39e4ffc4ef227d90f3_6a92eddafe4ac4fdef10d1d8_portrait-20of-20a-20man-20-1-202.webp",
+          "alt": "Portrait of James P., a Vaxmor client",
+          "class": "testimonial-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398d7_6aa79f39e4ffc4ef227d90f3_6a92eddafe4ac4fdef10d1d8_Portrait%252520of%252520a%252520Man%252520(1)%2525202.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d398d7_6aa79f39e4ffc4ef227d90f3_6a92eddafe4ac4fdef10d1d8_portrait-20of-20a-20man-20-1-202.webp",
+          "alt": "Portrait of James P., a Vaxmor client",
+          "class": "testimonial-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39574_Weight%3DRegular%20(1).svg",
+          "local": "/assets/icons/6af5425e48b17c8a81d39574_weight-regular-1-.svg",
+          "alt": "Icon Line Quote",
+          "class": "icon-56"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3995d_6aa79f39e4ffc4ef227d9106_6a92eddafe4ac4fdef10d24c_Professional%252520Portrait%252520(10)%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d3995d_6aa79f39e4ffc4ef227d9106_6a92eddafe4ac4fdef10d24c_professional-20portrait-20-10-201.webp",
+          "alt": "Portrait of Maria S., a Vaxmor client",
+          "class": "testimonial-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3995d_6aa79f39e4ffc4ef227d9106_6a92eddafe4ac4fdef10d24c_Professional%252520Portrait%252520(10)%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d3995d_6aa79f39e4ffc4ef227d9106_6a92eddafe4ac4fdef10d24c_professional-20portrait-20-10-201.webp",
+          "alt": "Portrait of Maria S., a Vaxmor client",
+          "class": "testimonial-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39574_Weight%3DRegular%20(1).svg",
+          "local": "/assets/icons/6af5425e48b17c8a81d39574_weight-regular-1-.svg",
+          "alt": "Icon Line Quote",
+          "class": "icon-56"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3991d_6aa79f39e4ffc4ef227d90fa_6a92eddafe4ac4fdef10d24b_Portrait%252520of%252520a%252520Man%252520(2)%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d3991d_6aa79f39e4ffc4ef227d90fa_6a92eddafe4ac4fdef10d24b_portrait-20of-20a-20man-20-2-201.webp",
+          "alt": "Portrait of Thomas W., a Vaxmor client",
+          "class": "testimonial-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3991d_6aa79f39e4ffc4ef227d90fa_6a92eddafe4ac4fdef10d24b_Portrait%252520of%252520a%252520Man%252520(2)%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d3991d_6aa79f39e4ffc4ef227d90fa_6a92eddafe4ac4fdef10d24b_portrait-20of-20a-20man-20-2-201.webp",
+          "alt": "Portrait of Thomas W., a Vaxmor client",
+          "class": "testimonial-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39574_Weight%3DRegular%20(1).svg",
+          "local": "/assets/icons/6af5425e48b17c8a81d39574_weight-regular-1-.svg",
+          "alt": "Icon Line Quote",
+          "class": "icon-56"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398ee_6aa79f39e4ffc4ef227d90f6_6a92eddafe4ac4fdef10d1ef_Professional%252520Portrait%252520(11)%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d398ee_6aa79f39e4ffc4ef227d90f6_6a92eddafe4ac4fdef10d1ef_professional-20portrait-20-11-201.webp",
+          "alt": "Portrait of Karen D., a Vaxmor client",
+          "class": "testimonial-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398ee_6aa79f39e4ffc4ef227d90f6_6a92eddafe4ac4fdef10d1ef_Professional%252520Portrait%252520(11)%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d398ee_6aa79f39e4ffc4ef227d90f6_6a92eddafe4ac4fdef10d1ef_professional-20portrait-20-11-201.webp",
+          "alt": "Portrait of Karen D., a Vaxmor client",
+          "class": "testimonial-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39574_Weight%3DRegular%20(1).svg",
+          "local": "/assets/icons/6af5425e48b17c8a81d39574_weight-regular-1-.svg",
+          "alt": "Icon Line Quote",
+          "class": "icon-56"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3994c_6aa79f39e4ffc4ef227d9103_6a92eddafe4ac4fdef10d238_Portrait%252520of%252520Young%252520Man%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d3994c_6aa79f39e4ffc4ef227d9103_6a92eddafe4ac4fdef10d238_portrait-20of-20young-20man-201.webp",
+          "alt": "Portrait of Robert M., a Vaxmor client",
+          "class": "testimonial-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3994c_6aa79f39e4ffc4ef227d9103_6a92eddafe4ac4fdef10d238_Portrait%252520of%252520Young%252520Man%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d3994c_6aa79f39e4ffc4ef227d9103_6a92eddafe4ac4fdef10d238_portrait-20of-20young-20man-201.webp",
+          "alt": "Portrait of Robert M., a Vaxmor client",
+          "class": "testimonial-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3993a_6aa79f39e4ffc4ef227d9100_6a92eddafe4ac4fdef10d1c2_Neutral%252520Portrait%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d3993a_6aa79f39e4ffc4ef227d9100_6a92eddafe4ac4fdef10d1c2_neutral-20portrait-201.webp",
+          "alt": "Portrait of Marcus B., a Vaxmor client",
+          "class": "testimonial-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3993a_6aa79f39e4ffc4ef227d9100_6a92eddafe4ac4fdef10d1c2_Neutral%252520Portrait%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d3993a_6aa79f39e4ffc4ef227d9100_6a92eddafe4ac4fdef10d1c2_neutral-20portrait-201.webp",
+          "alt": "Portrait of Marcus B., a Vaxmor client",
+          "class": "img-services"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398b5_6aa79f39e4ffc4ef227d90f0_6a92eddafe4ac4fdef10d225_Confident%252520Woman%252520Portrait%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d398b5_6aa79f39e4ffc4ef227d90f0_6a92eddafe4ac4fdef10d225_confident-20woman-20portrait-201.webp",
+          "alt": "Portrait of Patricia H., a Vaxmor client",
+          "class": "testimonial-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398b5_6aa79f39e4ffc4ef227d90f0_6a92eddafe4ac4fdef10d225_Confident%252520Woman%252520Portrait%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d398b5_6aa79f39e4ffc4ef227d90f0_6a92eddafe4ac4fdef10d225_confident-20woman-20portrait-201.webp",
+          "alt": "Portrait of Patricia H., a Vaxmor client",
+          "class": "img-services"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d39905_6aa79f39e4ffc4ef227d90fd_6a92eddafe4ac4fdef10d24a_Portrait%252520of%252520a%252520Gentleman%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d39905_6aa79f39e4ffc4ef227d90fd_6a92eddafe4ac4fdef10d24a_portrait-20of-20a-20gentleman-201.webp",
+          "alt": "Portrait of Daniel K., a Vaxmor client",
+          "class": "testimonial-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d39905_6aa79f39e4ffc4ef227d90fd_6a92eddafe4ac4fdef10d24a_Portrait%252520of%252520a%252520Gentleman%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d39905_6aa79f39e4ffc4ef227d90fd_6a92eddafe4ac4fdef10d24a_portrait-20of-20a-20gentleman-201.webp",
+          "alt": "Portrait of Daniel K., a Vaxmor client",
+          "class": "img-services"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398d7_6aa79f39e4ffc4ef227d90f3_6a92eddafe4ac4fdef10d1d8_Portrait%252520of%252520a%252520Man%252520(1)%2525202.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d398d7_6aa79f39e4ffc4ef227d90f3_6a92eddafe4ac4fdef10d1d8_portrait-20of-20a-20man-20-1-202.webp",
+          "alt": "Portrait of James P., a Vaxmor client",
+          "class": "testimonial-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398d7_6aa79f39e4ffc4ef227d90f3_6a92eddafe4ac4fdef10d1d8_Portrait%252520of%252520a%252520Man%252520(1)%2525202.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d398d7_6aa79f39e4ffc4ef227d90f3_6a92eddafe4ac4fdef10d1d8_portrait-20of-20a-20man-20-1-202.webp",
+          "alt": "Portrait of James P., a Vaxmor client",
+          "class": "img-services"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3993a_6aa79f39e4ffc4ef227d9100_6a92eddafe4ac4fdef10d1c2_Neutral%252520Portrait%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d3993a_6aa79f39e4ffc4ef227d9100_6a92eddafe4ac4fdef10d1c2_neutral-20portrait-201.webp",
+          "alt": "Portrait of Marcus B., a Vaxmor client",
+          "class": "testimonial-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3993a_6aa79f39e4ffc4ef227d9100_6a92eddafe4ac4fdef10d1c2_Neutral%252520Portrait%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d3993a_6aa79f39e4ffc4ef227d9100_6a92eddafe4ac4fdef10d1c2_neutral-20portrait-201.webp",
+          "alt": "Portrait of Marcus B., a Vaxmor client",
+          "class": "img-services"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398b5_6aa79f39e4ffc4ef227d90f0_6a92eddafe4ac4fdef10d225_Confident%252520Woman%252520Portrait%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d398b5_6aa79f39e4ffc4ef227d90f0_6a92eddafe4ac4fdef10d225_confident-20woman-20portrait-201.webp",
+          "alt": "Portrait of Patricia H., a Vaxmor client",
+          "class": "testimonial-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398b5_6aa79f39e4ffc4ef227d90f0_6a92eddafe4ac4fdef10d225_Confident%252520Woman%252520Portrait%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d398b5_6aa79f39e4ffc4ef227d90f0_6a92eddafe4ac4fdef10d225_confident-20woman-20portrait-201.webp",
+          "alt": "Portrait of Patricia H., a Vaxmor client",
+          "class": "img-services"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d39905_6aa79f39e4ffc4ef227d90fd_6a92eddafe4ac4fdef10d24a_Portrait%252520of%252520a%252520Gentleman%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d39905_6aa79f39e4ffc4ef227d90fd_6a92eddafe4ac4fdef10d24a_portrait-20of-20a-20gentleman-201.webp",
+          "alt": "Portrait of Daniel K., a Vaxmor client",
+          "class": "testimonial-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d39905_6aa79f39e4ffc4ef227d90fd_6a92eddafe4ac4fdef10d24a_Portrait%252520of%252520a%252520Gentleman%2525201.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d39905_6aa79f39e4ffc4ef227d90fd_6a92eddafe4ac4fdef10d24a_portrait-20of-20a-20gentleman-201.webp",
+          "alt": "Portrait of Daniel K., a Vaxmor client",
+          "class": "img-services"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398d7_6aa79f39e4ffc4ef227d90f3_6a92eddafe4ac4fdef10d1d8_Portrait%252520of%252520a%252520Man%252520(1)%2525202.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d398d7_6aa79f39e4ffc4ef227d90f3_6a92eddafe4ac4fdef10d1d8_portrait-20of-20a-20man-20-1-202.webp",
+          "alt": "Portrait of James P., a Vaxmor client",
+          "class": "testimonial-avatar"
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398d7_6aa79f39e4ffc4ef227d90f3_6a92eddafe4ac4fdef10d1d8_Portrait%252520of%252520a%252520Man%252520(1)%2525202.webp",
+          "local": "/assets/images/media/6af5425e48b17c8a81d398d7_6aa79f39e4ffc4ef227d90f3_6a92eddafe4ac4fdef10d1d8_portrait-20of-20a-20man-20-1-202.webp",
+          "alt": "Portrait of James P., a Vaxmor client",
+          "class": "img-services"
+        }
+      ],
+      "svgCount": 0
+    },
+    {
+      "tag": "section",
+      "class": "section-faq-split",
+      "headings": [
+        {
+          "tag": "h2",
+          "class": "heading-style-h2",
+          "text": "Questions about our services"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h4 text-color-white",
+          "text": "Not sure which service fits?"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h6",
+          "text": "Can I use more than one service?"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h6",
+          "text": "Is there a minimum to start?"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h6",
+          "text": "How are service fees charged?"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h6",
+          "text": "Can I change services later?"
+        },
+        {
+          "tag": "h3",
+          "class": "heading-style-h6",
+          "text": "Who manages my services day to day?"
+        }
+      ],
+      "paragraphs": [
+        "How the six services fit together, and how to choose where to begin.",
+        "Book a short call and an advisor will point you to the right starting place.",
+        "Yes. Most clients combine two or three, and one advisor coordinates all of them under a single plan.",
+        "Everyday banking has no minimum. Wealth and portfolio services start from sample thresholds you can edit.",
+        "Each service lists its fee up front. Ongoing fees are taken monthly and shown on every statement.",
+        "You can add, pause or close a service at any time, with no exit penalty.",
+        "Your named advisor leads the relationship, supported by specialists for lending, tax and investments."
+      ],
+      "links": [
+        {
+          "href": "/contact-v1",
+          "text": "Talk to an advisor",
+          "class": "btn w-variant-e9f31f79-c607-2b27-4acb-0b35343e4557 w-inline-block"
+        }
+      ],
+      "images": [],
+      "svgCount": 5
+    },
+    {
+      "tag": "section",
+      "class": "section-cta-account",
+      "headings": [
+        {
+          "tag": "h2",
+          "class": "heading-style-h2",
+          "text": "Ready to pick your first service?"
+        }
+      ],
+      "paragraphs": [
+        "Start with one service today and add the rest as your plans grow."
+      ],
+      "links": [
+        {
+          "href": "/contact-v1",
+          "text": "Open account",
+          "class": "btn w-inline-block"
+        },
+        {
+          "href": "/contact-v2",
+          "text": "Talk to an advisor",
+          "class": "btn w-variant-1b61d514-ac9e-2ab2-daee-0f4197e82870 w-inline-block"
+        }
+      ],
+      "images": [],
+      "svgCount": 1
+    },
+    {
+      "tag": "footer",
+      "class": "footer-light",
+      "headings": [
+        {
+          "tag": "h2",
+          "class": "heading-style-h4",
+          "text": "Talk to an advisor"
+        }
+      ],
+      "paragraphs": [
+        "A named banker replies within one business day.",
+        "Independent banking and investment advice for families, founders and institutions since 2001.",
+        "Banking",
+        "Company",
+        "Template",
+        "Sample disclosure: deposits are protected up to the limits of your national guarantee scheme. Investments can fall as well as rise.",
+        "\u00a9 2026 Vaxmor. All rights reserved. Powered by"
+      ],
+      "links": [
+        {
+          "href": "/contact-v2",
+          "text": "Book a call",
+          "class": "btn w-inline-block"
+        },
+        {
+          "href": "/",
+          "text": "Vaxmor",
+          "class": "footer-logo-link w-inline-block"
+        },
+        {
+          "href": "https://www.facebook.com/",
+          "text": "",
+          "class": "footer-social w-inline-block"
+        },
+        {
+          "href": "https://www.instagram.com/",
+          "text": "",
+          "class": "footer-social w-inline-block"
+        },
+        {
+          "href": "https://www.pinterest.com/",
+          "text": "",
+          "class": "footer-social w-inline-block"
+        },
+        {
+          "href": "/services-v1",
+          "text": "Private banking",
+          "class": "footer-link w--current"
+        },
+        {
+          "href": "/services-v1",
+          "text": "Investments",
+          "class": "footer-link w--current"
+        },
+        {
+          "href": "/services-v1",
+          "text": "Business lending",
+          "class": "footer-link w--current"
+        },
+        {
+          "href": "/pricing",
+          "text": "Cards",
+          "class": "footer-link"
+        },
+        {
+          "href": "/about-us",
+          "text": "About us",
+          "class": "footer-link"
+        },
+        {
+          "href": "/blog",
+          "text": "Insights",
+          "class": "footer-link"
+        },
+        {
+          "href": "/pricing",
+          "text": "Pricing",
+          "class": "footer-link"
+        },
+        {
+          "href": "/contact-v2",
+          "text": "Contact",
+          "class": "footer-link"
+        },
+        {
+          "href": "/style-guide",
+          "text": "Style guide",
+          "class": "footer-link"
+        },
+        {
+          "href": "/instructions",
+          "text": "Instructions",
+          "class": "footer-link"
+        },
+        {
+          "href": "/licenses",
+          "text": "Licenses",
+          "class": "footer-link"
+        },
+        {
+          "href": "/changelog",
+          "text": "Changelog",
+          "class": "footer-link"
+        },
+        {
+          "href": "https://webflow.com/",
+          "text": "Webflow",
+          "class": "text-size-small"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af96ebc6cca54008f8adfb3_Vaxmor%20Dark.svg",
+          "local": "/assets/brand/6af96ebc6cca54008f8adfb3_vaxmor-dark.svg",
+          "alt": "Vaxmor logo",
+          "class": "footer-logo"
+        }
+      ],
+      "svgCount": 3
+    }
+  ]
+}
