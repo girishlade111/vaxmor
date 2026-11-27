@@ -61,7 +61,10 @@ for fn in sorted(os.listdir(HTML_DIR)):
                 u = c.split(" ")[0]
                 add_usage(u, route, "img-srcset")
 
-    for m in re.findall(r"https://cdn\.prod\.website-files\.com/[^\s\"'<>)]+", html):
+    for m in re.findall(r"https://cdn\.prod\.website-files\.com/[^\s\"'<>]+", html):
+        # Trim trailing CSS url(...) paren only if unmatched
+        if m.endswith(")") and "(" not in m:
+            m = m[:-1]
         add_usage(m, route, "html-ref")
 
 # Deduplicate responsive -p-500 / -p-800 / -p-1080 / -p-1600 / -p-2000 variants to prefer the master URL
