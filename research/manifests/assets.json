@@ -1,0 +1,3218 @@
+[
+  {
+    "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398ee_6aa79f39e4ffc4ef227d90f6_6a92eddafe4ac4fdef10d1ef_Professional%252520Portrait%252520(11",
+    "error": "HTTP Error 403: Forbidden",
+    "acquisitionStatus": "FAILED"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398d7_6aa79f39e4ffc4ef227d90f3_6a92eddafe4ac4fdef10d1d8_Portrait%252520of%252520a%252520Man%252520(1",
+    "error": "HTTP Error 403: Forbidden",
+    "acquisitionStatus": "FAILED"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3991d_6aa79f39e4ffc4ef227d90fa_6a92eddafe4ac4fdef10d24b_Portrait%252520of%252520a%252520Man%252520(2",
+    "error": "HTTP Error 403: Forbidden",
+    "acquisitionStatus": "FAILED"
+  },
+  {
+    "id": "images/media/6af5425e48b17c8a81d3991d_6aa79f39e4ffc4ef227d90fa_6a92eddafe4ac4fdef10d24b_portrait-20of-20a-20man-20-2-201.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3991d_6aa79f39e4ffc4ef227d90fa_6a92eddafe4ac4fdef10d24b_Portrait%252520of%252520a%252520Man%252520(2)%2525201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3991d_6aa79f39e4ffc4ef227d90fa_6a92eddafe4ac4fdef10d24b_Portrait%252520of%252520a%252520Man%252520(2)%2525201.webp",
+    "referenceRoutes": [
+      "/",
+      "/about-us",
+      "/home-v2",
+      "/home-v3",
+      "/pricing",
+      "/services-v1",
+      "/services-v2",
+      "/testimonial/daniel-k",
+      "/testimonial/james-p",
+      "/testimonial/karen-d",
+      "/testimonial/marcus-b",
+      "/testimonial/maria-s",
+      "/testimonial/patricia-h",
+      "/testimonial/robert-m",
+      "/testimonial/thomas-w"
+    ],
+    "roles": [
+      "img-src",
+      "meta-og:image",
+      "meta-twitter:image"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6af5425e48b17c8a81d3991d_6aa79f39e4ffc4ef227d90fa_6a92eddafe4ac4fdef10d24b_Portrait%252520of%252520a%252520Man%252520(2)%2525201.webp",
+    "originalWidth": 800,
+    "originalHeight": 800,
+    "originalFileSize": 22746,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6af5425e48b17c8a81d3991d_6aa79f39e4ffc4ef227d90fa_6a92eddafe4ac4fdef10d24b_portrait-20of-20a-20man-20-2-201.webp",
+    "deliveryPath": "/assets/images/media/6af5425e48b17c8a81d3991d_6aa79f39e4ffc4ef227d90fa_6a92eddafe4ac4fdef10d24b_portrait-20of-20a-20man-20-2-201.webp",
+    "sha256": "0cdfc7e1f10736e9d7a5dff45403a99af9a4a9f51ceaa95265e754eafa862b89",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6af5425e48b17c8a81d398d7_6aa79f39e4ffc4ef227d90f3_6a92eddafe4ac4fdef10d1d8_portrait-20of-20a-20man-20-1-202.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398d7_6aa79f39e4ffc4ef227d90f3_6a92eddafe4ac4fdef10d1d8_Portrait%252520of%252520a%252520Man%252520(1)%2525202.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398d7_6aa79f39e4ffc4ef227d90f3_6a92eddafe4ac4fdef10d1d8_Portrait%252520of%252520a%252520Man%252520(1)%2525202.webp",
+    "referenceRoutes": [
+      "/",
+      "/about-us",
+      "/home-v2",
+      "/home-v3",
+      "/pricing",
+      "/services-v1",
+      "/services-v2",
+      "/testimonial/daniel-k",
+      "/testimonial/james-p",
+      "/testimonial/karen-d",
+      "/testimonial/marcus-b",
+      "/testimonial/maria-s",
+      "/testimonial/patricia-h",
+      "/testimonial/robert-m",
+      "/testimonial/thomas-w"
+    ],
+    "roles": [
+      "img-src",
+      "meta-og:image",
+      "meta-twitter:image"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6af5425e48b17c8a81d398d7_6aa79f39e4ffc4ef227d90f3_6a92eddafe4ac4fdef10d1d8_Portrait%252520of%252520a%252520Man%252520(1)%2525202.webp",
+    "originalWidth": 800,
+    "originalHeight": 800,
+    "originalFileSize": 22096,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6af5425e48b17c8a81d398d7_6aa79f39e4ffc4ef227d90f3_6a92eddafe4ac4fdef10d1d8_portrait-20of-20a-20man-20-1-202.webp",
+    "deliveryPath": "/assets/images/media/6af5425e48b17c8a81d398d7_6aa79f39e4ffc4ef227d90f3_6a92eddafe4ac4fdef10d1d8_portrait-20of-20a-20man-20-1-202.webp",
+    "sha256": "39026511966ac530cbed5ac4eb2dbf8e0e464998f6bc5a86e44ca6f00cdc145d",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6af5425e48b17c8a81d398ee_6aa79f39e4ffc4ef227d90f6_6a92eddafe4ac4fdef10d1ef_professional-20portrait-20-11-201.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398ee_6aa79f39e4ffc4ef227d90f6_6a92eddafe4ac4fdef10d1ef_Professional%252520Portrait%252520(11)%2525201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398ee_6aa79f39e4ffc4ef227d90f6_6a92eddafe4ac4fdef10d1ef_Professional%252520Portrait%252520(11)%2525201.webp",
+    "referenceRoutes": [
+      "/",
+      "/about-us",
+      "/home-v2",
+      "/home-v3",
+      "/pricing",
+      "/services-v1",
+      "/services-v2",
+      "/testimonial/daniel-k",
+      "/testimonial/james-p",
+      "/testimonial/karen-d",
+      "/testimonial/marcus-b",
+      "/testimonial/maria-s",
+      "/testimonial/patricia-h",
+      "/testimonial/robert-m",
+      "/testimonial/thomas-w"
+    ],
+    "roles": [
+      "img-src",
+      "meta-og:image",
+      "meta-twitter:image"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6af5425e48b17c8a81d398ee_6aa79f39e4ffc4ef227d90f6_6a92eddafe4ac4fdef10d1ef_Professional%252520Portrait%252520(11)%2525201.webp",
+    "originalWidth": 800,
+    "originalHeight": 800,
+    "originalFileSize": 22098,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6af5425e48b17c8a81d398ee_6aa79f39e4ffc4ef227d90f6_6a92eddafe4ac4fdef10d1ef_professional-20portrait-20-11-201.webp",
+    "deliveryPath": "/assets/images/media/6af5425e48b17c8a81d398ee_6aa79f39e4ffc4ef227d90f6_6a92eddafe4ac4fdef10d1ef_professional-20portrait-20-11-201.webp",
+    "sha256": "93377a528b157e37e8964ecea9380e5160bc073f58af3d5a1d32f6ca23dff7d1",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6af5425e48b17c8a81d39905_6aa79f39e4ffc4ef227d90fd_6a92eddafe4ac4fdef10d24a_portrait-20of-20a-20gentleman-201.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d39905_6aa79f39e4ffc4ef227d90fd_6a92eddafe4ac4fdef10d24a_Portrait%252520of%252520a%252520Gentleman%2525201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d39905_6aa79f39e4ffc4ef227d90fd_6a92eddafe4ac4fdef10d24a_Portrait%252520of%252520a%252520Gentleman%2525201.webp",
+    "referenceRoutes": [
+      "/",
+      "/about-us",
+      "/home-v2",
+      "/home-v3",
+      "/pricing",
+      "/services-v1",
+      "/services-v2",
+      "/testimonial/daniel-k",
+      "/testimonial/james-p",
+      "/testimonial/karen-d",
+      "/testimonial/marcus-b",
+      "/testimonial/maria-s",
+      "/testimonial/patricia-h",
+      "/testimonial/robert-m",
+      "/testimonial/thomas-w"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src",
+      "meta-og:image",
+      "meta-twitter:image"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6af5425e48b17c8a81d39905_6aa79f39e4ffc4ef227d90fd_6a92eddafe4ac4fdef10d24a_Portrait%252520of%252520a%252520Gentleman%2525201.webp",
+    "originalWidth": 800,
+    "originalHeight": 800,
+    "originalFileSize": 28334,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6af5425e48b17c8a81d39905_6aa79f39e4ffc4ef227d90fd_6a92eddafe4ac4fdef10d24a_portrait-20of-20a-20gentleman-201.webp",
+    "deliveryPath": "/assets/images/media/6af5425e48b17c8a81d39905_6aa79f39e4ffc4ef227d90fd_6a92eddafe4ac4fdef10d24a_portrait-20of-20a-20gentleman-201.webp",
+    "sha256": "c2442b538a89fdba5a4d61eee52afd849e4325ef3c262a392e58c6b13a259bc0",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6af5425e48b17c8a81d398b5_6aa79f39e4ffc4ef227d90f0_6a92eddafe4ac4fdef10d225_confident-20woman-20portrait-201.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398b5_6aa79f39e4ffc4ef227d90f0_6a92eddafe4ac4fdef10d225_Confident%252520Woman%252520Portrait%2525201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d398b5_6aa79f39e4ffc4ef227d90f0_6a92eddafe4ac4fdef10d225_Confident%252520Woman%252520Portrait%2525201.webp",
+    "referenceRoutes": [
+      "/",
+      "/about-us",
+      "/home-v2",
+      "/home-v3",
+      "/pricing",
+      "/services-v1",
+      "/services-v2",
+      "/testimonial/daniel-k",
+      "/testimonial/james-p",
+      "/testimonial/karen-d",
+      "/testimonial/marcus-b",
+      "/testimonial/maria-s",
+      "/testimonial/patricia-h",
+      "/testimonial/robert-m",
+      "/testimonial/thomas-w"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src",
+      "meta-og:image",
+      "meta-twitter:image"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6af5425e48b17c8a81d398b5_6aa79f39e4ffc4ef227d90f0_6a92eddafe4ac4fdef10d225_Confident%252520Woman%252520Portrait%2525201.webp",
+    "originalWidth": 800,
+    "originalHeight": 800,
+    "originalFileSize": 19216,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6af5425e48b17c8a81d398b5_6aa79f39e4ffc4ef227d90f0_6a92eddafe4ac4fdef10d225_confident-20woman-20portrait-201.webp",
+    "deliveryPath": "/assets/images/media/6af5425e48b17c8a81d398b5_6aa79f39e4ffc4ef227d90f0_6a92eddafe4ac4fdef10d225_confident-20woman-20portrait-201.webp",
+    "sha256": "04a285571af73431826ff8bcfde60e0813848766116fe01cae4fc2d04b627fff",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6af5425e48b17c8a81d3994c_6aa79f39e4ffc4ef227d9103_6a92eddafe4ac4fdef10d238_portrait-20of-20young-20man-201.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3994c_6aa79f39e4ffc4ef227d9103_6a92eddafe4ac4fdef10d238_Portrait%252520of%252520Young%252520Man%2525201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3994c_6aa79f39e4ffc4ef227d9103_6a92eddafe4ac4fdef10d238_Portrait%252520of%252520Young%252520Man%2525201.webp",
+    "referenceRoutes": [
+      "/about-us",
+      "/services-v1",
+      "/services-v2",
+      "/testimonial/robert-m"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src",
+      "meta-og:image",
+      "meta-twitter:image"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6af5425e48b17c8a81d3994c_6aa79f39e4ffc4ef227d9103_6a92eddafe4ac4fdef10d238_Portrait%252520of%252520Young%252520Man%2525201.webp",
+    "originalWidth": 800,
+    "originalHeight": 800,
+    "originalFileSize": 20616,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6af5425e48b17c8a81d3994c_6aa79f39e4ffc4ef227d9103_6a92eddafe4ac4fdef10d238_portrait-20of-20young-20man-201.webp",
+    "deliveryPath": "/assets/images/media/6af5425e48b17c8a81d3994c_6aa79f39e4ffc4ef227d9103_6a92eddafe4ac4fdef10d238_portrait-20of-20young-20man-201.webp",
+    "sha256": "03139ed63b916efb6e23431fa384861eadccabc55bde207d48a9da2dd2351a4e",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6af5425e48b17c8a81d3993a_6aa79f39e4ffc4ef227d9100_6a92eddafe4ac4fdef10d1c2_neutral-20portrait-201.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3993a_6aa79f39e4ffc4ef227d9100_6a92eddafe4ac4fdef10d1c2_Neutral%252520Portrait%2525201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3993a_6aa79f39e4ffc4ef227d9100_6a92eddafe4ac4fdef10d1c2_Neutral%252520Portrait%2525201.webp",
+    "referenceRoutes": [
+      "/",
+      "/about-us",
+      "/home-v2",
+      "/home-v3",
+      "/pricing",
+      "/services-v1",
+      "/services-v2",
+      "/testimonial/daniel-k",
+      "/testimonial/james-p",
+      "/testimonial/karen-d",
+      "/testimonial/marcus-b",
+      "/testimonial/maria-s",
+      "/testimonial/patricia-h",
+      "/testimonial/robert-m",
+      "/testimonial/thomas-w"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src",
+      "meta-og:image",
+      "meta-twitter:image"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6af5425e48b17c8a81d3993a_6aa79f39e4ffc4ef227d9100_6a92eddafe4ac4fdef10d1c2_Neutral%252520Portrait%2525201.webp",
+    "originalWidth": 800,
+    "originalHeight": 800,
+    "originalFileSize": 20028,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6af5425e48b17c8a81d3993a_6aa79f39e4ffc4ef227d9100_6a92eddafe4ac4fdef10d1c2_neutral-20portrait-201.webp",
+    "deliveryPath": "/assets/images/media/6af5425e48b17c8a81d3993a_6aa79f39e4ffc4ef227d9100_6a92eddafe4ac4fdef10d1c2_neutral-20portrait-201.webp",
+    "sha256": "6c355eacee94a9aa962a7f0e48f51f41a93d397c4196e18463021a0440456a68",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6afd0bca9e9aa5d8af67e6ac_6afc737274114210ba4904e6_team-strategy-meeting-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bca9e9aa5d8af67e6ac_6afc737274114210ba4904e6_Team%2520Strategy%2520Meeting%25201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bca9e9aa5d8af67e6ac_6afc737274114210ba4904e6_Team%2520Strategy%2520Meeting%25201.webp",
+    "referenceRoutes": [
+      "/home-v3",
+      "/services-v2",
+      "/services-v3",
+      "/services/business-banking",
+      "/services/investment-portfolios",
+      "/services/lending-and-mortgages",
+      "/services/private-banking",
+      "/services/retirement-planning",
+      "/services/wealth-management"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afd0bca9e9aa5d8af67e6ac_6afc737274114210ba4904e6_Team%2520Strategy%2520Meeting%25201.webp",
+    "originalWidth": 1600,
+    "originalHeight": 1200,
+    "originalFileSize": 51702,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6afd0bca9e9aa5d8af67e6ac_6afc737274114210ba4904e6_team-strategy-meeting-1.webp",
+    "deliveryPath": "/assets/images/media/6afd0bca9e9aa5d8af67e6ac_6afc737274114210ba4904e6_team-strategy-meeting-1.webp",
+    "sha256": "249d052528b47680d02d065054e2a273fa984b1576619234c06abef5024c2a4f",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6afd0bca9e9aa5d8af67e6a9_6afc7370d88ed11e06008a4b_business-meeting-scene-11-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bca9e9aa5d8af67e6a9_6afc7370d88ed11e06008a4b_Business%2520Meeting%2520Scene%2520(11)%25201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bca9e9aa5d8af67e6a9_6afc7370d88ed11e06008a4b_Business%2520Meeting%2520Scene%2520(11)%25201.webp",
+    "referenceRoutes": [
+      "/",
+      "/home-v2",
+      "/home-v3",
+      "/services-v1",
+      "/services-v2",
+      "/services-v3",
+      "/services/business-banking",
+      "/services/investment-portfolios",
+      "/services/lending-and-mortgages",
+      "/services/private-banking",
+      "/services/retirement-planning",
+      "/services/wealth-management"
+    ],
+    "roles": [
+      "img-src",
+      "meta-og:image",
+      "meta-twitter:image"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afd0bca9e9aa5d8af67e6a9_6afc7370d88ed11e06008a4b_Business%2520Meeting%2520Scene%2520(11)%25201.webp",
+    "originalWidth": 1600,
+    "originalHeight": 1200,
+    "originalFileSize": 52172,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6afd0bca9e9aa5d8af67e6a9_6afc7370d88ed11e06008a4b_business-meeting-scene-11-1.webp",
+    "deliveryPath": "/assets/images/media/6afd0bca9e9aa5d8af67e6a9_6afc7370d88ed11e06008a4b_business-meeting-scene-11-1.webp",
+    "sha256": "0caa771c3174f32cb0f35e25267b5a7e51dd3b853ca5a285000eb8e630d5ae52",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6af5425e48b17c8a81d3995d_6aa79f39e4ffc4ef227d9106_6a92eddafe4ac4fdef10d24c_professional-20portrait-20-10-201.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3995d_6aa79f39e4ffc4ef227d9106_6a92eddafe4ac4fdef10d24c_Professional%252520Portrait%252520(10)%2525201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3995d_6aa79f39e4ffc4ef227d9106_6a92eddafe4ac4fdef10d24c_Professional%252520Portrait%252520(10)%2525201.webp",
+    "referenceRoutes": [
+      "/",
+      "/about-us",
+      "/home-v2",
+      "/home-v3",
+      "/pricing",
+      "/services-v1",
+      "/services-v2",
+      "/testimonial/daniel-k",
+      "/testimonial/james-p",
+      "/testimonial/karen-d",
+      "/testimonial/marcus-b",
+      "/testimonial/maria-s",
+      "/testimonial/patricia-h",
+      "/testimonial/robert-m",
+      "/testimonial/thomas-w"
+    ],
+    "roles": [
+      "img-src",
+      "meta-og:image",
+      "meta-twitter:image"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6af5425e48b17c8a81d3995d_6aa79f39e4ffc4ef227d9106_6a92eddafe4ac4fdef10d24c_Professional%252520Portrait%252520(10)%2525201.webp",
+    "originalWidth": 800,
+    "originalHeight": 800,
+    "originalFileSize": 17008,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6af5425e48b17c8a81d3995d_6aa79f39e4ffc4ef227d9106_6a92eddafe4ac4fdef10d24c_professional-20portrait-20-10-201.webp",
+    "deliveryPath": "/assets/images/media/6af5425e48b17c8a81d3995d_6aa79f39e4ffc4ef227d9106_6a92eddafe4ac4fdef10d24c_professional-20portrait-20-10-201.webp",
+    "sha256": "3195e0b7651ee05ed0695babca7ac5c60424022c863e1e7294aeca605be278b7",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6af5425e48b17c8a81d3995d_6aa79f39e4ffc4ef227d9106_6a92eddafe4ac4fdef10d24c_Professional%252520Portrait%252520(10",
+    "error": "HTTP Error 403: Forbidden",
+    "acquisitionStatus": "FAILED"
+  },
+  {
+    "id": "images/media/6afd0bcb9e9aa5d8af67e6b4_6afc72e17f3094a19b1c1d33_woman-analyzing-financial-charts-on-desktop-monitor-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6b4_6afc72e17f3094a19b1c1d33_Woman%2520Analyzing%2520Financial%2520Charts%2520on%2520Desktop%2520Monitor%25201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6b4_6afc72e17f3094a19b1c1d33_Woman%2520Analyzing%2520Financial%2520Charts%2520on%2520Desktop%2520Monitor%25201.webp",
+    "referenceRoutes": [
+      "/",
+      "/home-v2",
+      "/home-v3",
+      "/services-v1",
+      "/services-v2",
+      "/services-v3",
+      "/services/business-banking",
+      "/services/investment-portfolios",
+      "/services/lending-and-mortgages",
+      "/services/private-banking",
+      "/services/retirement-planning",
+      "/services/wealth-management"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src",
+      "meta-og:image",
+      "meta-twitter:image"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afd0bcb9e9aa5d8af67e6b4_6afc72e17f3094a19b1c1d33_Woman%2520Analyzing%2520Financial%2520Charts%2520on%2520Desktop%2520Monitor%25201.webp",
+    "originalWidth": 1600,
+    "originalHeight": 1200,
+    "originalFileSize": 101984,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6afd0bcb9e9aa5d8af67e6b4_6afc72e17f3094a19b1c1d33_woman-analyzing-financial-charts-on-desktop-monitor-1.webp",
+    "deliveryPath": "/assets/images/media/6afd0bcb9e9aa5d8af67e6b4_6afc72e17f3094a19b1c1d33_woman-analyzing-financial-charts-on-desktop-monitor-1.webp",
+    "sha256": "1e6d0cc99586be0d8c992ae9d79876beabd89a4c0b028d76863f747ca7a56387",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6afd0bcb9e9aa5d8af67e6bb_6afc72e390692b19cb423eae_financial-analyst-at-work-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6bb_6afc72e390692b19cb423eae_Financial%2520Analyst%2520at%2520Work%25201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6bb_6afc72e390692b19cb423eae_Financial%2520Analyst%2520at%2520Work%25201.webp",
+    "referenceRoutes": [
+      "/home-v3",
+      "/services-v2",
+      "/services-v3",
+      "/services/business-banking",
+      "/services/investment-portfolios",
+      "/services/lending-and-mortgages",
+      "/services/private-banking",
+      "/services/retirement-planning",
+      "/services/wealth-management"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afd0bcb9e9aa5d8af67e6bb_6afc72e390692b19cb423eae_Financial%2520Analyst%2520at%2520Work%25201.webp",
+    "originalWidth": 1600,
+    "originalHeight": 1200,
+    "originalFileSize": 69902,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6afd0bcb9e9aa5d8af67e6bb_6afc72e390692b19cb423eae_financial-analyst-at-work-1.webp",
+    "deliveryPath": "/assets/images/media/6afd0bcb9e9aa5d8af67e6bb_6afc72e390692b19cb423eae_financial-analyst-at-work-1.webp",
+    "sha256": "2207ca48117da2cb45ff6b0771cc30fa31a4e49fc7d466eaaffc000584f9349e",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6afd0bcb9e9aa5d8af67e6b8_6afc72390c98fa052de6ef1f_professional-discussion-10-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6b8_6afc72390c98fa052de6ef1f_Professional%2520Discussion%2520(10)%25201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6b8_6afc72390c98fa052de6ef1f_Professional%2520Discussion%2520(10)%25201.webp",
+    "referenceRoutes": [
+      "/",
+      "/home-v2",
+      "/home-v3",
+      "/services-v1",
+      "/services-v2",
+      "/services-v3",
+      "/services/business-banking",
+      "/services/investment-portfolios",
+      "/services/lending-and-mortgages",
+      "/services/private-banking",
+      "/services/retirement-planning",
+      "/services/wealth-management"
+    ],
+    "roles": [
+      "img-src",
+      "meta-og:image",
+      "meta-twitter:image"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afd0bcb9e9aa5d8af67e6b8_6afc72390c98fa052de6ef1f_Professional%2520Discussion%2520(10)%25201.webp",
+    "originalWidth": 1600,
+    "originalHeight": 1200,
+    "originalFileSize": 71636,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6afd0bcb9e9aa5d8af67e6b8_6afc72390c98fa052de6ef1f_professional-discussion-10-1.webp",
+    "deliveryPath": "/assets/images/media/6afd0bcb9e9aa5d8af67e6b8_6afc72390c98fa052de6ef1f_professional-discussion-10-1.webp",
+    "sha256": "a1a4c66cf11305a9b942b75de11432e3bc1709c8ea4acfc9925e3ddc7854a549",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6b8_6afc72390c98fa052de6ef1f_Professional%2520Discussion%2520(10",
+    "error": "HTTP Error 403: Forbidden",
+    "acquisitionStatus": "FAILED"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bca9e9aa5d8af67e6a9_6afc7370d88ed11e06008a4b_Business%2520Meeting%2520Scene%2520(11",
+    "error": "HTTP Error 403: Forbidden",
+    "acquisitionStatus": "FAILED"
+  },
+  {
+    "id": "images/media/6afd0bcb9e9aa5d8af67e6c4_6afc723c8f3c89befe3f1232_professional-reading-scene-1-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6c4_6afc723c8f3c89befe3f1232_Professional%2520Reading%2520Scene%2520(1)%25201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6c4_6afc723c8f3c89befe3f1232_Professional%2520Reading%2520Scene%2520(1)%25201.webp",
+    "referenceRoutes": [
+      "/home-v3",
+      "/services-v2",
+      "/services-v3",
+      "/services/business-banking",
+      "/services/investment-portfolios",
+      "/services/lending-and-mortgages",
+      "/services/private-banking",
+      "/services/retirement-planning",
+      "/services/wealth-management"
+    ],
+    "roles": [
+      "img-src"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afd0bcb9e9aa5d8af67e6c4_6afc723c8f3c89befe3f1232_Professional%2520Reading%2520Scene%2520(1)%25201.webp",
+    "originalWidth": 1600,
+    "originalHeight": 1200,
+    "originalFileSize": 47076,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6afd0bcb9e9aa5d8af67e6c4_6afc723c8f3c89befe3f1232_professional-reading-scene-1-1.webp",
+    "deliveryPath": "/assets/images/media/6afd0bcb9e9aa5d8af67e6c4_6afc723c8f3c89befe3f1232_professional-reading-scene-1-1.webp",
+    "sha256": "61b1aca42c28d64c35d369594d5672312ac9ad593e45e15a756fb91bfd6d6263",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6afd0bcb9e9aa5d8af67e6cc_6afc732840cd4db306e3afae_business-meeting-scene-10-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6cc_6afc732840cd4db306e3afae_Business%2520Meeting%2520Scene%2520(10)%25201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6cc_6afc732840cd4db306e3afae_Business%2520Meeting%2520Scene%2520(10)%25201.webp",
+    "referenceRoutes": [
+      "/",
+      "/home-v2",
+      "/home-v3",
+      "/services-v1",
+      "/services-v2",
+      "/services-v3",
+      "/services/business-banking",
+      "/services/investment-portfolios",
+      "/services/lending-and-mortgages",
+      "/services/private-banking",
+      "/services/retirement-planning",
+      "/services/wealth-management"
+    ],
+    "roles": [
+      "img-src",
+      "meta-og:image",
+      "meta-twitter:image"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afd0bcb9e9aa5d8af67e6cc_6afc732840cd4db306e3afae_Business%2520Meeting%2520Scene%2520(10)%25201.webp",
+    "originalWidth": 1600,
+    "originalHeight": 1200,
+    "originalFileSize": 55422,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6afd0bcb9e9aa5d8af67e6cc_6afc732840cd4db306e3afae_business-meeting-scene-10-1.webp",
+    "deliveryPath": "/assets/images/media/6afd0bcb9e9aa5d8af67e6cc_6afc732840cd4db306e3afae_business-meeting-scene-10-1.webp",
+    "sha256": "a8d3f4ebd36fe6158d9a2c907bec02635ac90c07f554b2fc2ba5c20e8209ee26",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6afd0bcb9e9aa5d8af67e6d3_6afc732974114210ba48de49_team-meeting-discussion-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6d3_6afc732974114210ba48de49_Team%2520Meeting%2520Discussion%25201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6d3_6afc732974114210ba48de49_Team%2520Meeting%2520Discussion%25201.webp",
+    "referenceRoutes": [
+      "/home-v3",
+      "/services-v2",
+      "/services-v3",
+      "/services/business-banking",
+      "/services/investment-portfolios",
+      "/services/lending-and-mortgages",
+      "/services/private-banking",
+      "/services/retirement-planning",
+      "/services/wealth-management"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afd0bcb9e9aa5d8af67e6d3_6afc732974114210ba48de49_Team%2520Meeting%2520Discussion%25201.webp",
+    "originalWidth": 1600,
+    "originalHeight": 1200,
+    "originalFileSize": 64862,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6afd0bcb9e9aa5d8af67e6d3_6afc732974114210ba48de49_team-meeting-discussion-1.webp",
+    "deliveryPath": "/assets/images/media/6afd0bcb9e9aa5d8af67e6d3_6afc732974114210ba48de49_team-meeting-discussion-1.webp",
+    "sha256": "e1e56b77dd3460dc87e09c48ad015456532b035ba6213e3670a73d946d734007",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6c4_6afc723c8f3c89befe3f1232_Professional%2520Reading%2520Scene%2520(1",
+    "error": "HTTP Error 403: Forbidden",
+    "acquisitionStatus": "FAILED"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6c8_6afc7403ea9cdce60758c2eb_Office%2520Collaboration%2520Scene%2520(4",
+    "error": "HTTP Error 403: Forbidden",
+    "acquisitionStatus": "FAILED"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6cc_6afc732840cd4db306e3afae_Business%2520Meeting%2520Scene%2520(10",
+    "error": "HTTP Error 403: Forbidden",
+    "acquisitionStatus": "FAILED"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6d7_6afc72891e2e0fde6bc0778b_Key%2520Exchange%2520Outdoors%2520(1",
+    "error": "HTTP Error 403: Forbidden",
+    "acquisitionStatus": "FAILED"
+  },
+  {
+    "id": "images/media/6afd0bcb9e9aa5d8af67e6c8_6afc7403ea9cdce60758c2eb_office-collaboration-scene-4-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6c8_6afc7403ea9cdce60758c2eb_Office%2520Collaboration%2520Scene%2520(4)%25201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6c8_6afc7403ea9cdce60758c2eb_Office%2520Collaboration%2520Scene%2520(4)%25201.webp",
+    "referenceRoutes": [
+      "/home-v3",
+      "/services-v2",
+      "/services-v3",
+      "/services/business-banking",
+      "/services/investment-portfolios",
+      "/services/lending-and-mortgages",
+      "/services/private-banking",
+      "/services/retirement-planning",
+      "/services/wealth-management"
+    ],
+    "roles": [
+      "img-src"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afd0bcb9e9aa5d8af67e6c8_6afc7403ea9cdce60758c2eb_Office%2520Collaboration%2520Scene%2520(4)%25201.webp",
+    "originalWidth": 1600,
+    "originalHeight": 1200,
+    "originalFileSize": 84174,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6afd0bcb9e9aa5d8af67e6c8_6afc7403ea9cdce60758c2eb_office-collaboration-scene-4-1.webp",
+    "deliveryPath": "/assets/images/media/6afd0bcb9e9aa5d8af67e6c8_6afc7403ea9cdce60758c2eb_office-collaboration-scene-4-1.webp",
+    "sha256": "b7484d2543a0dea4f79c55cebdef65b946d1cf7d4b3bd461596ff58c5e703b40",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6afd0bcb9e9aa5d8af67e6d7_6afc72891e2e0fde6bc0778b_key-exchange-outdoors-1-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6d7_6afc72891e2e0fde6bc0778b_Key%2520Exchange%2520Outdoors%2520(1)%25201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcb9e9aa5d8af67e6d7_6afc72891e2e0fde6bc0778b_Key%2520Exchange%2520Outdoors%2520(1)%25201.webp",
+    "referenceRoutes": [
+      "/",
+      "/home-v2",
+      "/services-v1",
+      "/services/lending-and-mortgages"
+    ],
+    "roles": [
+      "img-src",
+      "meta-og:image",
+      "meta-twitter:image"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afd0bcb9e9aa5d8af67e6d7_6afc72891e2e0fde6bc0778b_Key%2520Exchange%2520Outdoors%2520(1)%25201.webp",
+    "originalWidth": 1600,
+    "originalHeight": 1200,
+    "originalFileSize": 113154,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6afd0bcb9e9aa5d8af67e6d7_6afc72891e2e0fde6bc0778b_key-exchange-outdoors-1-1.webp",
+    "deliveryPath": "/assets/images/media/6afd0bcb9e9aa5d8af67e6d7_6afc72891e2e0fde6bc0778b_key-exchange-outdoors-1-1.webp",
+    "sha256": "c17e31a5a4c54b93bbb96cf2f5f1d975b579505804a32bd2d00aa859549c0225",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6afd0bd47ca8a3e5b2ef8386_6afc7400af8765fd91d016c6_elderly-couple-relaxing-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bd47ca8a3e5b2ef8386_6afc7400af8765fd91d016c6_Elderly%2520Couple%2520Relaxing%25201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bd47ca8a3e5b2ef8386_6afc7400af8765fd91d016c6_Elderly%2520Couple%2520Relaxing%25201.webp",
+    "referenceRoutes": [
+      "/",
+      "/home-v2",
+      "/home-v3",
+      "/services-v1",
+      "/services-v2",
+      "/services-v3",
+      "/services/business-banking",
+      "/services/investment-portfolios",
+      "/services/lending-and-mortgages",
+      "/services/private-banking",
+      "/services/retirement-planning",
+      "/services/wealth-management"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src",
+      "meta-og:image",
+      "meta-twitter:image"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afd0bd47ca8a3e5b2ef8386_6afc7400af8765fd91d016c6_Elderly%2520Couple%2520Relaxing%25201.webp",
+    "originalWidth": 1600,
+    "originalHeight": 1200,
+    "originalFileSize": 55016,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6afd0bd47ca8a3e5b2ef8386_6afc7400af8765fd91d016c6_elderly-couple-relaxing-1.webp",
+    "deliveryPath": "/assets/images/media/6afd0bd47ca8a3e5b2ef8386_6afc7400af8765fd91d016c6_elderly-couple-relaxing-1.webp",
+    "sha256": "58adeb591c4224155feb4d858191eb75acf67e326f518015bef19a1d8fdfed1b",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6afd0bcc9e9aa5d8af67e6de_6afc728a90692b19cb420f18_key-exchange-close-up-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcc9e9aa5d8af67e6de_6afc728a90692b19cb420f18_Key%2520Exchange%2520Close-Up%25201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd0bcc9e9aa5d8af67e6de_6afc728a90692b19cb420f18_Key%2520Exchange%2520Close-Up%25201.webp",
+    "referenceRoutes": [
+      "/services/lending-and-mortgages"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afd0bcc9e9aa5d8af67e6de_6afc728a90692b19cb420f18_Key%2520Exchange%2520Close-Up%25201.webp",
+    "originalWidth": 1600,
+    "originalHeight": 1200,
+    "originalFileSize": 60146,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6afd0bcc9e9aa5d8af67e6de_6afc728a90692b19cb420f18_key-exchange-close-up-1.webp",
+    "deliveryPath": "/assets/images/media/6afd0bcc9e9aa5d8af67e6de_6afc728a90692b19cb420f18_key-exchange-close-up-1.webp",
+    "sha256": "f1e3d9797a486a8fbf50e377ddd467bc17570c7542f4393bf0e9dc6f4e0dc98a",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6afd141f81e51878ec0aee06_6afd139d0cf70e9f0fda8954_professional-meeting-scene-6-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd141f81e51878ec0aee06_6afd139d0cf70e9f0fda8954_Professional%2520Meeting%2520Scene%2520(6)%25201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd141f81e51878ec0aee06_6afd139d0cf70e9f0fda8954_Professional%2520Meeting%2520Scene%2520(6)%25201.webp",
+    "referenceRoutes": [
+      "/",
+      "/blog",
+      "/blog/cash-flow-habits-of-fast-growing-businesses",
+      "/blog/diversification-explained-without-the-jargon",
+      "/blog/how-much-cash-should-you-really-keep",
+      "/blog/planning-retirement-in-your-forties-five-steps",
+      "/blog/seven-questions-to-ask-before-choosing-a-financial-advisor",
+      "/blog/what-interest-rate-changes-mean-for-you-in-2026"
+    ],
+    "roles": [
+      "img-src",
+      "meta-og:image",
+      "meta-twitter:image"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afd141f81e51878ec0aee06_6afd139d0cf70e9f0fda8954_Professional%2520Meeting%2520Scene%2520(6)%25201.webp",
+    "originalWidth": 1600,
+    "originalHeight": 1120,
+    "originalFileSize": 49574,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6afd141f81e51878ec0aee06_6afd139d0cf70e9f0fda8954_professional-meeting-scene-6-1.webp",
+    "deliveryPath": "/assets/images/media/6afd141f81e51878ec0aee06_6afd139d0cf70e9f0fda8954_professional-meeting-scene-6-1.webp",
+    "sha256": "8e0fa6fb01d5c643bdc6ffb6512d22819d79c78bc614ccab04e8b48398a8b3c4",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6afd142081e51878ec0aee0e_6afd1343a5ab669ee9940a13_financial-analytics-business-setting-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd142081e51878ec0aee0e_6afd1343a5ab669ee9940a13_Financial%2520Analytics%2520Business%2520Setting%25201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd142081e51878ec0aee0e_6afd1343a5ab669ee9940a13_Financial%2520Analytics%2520Business%2520Setting%25201.webp",
+    "referenceRoutes": [
+      "/blog",
+      "/blog/diversification-explained-without-the-jargon"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src",
+      "meta-og:image",
+      "meta-twitter:image"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afd142081e51878ec0aee0e_6afd1343a5ab669ee9940a13_Financial%2520Analytics%2520Business%2520Setting%25201.webp",
+    "originalWidth": 1600,
+    "originalHeight": 1200,
+    "originalFileSize": 49616,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6afd142081e51878ec0aee0e_6afd1343a5ab669ee9940a13_financial-analytics-business-setting-1.webp",
+    "deliveryPath": "/assets/images/media/6afd142081e51878ec0aee0e_6afd1343a5ab669ee9940a13_financial-analytics-business-setting-1.webp",
+    "sha256": "8422d47299b8365e6e1dbf7e7c724a828a1efcd4afc355b5507baa26b995e5b1",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6afd141f81e51878ec0aee02_6afd1241bca7125b3b3239eb_document-signing-scene-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd141f81e51878ec0aee02_6afd1241bca7125b3b3239eb_Document%2520Signing%2520Scene%25201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd141f81e51878ec0aee02_6afd1241bca7125b3b3239eb_Document%2520Signing%2520Scene%25201.webp",
+    "referenceRoutes": [
+      "/",
+      "/blog",
+      "/blog/cash-flow-habits-of-fast-growing-businesses",
+      "/blog/diversification-explained-without-the-jargon",
+      "/blog/how-much-cash-should-you-really-keep",
+      "/blog/planning-retirement-in-your-forties-five-steps",
+      "/blog/seven-questions-to-ask-before-choosing-a-financial-advisor",
+      "/blog/what-interest-rate-changes-mean-for-you-in-2026"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src",
+      "meta-og:image",
+      "meta-twitter:image"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afd141f81e51878ec0aee02_6afd1241bca7125b3b3239eb_Document%2520Signing%2520Scene%25201.webp",
+    "originalWidth": 1600,
+    "originalHeight": 1200,
+    "originalFileSize": 62324,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6afd141f81e51878ec0aee02_6afd1241bca7125b3b3239eb_document-signing-scene-1.webp",
+    "deliveryPath": "/assets/images/media/6afd141f81e51878ec0aee02_6afd1241bca7125b3b3239eb_document-signing-scene-1.webp",
+    "sha256": "1229b0c3471348ae960b0268b9bce882bef9e1419e796b82b0096bb42c0d7cb2",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "graphics/app/6afd141f81e51878ec0aedff_6afd11d9a4691909cb0cba1c_woman-using-smartphone-2-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd141f81e51878ec0aedff_6afd11d9a4691909cb0cba1c_Woman%2520Using%2520Smartphone%2520(2)%25201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd141f81e51878ec0aedff_6afd11d9a4691909cb0cba1c_Woman%2520Using%2520Smartphone%2520(2)%25201.webp",
+    "referenceRoutes": [
+      "/",
+      "/blog",
+      "/blog/cash-flow-habits-of-fast-growing-businesses",
+      "/blog/diversification-explained-without-the-jargon",
+      "/blog/how-much-cash-should-you-really-keep",
+      "/blog/planning-retirement-in-your-forties-five-steps",
+      "/blog/seven-questions-to-ask-before-choosing-a-financial-advisor",
+      "/blog/what-interest-rate-changes-mean-for-you-in-2026"
+    ],
+    "roles": [
+      "img-src",
+      "meta-og:image",
+      "meta-twitter:image"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afd141f81e51878ec0aedff_6afd11d9a4691909cb0cba1c_Woman%2520Using%2520Smartphone%2520(2)%25201.webp",
+    "originalWidth": 1600,
+    "originalHeight": 1200,
+    "originalFileSize": 70312,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/graphics/app/6afd141f81e51878ec0aedff_6afd11d9a4691909cb0cba1c_woman-using-smartphone-2-1.webp",
+    "deliveryPath": "/assets/graphics/app/6afd141f81e51878ec0aedff_6afd11d9a4691909cb0cba1c_woman-using-smartphone-2-1.webp",
+    "sha256": "dd36e6b889e2fe28026bb8dc22a9fe3cecc1e0627b71568cc9ae40b6a615868d",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd141f81e51878ec0aedff_6afd11d9a4691909cb0cba1c_Woman%2520Using%2520Smartphone%2520(2",
+    "error": "HTTP Error 403: Forbidden",
+    "acquisitionStatus": "FAILED"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd142081e51878ec0aee11_6afd13c06e639d605fb54cb7_Focused%2520Desk%2520Work%2520(1",
+    "error": "HTTP Error 403: Forbidden",
+    "acquisitionStatus": "FAILED"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd141f81e51878ec0aee06_6afd139d0cf70e9f0fda8954_Professional%2520Meeting%2520Scene%2520(6",
+    "error": "HTTP Error 403: Forbidden",
+    "acquisitionStatus": "FAILED"
+  },
+  {
+    "id": "icons/6af5425e48b17c8a81d3955c_weight-regular-5.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d3955c_Weight%3DRegular-5.svg",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d3955c_Weight%3DRegular-5.svg",
+    "referenceRoutes": [
+      "/about-us"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src"
+    ],
+    "mimeType": "image/svg+xml",
+    "originalFilename": "6af5425e48b17c8a81d3955c_Weight%3DRegular-5.svg",
+    "originalWidth": null,
+    "originalHeight": null,
+    "originalFileSize": 404,
+    "hasTransparency": null,
+    "masterPath": "assets-source/original/icons/6af5425e48b17c8a81d3955c_weight-regular-5.svg",
+    "deliveryPath": "/assets/icons/6af5425e48b17c8a81d3955c_weight-regular-5.svg",
+    "sha256": "0ce461cce90dcb39befa47b981044cbcd7e1b54520bd0ab185603c355f30c8c4",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6afd142081e51878ec0aee14_6afd13ce1163da4bbf1f561f_professional-analysis-1-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd142081e51878ec0aee14_6afd13ce1163da4bbf1f561f_Professional%2520Analysis%2520(1)%25201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd142081e51878ec0aee14_6afd13ce1163da4bbf1f561f_Professional%2520Analysis%2520(1)%25201.webp",
+    "referenceRoutes": [
+      "/blog",
+      "/blog/cash-flow-habits-of-fast-growing-businesses"
+    ],
+    "roles": [
+      "img-src",
+      "meta-og:image",
+      "meta-twitter:image"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afd142081e51878ec0aee14_6afd13ce1163da4bbf1f561f_Professional%2520Analysis%2520(1)%25201.webp",
+    "originalWidth": 1600,
+    "originalHeight": 1200,
+    "originalFileSize": 45812,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6afd142081e51878ec0aee14_6afd13ce1163da4bbf1f561f_professional-analysis-1-1.webp",
+    "deliveryPath": "/assets/images/media/6afd142081e51878ec0aee14_6afd13ce1163da4bbf1f561f_professional-analysis-1-1.webp",
+    "sha256": "d4bf0498056462422488ccd162146cba8fb0066b7c195d016f830105f84f971a",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6afd142081e51878ec0aee11_6afd13c06e639d605fb54cb7_focused-desk-work-1-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd142081e51878ec0aee11_6afd13c06e639d605fb54cb7_Focused%2520Desk%2520Work%2520(1)%25201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd142081e51878ec0aee11_6afd13c06e639d605fb54cb7_Focused%2520Desk%2520Work%2520(1)%25201.webp",
+    "referenceRoutes": [
+      "/blog",
+      "/blog/planning-retirement-in-your-forties-five-steps"
+    ],
+    "roles": [
+      "img-src",
+      "meta-og:image",
+      "meta-twitter:image"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afd142081e51878ec0aee11_6afd13c06e639d605fb54cb7_Focused%2520Desk%2520Work%2520(1)%25201.webp",
+    "originalWidth": 1600,
+    "originalHeight": 1200,
+    "originalFileSize": 115936,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6afd142081e51878ec0aee11_6afd13c06e639d605fb54cb7_focused-desk-work-1-1.webp",
+    "deliveryPath": "/assets/images/media/6afd142081e51878ec0aee11_6afd13c06e639d605fb54cb7_focused-desk-work-1-1.webp",
+    "sha256": "6fcf80367750db898e2874a64fbf19060c2cfd8376510f42457c816a43869def",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "icons/6af5425e48b17c8a81d39574_weight-regular-1-.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39574_Weight%3DRegular%20(1).svg",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39574_Weight%3DRegular%20(1).svg",
+    "referenceRoutes": [
+      "/about-us",
+      "/services-v1",
+      "/services-v2"
+    ],
+    "roles": [
+      "img-src"
+    ],
+    "mimeType": "image/svg+xml",
+    "originalFilename": "6af5425e48b17c8a81d39574_Weight%3DRegular%20(1).svg",
+    "originalWidth": null,
+    "originalHeight": null,
+    "originalFileSize": 1320,
+    "hasTransparency": null,
+    "masterPath": "assets-source/original/icons/6af5425e48b17c8a81d39574_weight-regular-1-.svg",
+    "deliveryPath": "/assets/icons/6af5425e48b17c8a81d39574_weight-regular-1-.svg",
+    "sha256": "864ac9239d5008ebb49cc7a370feb534052abdf6cef0b842845cf2225cc6971c",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39546/6afd142081e51878ec0aee14_6afd13ce1163da4bbf1f561f_Professional%2520Analysis%2520(1",
+    "error": "HTTP Error 403: Forbidden",
+    "acquisitionStatus": "FAILED"
+  },
+  {
+    "id": "images/media/6af5425e48b17c8a81d396ec_3.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d396ec_3.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d396ec_3.webp",
+    "referenceRoutes": [
+      "/"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6af5425e48b17c8a81d396ec_3.webp",
+    "originalWidth": 150,
+    "originalHeight": 150,
+    "originalFileSize": 2754,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6af5425e48b17c8a81d396ec_3.webp",
+    "deliveryPath": "/assets/images/media/6af5425e48b17c8a81d396ec_3.webp",
+    "sha256": "c0694a501279573661f19a6908225a202a18cf8c67625350661a744f3a9669f1",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39574_Weight%3DRegular%20(1",
+    "error": "HTTP Error 403: Forbidden",
+    "acquisitionStatus": "FAILED"
+  },
+  {
+    "id": "images/media/6af5425e48b17c8a81d3973d_4.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d3973d_4.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d3973d_4.webp",
+    "referenceRoutes": [
+      "/"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6af5425e48b17c8a81d3973d_4.webp",
+    "originalWidth": 150,
+    "originalHeight": 150,
+    "originalFileSize": 2398,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6af5425e48b17c8a81d3973d_4.webp",
+    "deliveryPath": "/assets/images/media/6af5425e48b17c8a81d3973d_4.webp",
+    "sha256": "1777b19c294736a7b82a3acfb5fd373e75114b31d5fcd30366fc3187efe4d514",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "icons/6af5425e48b17c8a81d395ab_weight4.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d395ab_Weight4.svg",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d395ab_Weight4.svg",
+    "referenceRoutes": [
+      "/home-v3",
+      "/services-v2",
+      "/services-v3",
+      "/services/business-banking",
+      "/services/investment-portfolios",
+      "/services/lending-and-mortgages",
+      "/services/private-banking",
+      "/services/retirement-planning",
+      "/services/wealth-management"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src"
+    ],
+    "mimeType": "image/svg+xml",
+    "originalFilename": "6af5425e48b17c8a81d395ab_Weight4.svg",
+    "originalWidth": null,
+    "originalHeight": null,
+    "originalFileSize": 594,
+    "hasTransparency": null,
+    "masterPath": "assets-source/original/icons/6af5425e48b17c8a81d395ab_weight4.svg",
+    "deliveryPath": "/assets/icons/6af5425e48b17c8a81d395ab_weight4.svg",
+    "sha256": "c7a1d161ca0db5564c21f6383d28c65867f2bfbec39a11df737df3ef11da2ffe",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6af5425e48b17c8a81d3978e_1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d3978e_1.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d3978e_1.webp",
+    "referenceRoutes": [
+      "/"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6af5425e48b17c8a81d3978e_1.webp",
+    "originalWidth": 150,
+    "originalHeight": 150,
+    "originalFileSize": 3014,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6af5425e48b17c8a81d3978e_1.webp",
+    "deliveryPath": "/assets/images/media/6af5425e48b17c8a81d3978e_1.webp",
+    "sha256": "60655cb6a7523a5cbd4058e566e1a8bcbd7bbbb2b6a47e02ab376d9036fb8629",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "icons/6af5425e48b17c8a81d3957b_weight-dynamic.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d3957b_Weight%3DDynamic.svg",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d3957b_Weight%3DDynamic.svg",
+    "referenceRoutes": [
+      "/style-guide"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src"
+    ],
+    "mimeType": "image/svg+xml",
+    "originalFilename": "6af5425e48b17c8a81d3957b_Weight%3DDynamic.svg",
+    "originalWidth": null,
+    "originalHeight": null,
+    "originalFileSize": 255,
+    "hasTransparency": null,
+    "masterPath": "assets-source/original/icons/6af5425e48b17c8a81d3957b_weight-dynamic.svg",
+    "deliveryPath": "/assets/icons/6af5425e48b17c8a81d3957b_weight-dynamic.svg",
+    "sha256": "8a9fd06c78838dd042b35422ab4e414c187e19eb73804ab5752810e664db69ae",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6af5425e48b17c8a81d399fc_professional-portrait-6-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d399fc_Professional%20Portrait%20(6)%201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d399fc_Professional%20Portrait%20(6)%201.webp",
+    "referenceRoutes": [
+      "/about-us",
+      "/contact-v2",
+      "/home-v2",
+      "/home-v3",
+      "/services-v3"
+    ],
+    "roles": [
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6af5425e48b17c8a81d399fc_Professional%20Portrait%20(6)%201.webp",
+    "originalWidth": 1000,
+    "originalHeight": 1000,
+    "originalFileSize": 25078,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6af5425e48b17c8a81d399fc_professional-portrait-6-1.webp",
+    "deliveryPath": "/assets/images/media/6af5425e48b17c8a81d399fc_professional-portrait-6-1.webp",
+    "sha256": "013541a44d12e214b991ec3baf329d4f6c7d0df0ca15f4626f8f4c9fa7bb8443",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6af5425e48b17c8a81d39578_webflow-icon.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39578_webflow-icon.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39578_webflow-icon.webp",
+    "referenceRoutes": [
+      "/style-guide"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6af5425e48b17c8a81d39578_webflow-icon.webp",
+    "originalWidth": 400,
+    "originalHeight": 400,
+    "originalFileSize": 1504,
+    "hasTransparency": true,
+    "masterPath": "assets-source/original/images/media/6af5425e48b17c8a81d39578_webflow-icon.webp",
+    "deliveryPath": "/assets/images/media/6af5425e48b17c8a81d39578_webflow-icon.webp",
+    "sha256": "b2d28697ad0a67d4be55f58c56862f2cf4d0ff129c496d8fe7832553a3abc238",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6af5425e48b17c8a81d399fe_professional-portrait-8-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d399fe_Professional%20Portrait%20(8)%201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d399fe_Professional%20Portrait%20(8)%201.webp",
+    "referenceRoutes": [
+      "/about-us",
+      "/contact-v2",
+      "/home-v2",
+      "/home-v3",
+      "/services-v3"
+    ],
+    "roles": [
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6af5425e48b17c8a81d399fe_Professional%20Portrait%20(8)%201.webp",
+    "originalWidth": 1000,
+    "originalHeight": 1000,
+    "originalFileSize": 38674,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6af5425e48b17c8a81d399fe_professional-portrait-8-1.webp",
+    "deliveryPath": "/assets/images/media/6af5425e48b17c8a81d399fe_professional-portrait-8-1.webp",
+    "sha256": "6565d0909537975824b3101411b4144cc7fcedbab23b4126c081ed6bf3fe5e6e",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6af5425e48b17c8a81d39a02_confident-portrait-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39a02_Confident%20Portrait%201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39a02_Confident%20Portrait%201.webp",
+    "referenceRoutes": [
+      "/about-us",
+      "/contact-v2",
+      "/home-v2",
+      "/home-v3",
+      "/services-v3"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6af5425e48b17c8a81d39a02_Confident%20Portrait%201.webp",
+    "originalWidth": 1000,
+    "originalHeight": 1000,
+    "originalFileSize": 20136,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6af5425e48b17c8a81d39a02_confident-portrait-1.webp",
+    "deliveryPath": "/assets/images/media/6af5425e48b17c8a81d39a02_confident-portrait-1.webp",
+    "sha256": "3cb0f2d99da4bc92938bd582c2f7ad30099f84b7034ef735625941af9cf32c3a",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6af5425e48b17c8a81d39a05_smiling-professional-portrait-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39a05_Smiling%20Professional%20Portrait%201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39a05_Smiling%20Professional%20Portrait%201.webp",
+    "referenceRoutes": [
+      "/about-us",
+      "/contact-v2",
+      "/home-v2",
+      "/home-v3",
+      "/services-v3"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6af5425e48b17c8a81d39a05_Smiling%20Professional%20Portrait%201.webp",
+    "originalWidth": 1000,
+    "originalHeight": 1000,
+    "originalFileSize": 32558,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6af5425e48b17c8a81d39a05_smiling-professional-portrait-1.webp",
+    "deliveryPath": "/assets/images/media/6af5425e48b17c8a81d39a05_smiling-professional-portrait-1.webp",
+    "sha256": "3e1c0d0aa78ef8bfb2a7ee29c39a89036cd33f02b32d3d754e4f25eee9fbf867",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6af5425e48b17c8a81d39a03_portrait-of-a-man-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39a03_Portrait%20of%20a%20Man%201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39a03_Portrait%20of%20a%20Man%201.webp",
+    "referenceRoutes": [
+      "/about-us",
+      "/contact-v2",
+      "/home-v2",
+      "/home-v3",
+      "/services-v3"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6af5425e48b17c8a81d39a03_Portrait%20of%20a%20Man%201.webp",
+    "originalWidth": 1000,
+    "originalHeight": 1000,
+    "originalFileSize": 14642,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6af5425e48b17c8a81d39a03_portrait-of-a-man-1.webp",
+    "deliveryPath": "/assets/images/media/6af5425e48b17c8a81d39a03_portrait-of-a-man-1.webp",
+    "sha256": "29f43a79f49a1687a942be582e674b4c5ddb5ca6fc50f8752265d35169de8d48",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d399fc_Professional%20Portrait%20(6",
+    "error": "HTTP Error 403: Forbidden",
+    "acquisitionStatus": "FAILED"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d399fe_Professional%2520Portrait%2520(8",
+    "error": "HTTP Error 403: Forbidden",
+    "acquisitionStatus": "FAILED"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d399fc_Professional%2520Portrait%2520(6",
+    "error": "HTTP Error 403: Forbidden",
+    "acquisitionStatus": "FAILED"
+  },
+  {
+    "id": "images/media/6af5425e48b17c8a81d39a0a_smiling-man-portrait-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39a0a_Smiling%20Man%20Portrait%201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39a0a_Smiling%20Man%20Portrait%201.webp",
+    "referenceRoutes": [
+      "/about-us",
+      "/contact-v2",
+      "/home-v2",
+      "/home-v3",
+      "/services-v3"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6af5425e48b17c8a81d39a0a_Smiling%20Man%20Portrait%201.webp",
+    "originalWidth": 1000,
+    "originalHeight": 1000,
+    "originalFileSize": 27808,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6af5425e48b17c8a81d39a0a_smiling-man-portrait-1.webp",
+    "deliveryPath": "/assets/images/media/6af5425e48b17c8a81d39a0a_smiling-man-portrait-1.webp",
+    "sha256": "bb13f2cfe877887fc59357e81bb15ece160db0f6818e4a9525bcc5788e8c9a40",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d399fe_Professional%20Portrait%20(8",
+    "error": "HTTP Error 403: Forbidden",
+    "acquisitionStatus": "FAILED"
+  },
+  {
+    "id": "logos/6af5bc7c2ed5539bc2652efc_logoipsum-261.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5bc7c2ed5539bc2652efc_logoipsum-261.svg",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5bc7c2ed5539bc2652efc_logoipsum-261.svg",
+    "referenceRoutes": [
+      "/about-us",
+      "/contact-v3",
+      "/home-v2"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src"
+    ],
+    "mimeType": "image/svg+xml",
+    "originalFilename": "6af5bc7c2ed5539bc2652efc_logoipsum-261.svg",
+    "originalWidth": null,
+    "originalHeight": null,
+    "originalFileSize": 5342,
+    "hasTransparency": null,
+    "masterPath": "assets-source/original/logos/6af5bc7c2ed5539bc2652efc_logoipsum-261.svg",
+    "deliveryPath": "/assets/logos/6af5bc7c2ed5539bc2652efc_logoipsum-261.svg",
+    "sha256": "d4c3f3aacf37bdeccfe76d2d45a0db01fb358be10feac53efe18773d7750f64b",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "logos/6af5bc7c59a35e175a88b869_logoipsum-264.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5bc7c59a35e175a88b869_logoipsum-264.svg",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5bc7c59a35e175a88b869_logoipsum-264.svg",
+    "referenceRoutes": [
+      "/",
+      "/about-us",
+      "/contact-v3",
+      "/home-v2"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src"
+    ],
+    "mimeType": "image/svg+xml",
+    "originalFilename": "6af5bc7c59a35e175a88b869_logoipsum-264.svg",
+    "originalWidth": null,
+    "originalHeight": null,
+    "originalFileSize": 4540,
+    "hasTransparency": null,
+    "masterPath": "assets-source/original/logos/6af5bc7c59a35e175a88b869_logoipsum-264.svg",
+    "deliveryPath": "/assets/logos/6af5bc7c59a35e175a88b869_logoipsum-264.svg",
+    "sha256": "95b5f175bc45a50f7b416a5828a6ea8e1edfe303692f39ec28dbcaeddf004dbe",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "logos/6af5bc7c6b3ef6a1b0a547d0_logoipsum-410.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5bc7c6b3ef6a1b0a547d0_logoipsum-410.svg",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5bc7c6b3ef6a1b0a547d0_logoipsum-410.svg",
+    "referenceRoutes": [
+      "/"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src"
+    ],
+    "mimeType": "image/svg+xml",
+    "originalFilename": "6af5bc7c6b3ef6a1b0a547d0_logoipsum-410.svg",
+    "originalWidth": null,
+    "originalHeight": null,
+    "originalFileSize": 4748,
+    "hasTransparency": null,
+    "masterPath": "assets-source/original/logos/6af5bc7c6b3ef6a1b0a547d0_logoipsum-410.svg",
+    "deliveryPath": "/assets/logos/6af5bc7c6b3ef6a1b0a547d0_logoipsum-410.svg",
+    "sha256": "b6590fad4ec2c603f737e9a30bf5908f1d25463e251832160e50dfaa26085959",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "logos/6af5bc7ca3bedc320e2b324e_logoipsum-262.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5bc7ca3bedc320e2b324e_logoipsum-262.svg",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5bc7ca3bedc320e2b324e_logoipsum-262.svg",
+    "referenceRoutes": [
+      "/",
+      "/about-us",
+      "/contact-v3",
+      "/home-v2"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src"
+    ],
+    "mimeType": "image/svg+xml",
+    "originalFilename": "6af5bc7ca3bedc320e2b324e_logoipsum-262.svg",
+    "originalWidth": null,
+    "originalHeight": null,
+    "originalFileSize": 5002,
+    "hasTransparency": null,
+    "masterPath": "assets-source/original/logos/6af5bc7ca3bedc320e2b324e_logoipsum-262.svg",
+    "deliveryPath": "/assets/logos/6af5bc7ca3bedc320e2b324e_logoipsum-262.svg",
+    "sha256": "26877a926d90d1e72f64b012226bb28b818c856d6f60e8156f25573209ab1c4e",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "logos/6af5bc7c3f8d75c8745c1df8_logoipsum-343.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5bc7c3f8d75c8745c1df8_logoipsum-343.svg",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5bc7c3f8d75c8745c1df8_logoipsum-343.svg",
+    "referenceRoutes": [
+      "/",
+      "/about-us",
+      "/contact-v3",
+      "/home-v2"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src"
+    ],
+    "mimeType": "image/svg+xml",
+    "originalFilename": "6af5bc7c3f8d75c8745c1df8_logoipsum-343.svg",
+    "originalWidth": null,
+    "originalHeight": null,
+    "originalFileSize": 24110,
+    "hasTransparency": null,
+    "masterPath": "assets-source/original/logos/6af5bc7c3f8d75c8745c1df8_logoipsum-343.svg",
+    "deliveryPath": "/assets/logos/6af5bc7c3f8d75c8745c1df8_logoipsum-343.svg",
+    "sha256": "05ee8ea14f61d51e38ff1f845b460c5ad5e3f79eb636d633162dde3228aa82b7",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6af5425e48b17c8a81d39a0c_professional-portrait-5-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39a0c_Professional%20Portrait%20(5)%201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39a0c_Professional%20Portrait%20(5)%201.webp",
+    "referenceRoutes": [
+      "/about-us",
+      "/contact-v2",
+      "/home-v2",
+      "/home-v3",
+      "/services-v3"
+    ],
+    "roles": [
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6af5425e48b17c8a81d39a0c_Professional%20Portrait%20(5)%201.webp",
+    "originalWidth": 1000,
+    "originalHeight": 1000,
+    "originalFileSize": 25352,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6af5425e48b17c8a81d39a0c_professional-portrait-5-1.webp",
+    "deliveryPath": "/assets/images/media/6af5425e48b17c8a81d39a0c_professional-portrait-5-1.webp",
+    "sha256": "2fbb9a79af4bc8b4f2f0250be983d0c0809470f5d69357fa4ee3f80efb9e7b98",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39a0c_Professional%20Portrait%20(5",
+    "error": "HTTP Error 403: Forbidden",
+    "acquisitionStatus": "FAILED"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5425e48b17c8a81d39a0c_Professional%2520Portrait%2520(5",
+    "error": "HTTP Error 403: Forbidden",
+    "acquisitionStatus": "FAILED"
+  },
+  {
+    "id": "logos/6af5bc7ca757788eedc73f50_logoipsum-265.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5bc7ca757788eedc73f50_logoipsum-265.svg",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5bc7ca757788eedc73f50_logoipsum-265.svg",
+    "referenceRoutes": [
+      "/about-us",
+      "/home-v2"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src"
+    ],
+    "mimeType": "image/svg+xml",
+    "originalFilename": "6af5bc7ca757788eedc73f50_logoipsum-265.svg",
+    "originalWidth": null,
+    "originalHeight": null,
+    "originalFileSize": 5287,
+    "hasTransparency": null,
+    "masterPath": "assets-source/original/logos/6af5bc7ca757788eedc73f50_logoipsum-265.svg",
+    "deliveryPath": "/assets/logos/6af5bc7ca757788eedc73f50_logoipsum-265.svg",
+    "sha256": "a14e10f800b0467eee4421927ae8fa18912ea22812ac8fa10145c599c4d65a11",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "logos/6af5bc7cd9c8feee4b1100f1_logoipsum-330.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5bc7cd9c8feee4b1100f1_logoipsum-330.svg",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5bc7cd9c8feee4b1100f1_logoipsum-330.svg",
+    "referenceRoutes": [
+      "/",
+      "/about-us",
+      "/contact-v3",
+      "/home-v2"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src"
+    ],
+    "mimeType": "image/svg+xml",
+    "originalFilename": "6af5bc7cd9c8feee4b1100f1_logoipsum-330.svg",
+    "originalWidth": null,
+    "originalHeight": null,
+    "originalFileSize": 9386,
+    "hasTransparency": null,
+    "masterPath": "assets-source/original/logos/6af5bc7cd9c8feee4b1100f1_logoipsum-330.svg",
+    "deliveryPath": "/assets/logos/6af5bc7cd9c8feee4b1100f1_logoipsum-330.svg",
+    "sha256": "9b9f8da62ba4be636bb76eca5d68d52386fba727a62cdd11c29a1c38fc3e2f5e",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "graphics/cards/6af5d2261bad0a2eb02fa963_051a2a9e83e019d0bc490ff4c0fdc901_vaxmor-card-metal.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5d2261bad0a2eb02fa963_051a2a9e83e019d0bc490ff4c0fdc901_vaxmor-card-metal.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5d2261bad0a2eb02fa963_051a2a9e83e019d0bc490ff4c0fdc901_vaxmor-card-metal.webp",
+    "referenceRoutes": [
+      "/",
+      "/home-v3"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6af5d2261bad0a2eb02fa963_051a2a9e83e019d0bc490ff4c0fdc901_vaxmor-card-metal.webp",
+    "originalWidth": 1712,
+    "originalHeight": 1080,
+    "originalFileSize": 17626,
+    "hasTransparency": true,
+    "masterPath": "assets-source/original/graphics/cards/6af5d2261bad0a2eb02fa963_051a2a9e83e019d0bc490ff4c0fdc901_vaxmor-card-metal.webp",
+    "deliveryPath": "/assets/graphics/cards/6af5d2261bad0a2eb02fa963_051a2a9e83e019d0bc490ff4c0fdc901_vaxmor-card-metal.webp",
+    "sha256": "6ab3d8cc6236e02b19a413c69eb84dda0f9f07fc0d8d8686dfcbf5ccb5947d88",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "logos/6af5bc7cc9d9a21f4a748e40_logoipsum-418.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5bc7cc9d9a21f4a748e40_logoipsum-418.svg",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5bc7cc9d9a21f4a748e40_logoipsum-418.svg",
+    "referenceRoutes": [
+      "/",
+      "/about-us",
+      "/contact-v3",
+      "/home-v2"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src"
+    ],
+    "mimeType": "image/svg+xml",
+    "originalFilename": "6af5bc7cc9d9a21f4a748e40_logoipsum-418.svg",
+    "originalWidth": null,
+    "originalHeight": null,
+    "originalFileSize": 10846,
+    "hasTransparency": null,
+    "masterPath": "assets-source/original/logos/6af5bc7cc9d9a21f4a748e40_logoipsum-418.svg",
+    "deliveryPath": "/assets/logos/6af5bc7cc9d9a21f4a748e40_logoipsum-418.svg",
+    "sha256": "032423ec8eb85154bb9b6bdcadc0059b4d18369339e88e80cc77de94485a12e2",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "brand/6af96ebc6cca54008f8adfb3_vaxmor-dark.svg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af96ebc6cca54008f8adfb3_Vaxmor%20Dark.svg",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af96ebc6cca54008f8adfb3_Vaxmor%20Dark.svg",
+    "referenceRoutes": [
+      "/",
+      "/401",
+      "/404",
+      "/about-us",
+      "/blog",
+      "/blog/cash-flow-habits-of-fast-growing-businesses",
+      "/blog/diversification-explained-without-the-jargon",
+      "/blog/how-much-cash-should-you-really-keep",
+      "/blog/planning-retirement-in-your-forties-five-steps",
+      "/blog/seven-questions-to-ask-before-choosing-a-financial-advisor",
+      "/blog/what-interest-rate-changes-mean-for-you-in-2026",
+      "/changelog",
+      "/contact-v1",
+      "/contact-v2",
+      "/contact-v3",
+      "/home-v2",
+      "/home-v3",
+      "/instructions",
+      "/licenses",
+      "/nonexistent-404-test_404",
+      "/pricing",
+      "/services-v1",
+      "/services-v2",
+      "/services-v3",
+      "/services/business-banking",
+      "/services/investment-portfolios",
+      "/services/lending-and-mortgages",
+      "/services/private-banking",
+      "/services/retirement-planning",
+      "/services/wealth-management",
+      "/style-guide",
+      "/testimonial/daniel-k",
+      "/testimonial/james-p",
+      "/testimonial/karen-d",
+      "/testimonial/marcus-b",
+      "/testimonial/maria-s",
+      "/testimonial/patricia-h",
+      "/testimonial/robert-m",
+      "/testimonial/thomas-w"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src"
+    ],
+    "mimeType": "image/svg+xml",
+    "originalFilename": "6af96ebc6cca54008f8adfb3_Vaxmor%20Dark.svg",
+    "originalWidth": null,
+    "originalHeight": null,
+    "originalFileSize": 420,
+    "hasTransparency": null,
+    "masterPath": "assets-source/original/brand/6af96ebc6cca54008f8adfb3_vaxmor-dark.svg",
+    "deliveryPath": "/assets/brand/6af96ebc6cca54008f8adfb3_vaxmor-dark.svg",
+    "sha256": "5c52c7b020ebb136f8d2a02d269b9ec7cbf52baf510f32773fd3cb26cae7e7fd",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "graphics/cards/6af5d2260986746faf76c14b_5c666efe4db681b62cd2b0ad24f91542_vaxmor-card-everyday.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5d2260986746faf76c14b_5c666efe4db681b62cd2b0ad24f91542_vaxmor-card-everyday.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af5d2260986746faf76c14b_5c666efe4db681b62cd2b0ad24f91542_vaxmor-card-everyday.webp",
+    "referenceRoutes": [
+      "/"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6af5d2260986746faf76c14b_5c666efe4db681b62cd2b0ad24f91542_vaxmor-card-everyday.webp",
+    "originalWidth": 1712,
+    "originalHeight": 1080,
+    "originalFileSize": 21918,
+    "hasTransparency": true,
+    "masterPath": "assets-source/original/graphics/cards/6af5d2260986746faf76c14b_5c666efe4db681b62cd2b0ad24f91542_vaxmor-card-everyday.webp",
+    "deliveryPath": "/assets/graphics/cards/6af5d2260986746faf76c14b_5c666efe4db681b62cd2b0ad24f91542_vaxmor-card-everyday.webp",
+    "sha256": "497239a4ed8d469a3066d5d0c5105bf8a6e35632f429b6a0d857775b2e95f5b1",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "graphics/app/6af8f54c79c0e4f0e735b18a_vaxmor-app-screen.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af8f54c79c0e4f0e735b18a_vaxmor-app-screen.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af8f54c79c0e4f0e735b18a_vaxmor-app-screen.webp",
+    "referenceRoutes": [
+      "/"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6af8f54c79c0e4f0e735b18a_vaxmor-app-screen.webp",
+    "originalWidth": 1170,
+    "originalHeight": 2535,
+    "originalFileSize": 102350,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/graphics/app/6af8f54c79c0e4f0e735b18a_vaxmor-app-screen.webp",
+    "deliveryPath": "/assets/graphics/app/6af8f54c79c0e4f0e735b18a_vaxmor-app-screen.webp",
+    "sha256": "e8646cdb9571d7bc0cc75dbd2cb21887144545a31b07aca3f1235de8ce7f71f1",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "graphics/app/6af9a795dd30da1efb6dcdd2_minimalist-smartphone-and-flowers-1-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af9a795dd30da1efb6dcdd2_Minimalist%20Smartphone%20and%20Flowers%20(1)%201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af9a795dd30da1efb6dcdd2_Minimalist%20Smartphone%20and%20Flowers%20(1)%201.webp",
+    "referenceRoutes": [
+      "/home-v2"
+    ],
+    "roles": [
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6af9a795dd30da1efb6dcdd2_Minimalist%20Smartphone%20and%20Flowers%20(1)%201.webp",
+    "originalWidth": 1220,
+    "originalHeight": 2400,
+    "originalFileSize": 39054,
+    "hasTransparency": true,
+    "masterPath": "assets-source/original/graphics/app/6af9a795dd30da1efb6dcdd2_minimalist-smartphone-and-flowers-1-1.webp",
+    "deliveryPath": "/assets/graphics/app/6af9a795dd30da1efb6dcdd2_minimalist-smartphone-and-flowers-1-1.webp",
+    "sha256": "73e0e50fa0a2ecd5c1ca2625fc7fc865f783dbb9712d1b4a5304968af9af11bc",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6afbb3b58dcfc3fe2efbb9c3_business-presentation-in-modern-office-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afbb3b58dcfc3fe2efbb9c3_Business%20Presentation%20in%20Modern%20Office%201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afbb3b58dcfc3fe2efbb9c3_Business%20Presentation%20in%20Modern%20Office%201.webp",
+    "referenceRoutes": [
+      "/"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afbb3b58dcfc3fe2efbb9c3_Business%20Presentation%20in%20Modern%20Office%201.webp",
+    "originalWidth": 1333,
+    "originalHeight": 1600,
+    "originalFileSize": 60784,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6afbb3b58dcfc3fe2efbb9c3_business-presentation-in-modern-office-1.webp",
+    "deliveryPath": "/assets/images/media/6afbb3b58dcfc3fe2efbb9c3_business-presentation-in-modern-office-1.webp",
+    "sha256": "4d0cff73b2b5efee624b76bafdfa4a82b2a77225f45288f123345a62153f7755",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af9a795dd30da1efb6dcdd2_Minimalist%20Smartphone%20and%20Flowers%20(1",
+    "error": "HTTP Error 403: Forbidden",
+    "acquisitionStatus": "FAILED"
+  },
+  {
+    "id": "images/media/6afbc18a29e3a56f0daa0f47_collaborative-workspace-1-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afbc18a29e3a56f0daa0f47_Collaborative%20Workspace%20(1)%201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afbc18a29e3a56f0daa0f47_Collaborative%20Workspace%20(1)%201.webp",
+    "referenceRoutes": [
+      "/",
+      "/services-v2"
+    ],
+    "roles": [
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afbc18a29e3a56f0daa0f47_Collaborative%20Workspace%20(1)%201.webp",
+    "originalWidth": 1600,
+    "originalHeight": 1200,
+    "originalFileSize": 47968,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6afbc18a29e3a56f0daa0f47_collaborative-workspace-1-1.webp",
+    "deliveryPath": "/assets/images/media/6afbc18a29e3a56f0daa0f47_collaborative-workspace-1-1.webp",
+    "sha256": "48598a79237b6d26da0c0145bac0e53f3bb129fbe02e74e150ac5a031a938804",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6af9ac5578008228b664e645_vaxmor-app-home.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af9ac5578008228b664e645_vaxmor-app-home.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af9ac5578008228b664e645_vaxmor-app-home.webp",
+    "referenceRoutes": [
+      "/home-v2"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6af9ac5578008228b664e645_vaxmor-app-home.webp",
+    "originalWidth": 1048,
+    "originalHeight": 2211,
+    "originalFileSize": 73436,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6af9ac5578008228b664e645_vaxmor-app-home.webp",
+    "deliveryPath": "/assets/images/media/6af9ac5578008228b664e645_vaxmor-app-home.webp",
+    "sha256": "4a731aa6d6cc4f279c8084f6c164a1d57257364601b9d7923343e454a1dc9983",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afbc18a29e3a56f0daa0f47_Collaborative%20Workspace%20(1",
+    "error": "HTTP Error 403: Forbidden",
+    "acquisitionStatus": "FAILED"
+  },
+  {
+    "id": "images/media/6afbc18a61535adcef60ebd3_professional-discussion-7-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afbc18a61535adcef60ebd3_Professional%20Discussion%20(7)%201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afbc18a61535adcef60ebd3_Professional%20Discussion%20(7)%201.webp",
+    "referenceRoutes": [
+      "/",
+      "/home-v2",
+      "/services-v1"
+    ],
+    "roles": [
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afbc18a61535adcef60ebd3_Professional%20Discussion%20(7)%201.webp",
+    "originalWidth": 1600,
+    "originalHeight": 1067,
+    "originalFileSize": 44192,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6afbc18a61535adcef60ebd3_professional-discussion-7-1.webp",
+    "deliveryPath": "/assets/images/media/6afbc18a61535adcef60ebd3_professional-discussion-7-1.webp",
+    "sha256": "a5d4fbd294921810cfdcc296cedbe1e5a6a8ff658e25411ebeb88f1747009506",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6af9ac569a240af3994a09ee_vaxmor-app-savings.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af9ac569a240af3994a09ee_vaxmor-app-savings.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af9ac569a240af3994a09ee_vaxmor-app-savings.webp",
+    "referenceRoutes": [
+      "/home-v2"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6af9ac569a240af3994a09ee_vaxmor-app-savings.webp",
+    "originalWidth": 1048,
+    "originalHeight": 2211,
+    "originalFileSize": 74200,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6af9ac569a240af3994a09ee_vaxmor-app-savings.webp",
+    "deliveryPath": "/assets/images/media/6af9ac569a240af3994a09ee_vaxmor-app-savings.webp",
+    "sha256": "6568709e065618feef14e328d62b22dcb39a26513f579979dc89e79a9a5825a9",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6afbc18a29e3a56f0daa0f56_office-meeting-discussion-1-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afbc18a29e3a56f0daa0f56_Office%20Meeting%20Discussion%20(1)%201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afbc18a29e3a56f0daa0f56_Office%20Meeting%20Discussion%20(1)%201.webp",
+    "referenceRoutes": [
+      "/",
+      "/services-v2"
+    ],
+    "roles": [
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afbc18a29e3a56f0daa0f56_Office%20Meeting%20Discussion%20(1)%201.webp",
+    "originalWidth": 1600,
+    "originalHeight": 1200,
+    "originalFileSize": 77770,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6afbc18a29e3a56f0daa0f56_office-meeting-discussion-1-1.webp",
+    "deliveryPath": "/assets/images/media/6afbc18a29e3a56f0daa0f56_office-meeting-discussion-1-1.webp",
+    "sha256": "13efee684d7e9a545f953cd08d17f792fb32c402a3ca0a630cde832cdd1917bd",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "graphics/cards/6af9ac55c154f2a7491d65cd_vaxmor-app-cards.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af9ac55c154f2a7491d65cd_vaxmor-app-cards.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6af9ac55c154f2a7491d65cd_vaxmor-app-cards.webp",
+    "referenceRoutes": [
+      "/home-v2"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6af9ac55c154f2a7491d65cd_vaxmor-app-cards.webp",
+    "originalWidth": 1048,
+    "originalHeight": 2211,
+    "originalFileSize": 65702,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/graphics/cards/6af9ac55c154f2a7491d65cd_vaxmor-app-cards.webp",
+    "deliveryPath": "/assets/graphics/cards/6af9ac55c154f2a7491d65cd_vaxmor-app-cards.webp",
+    "sha256": "988cd81a5f66b2a8553aa9908a742207b8c4a107f531a8c63ab69c98463d38e1",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afbc18a29e3a56f0daa0f56_Office%20Meeting%20Discussion%20(1",
+    "error": "HTTP Error 403: Forbidden",
+    "acquisitionStatus": "FAILED"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afbc18a61535adcef60ebd3_Professional%20Discussion%20(7",
+    "error": "HTTP Error 403: Forbidden",
+    "acquisitionStatus": "FAILED"
+  },
+  {
+    "id": "graphics/app/6afbca7f8f474a0b55a713b5_hand-with-smartphone-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afbca7f8f474a0b55a713b5_Hand%20with%20Smartphone%201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afbca7f8f474a0b55a713b5_Hand%20with%20Smartphone%201.webp",
+    "referenceRoutes": [
+      "/home-v2",
+      "/home-v3",
+      "/services/business-banking",
+      "/services/investment-portfolios",
+      "/services/lending-and-mortgages",
+      "/services/private-banking",
+      "/services/retirement-planning",
+      "/services/wealth-management"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afbca7f8f474a0b55a713b5_Hand%20with%20Smartphone%201.webp",
+    "originalWidth": 1600,
+    "originalHeight": 1200,
+    "originalFileSize": 48082,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/graphics/app/6afbca7f8f474a0b55a713b5_hand-with-smartphone-1.webp",
+    "deliveryPath": "/assets/graphics/app/6afbca7f8f474a0b55a713b5_hand-with-smartphone-1.webp",
+    "sha256": "240cfa6443ed852f065c5b00e8dd3793361811d5cdc7f8adde4fec500834e78c",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6afbc18ab615b4f78b0053ea_artisan-retailer-in-concentration-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afbc18ab615b4f78b0053ea_Artisan%20Retailer%20in%20Concentration%201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afbc18ab615b4f78b0053ea_Artisan%20Retailer%20in%20Concentration%201.webp",
+    "referenceRoutes": [
+      "/",
+      "/services-v2"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afbc18ab615b4f78b0053ea_Artisan%20Retailer%20in%20Concentration%201.webp",
+    "originalWidth": 1600,
+    "originalHeight": 1200,
+    "originalFileSize": 73430,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6afbc18ab615b4f78b0053ea_artisan-retailer-in-concentration-1.webp",
+    "deliveryPath": "/assets/images/media/6afbc18ab615b4f78b0053ea_artisan-retailer-in-concentration-1.webp",
+    "sha256": "a4a7c27051e3e95299cccc8077a97c53152c5baf66aec42bdd4d79a93c9c25d2",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6afbcbd431d2ab9b5fc911ff_professional-woman-at-desk-1-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afbcbd431d2ab9b5fc911ff_Professional%20Woman%20at%20Desk%20(1)%201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afbcbd431d2ab9b5fc911ff_Professional%20Woman%20at%20Desk%20(1)%201.webp",
+    "referenceRoutes": [
+      "/home-v3"
+    ],
+    "roles": [
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afbcbd431d2ab9b5fc911ff_Professional%20Woman%20at%20Desk%20(1)%201.webp",
+    "originalWidth": 1600,
+    "originalHeight": 800,
+    "originalFileSize": 38892,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6afbcbd431d2ab9b5fc911ff_professional-woman-at-desk-1-1.webp",
+    "deliveryPath": "/assets/images/media/6afbcbd431d2ab9b5fc911ff_professional-woman-at-desk-1-1.webp",
+    "sha256": "a40493903102a61cb35c9406badecf01e1774b4304876ad055ec2d6af16456ee",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6afc03f08792288188aaeac3_urban-sky-perspective-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc03f08792288188aaeac3_Urban%20Sky%20Perspective%201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc03f08792288188aaeac3_Urban%20Sky%20Perspective%201.webp",
+    "referenceRoutes": [
+      "/about-us"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afc03f08792288188aaeac3_Urban%20Sky%20Perspective%201.webp",
+    "originalWidth": 1600,
+    "originalHeight": 1067,
+    "originalFileSize": 35640,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6afc03f08792288188aaeac3_urban-sky-perspective-1.webp",
+    "deliveryPath": "/assets/images/media/6afc03f08792288188aaeac3_urban-sky-perspective-1.webp",
+    "sha256": "472e05f303e871e523e73147a28d39d7bc7d3a54fdfc2e2c040a4499c95e4865",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6afc03f031d2ab9b5fd62442_engaged-leadership-in-professional-team-meeting-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc03f031d2ab9b5fd62442_Engaged%20Leadership%20in%20Professional%20Team%20Meeting%201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc03f031d2ab9b5fd62442_Engaged%20Leadership%20in%20Professional%20Team%20Meeting%201.webp",
+    "referenceRoutes": [
+      "/about-us",
+      "/home-v2"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afc03f031d2ab9b5fd62442_Engaged%20Leadership%20in%20Professional%20Team%20Meeting%201.webp",
+    "originalWidth": 1600,
+    "originalHeight": 1067,
+    "originalFileSize": 67664,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6afc03f031d2ab9b5fd62442_engaged-leadership-in-professional-team-meeting-1.webp",
+    "deliveryPath": "/assets/images/media/6afc03f031d2ab9b5fd62442_engaged-leadership-in-professional-team-meeting-1.webp",
+    "sha256": "0d8546993b08b8f003676b71db53298fc546518cc3125a0909a245f0d978c907",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6afbca7f9c0f9c512fe63bc1_woman-shopping-online-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afbca7f9c0f9c512fe63bc1_Woman%20Shopping%20Online%201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afbca7f9c0f9c512fe63bc1_Woman%20Shopping%20Online%201.webp",
+    "referenceRoutes": [
+      "/home-v2",
+      "/home-v3",
+      "/services/business-banking",
+      "/services/investment-portfolios",
+      "/services/lending-and-mortgages",
+      "/services/private-banking",
+      "/services/retirement-planning",
+      "/services/wealth-management"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afbca7f9c0f9c512fe63bc1_Woman%20Shopping%20Online%201.webp",
+    "originalWidth": 1600,
+    "originalHeight": 1200,
+    "originalFileSize": 63874,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6afbca7f9c0f9c512fe63bc1_woman-shopping-online-1.webp",
+    "deliveryPath": "/assets/images/media/6afbca7f9c0f9c512fe63bc1_woman-shopping-online-1.webp",
+    "sha256": "49ee0a845cb0dad5b9dd7b0bfe04439c871ad70f9a2d19f9ceafaad8d6e0b1a0",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6afc03f0a6531713a54cd76b_portrait-of-a-woman-1-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc03f0a6531713a54cd76b_Portrait%20of%20a%20Woman%20(1)%201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc03f0a6531713a54cd76b_Portrait%20of%20a%20Woman%20(1)%201.webp",
+    "referenceRoutes": [
+      "/about-us"
+    ],
+    "roles": [
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afc03f0a6531713a54cd76b_Portrait%20of%20a%20Woman%20(1)%201.webp",
+    "originalWidth": 800,
+    "originalHeight": 800,
+    "originalFileSize": 39736,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6afc03f0a6531713a54cd76b_portrait-of-a-woman-1-1.webp",
+    "deliveryPath": "/assets/images/media/6afc03f0a6531713a54cd76b_portrait-of-a-woman-1-1.webp",
+    "sha256": "b945bf9f2eab7ed3e834bee51dc7d11fd58f93ddd2f5a0245b28ce42ef425448",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6afc03f0d0256c9c4118cdb5_professional-handshake-4-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc03f0d0256c9c4118cdb5_Professional%20Handshake%20(4)%201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc03f0d0256c9c4118cdb5_Professional%20Handshake%20(4)%201.webp",
+    "referenceRoutes": [
+      "/about-us"
+    ],
+    "roles": [
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afc03f0d0256c9c4118cdb5_Professional%20Handshake%20(4)%201.webp",
+    "originalWidth": 1600,
+    "originalHeight": 1200,
+    "originalFileSize": 37528,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6afc03f0d0256c9c4118cdb5_professional-handshake-4-1.webp",
+    "deliveryPath": "/assets/images/media/6afc03f0d0256c9c4118cdb5_professional-handshake-4-1.webp",
+    "sha256": "9cceacf10b1cbbadc9e3b6b7eeff71c72ff3c865da0b60a272021a375052cb8f",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6afc05196ffe4f8553611c76_typing-on-laptop-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc05196ffe4f8553611c76_Typing%20on%20Laptop%201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc05196ffe4f8553611c76_Typing%20on%20Laptop%201.webp",
+    "referenceRoutes": [
+      "/about-us",
+      "/home-v2",
+      "/pricing"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afc05196ffe4f8553611c76_Typing%20on%20Laptop%201.webp",
+    "originalWidth": 1200,
+    "originalHeight": 1600,
+    "originalFileSize": 49028,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6afc05196ffe4f8553611c76_typing-on-laptop-1.webp",
+    "deliveryPath": "/assets/images/media/6afc05196ffe4f8553611c76_typing-on-laptop-1.webp",
+    "sha256": "7a5e8476c59ad6f9e49d21aebde0665dd0a9dff71b0c3e0be580c50dcf331283",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afbcbd431d2ab9b5fc911ff_Professional%20Woman%20at%20Desk%20(1",
+    "error": "HTTP Error 403: Forbidden",
+    "acquisitionStatus": "FAILED"
+  },
+  {
+    "id": "images/media/6afbc4b8f4dadac9ac774414_393b41a8142010a9ee65249105076bbb_tech-interaction-close-up-1-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afbc4b8f4dadac9ac774414_393b41a8142010a9ee65249105076bbb_Tech%20Interaction%20Close-Up%20%281%29%201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afbc4b8f4dadac9ac774414_393b41a8142010a9ee65249105076bbb_Tech%20Interaction%20Close-Up%20%281%29%201.webp",
+    "referenceRoutes": [
+      "/home-v2"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afbc4b8f4dadac9ac774414_393b41a8142010a9ee65249105076bbb_Tech%20Interaction%20Close-Up%20%281%29%201.webp",
+    "originalWidth": 1600,
+    "originalHeight": 1200,
+    "originalFileSize": 57712,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6afbc4b8f4dadac9ac774414_393b41a8142010a9ee65249105076bbb_tech-interaction-close-up-1-1.webp",
+    "deliveryPath": "/assets/images/media/6afbc4b8f4dadac9ac774414_393b41a8142010a9ee65249105076bbb_tech-interaction-close-up-1-1.webp",
+    "sha256": "b5d9eb0f3ec7d329311b15b9073641fdd341b42a671462fe110ea0679a602bd3",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc03f0a6531713a54cd76b_Portrait%20of%20a%20Woman%20(1",
+    "error": "HTTP Error 403: Forbidden",
+    "acquisitionStatus": "FAILED"
+  },
+  {
+    "id": "images/architecture/6afc03f0d0256c9c4118cdb9_brickwork-verticality-modern-commercial-building-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc03f0d0256c9c4118cdb9_Brickwork%20Verticality%20Modern%20Commercial%20Building%201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc03f0d0256c9c4118cdb9_Brickwork%20Verticality%20Modern%20Commercial%20Building%201.webp",
+    "referenceRoutes": [
+      "/about-us",
+      "/home-v3",
+      "/services/business-banking",
+      "/services/investment-portfolios",
+      "/services/lending-and-mortgages",
+      "/services/private-banking",
+      "/services/retirement-planning",
+      "/services/wealth-management"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afc03f0d0256c9c4118cdb9_Brickwork%20Verticality%20Modern%20Commercial%20Building%201.webp",
+    "originalWidth": 1600,
+    "originalHeight": 1066,
+    "originalFileSize": 132086,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/architecture/6afc03f0d0256c9c4118cdb9_brickwork-verticality-modern-commercial-building-1.webp",
+    "deliveryPath": "/assets/images/architecture/6afc03f0d0256c9c4118cdb9_brickwork-verticality-modern-commercial-building-1.webp",
+    "sha256": "65c78dfdc2d950a61f3a605755b2798de4a395ef9242a8276a3f9d68c88408fa",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc03f0d0256c9c4118cdb5_Professional%20Handshake%20(4",
+    "error": "HTTP Error 403: Forbidden",
+    "acquisitionStatus": "FAILED"
+  },
+  {
+    "id": "images/media/6afc06086cc1a3212bbd8953_contemplative-morning-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc06086cc1a3212bbd8953_Contemplative%20Morning%201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc06086cc1a3212bbd8953_Contemplative%20Morning%201.webp",
+    "referenceRoutes": [
+      "/blog"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afc06086cc1a3212bbd8953_Contemplative%20Morning%201.webp",
+    "originalWidth": 1600,
+    "originalHeight": 1200,
+    "originalFileSize": 42620,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6afc06086cc1a3212bbd8953_contemplative-morning-1.webp",
+    "deliveryPath": "/assets/images/media/6afc06086cc1a3212bbd8953_contemplative-morning-1.webp",
+    "sha256": "2b9e920bc54b4e2413424bd4e0ade2be3256b64bc2dc092c322f831e34065502",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "graphics/app/6afc0e05af1476d01d1fa85a_professional-phone-call-1-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc0e05af1476d01d1fa85a_Professional%20Phone%20Call%20(1)%201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc0e05af1476d01d1fa85a_Professional%20Phone%20Call%20(1)%201.webp",
+    "referenceRoutes": [
+      "/contact-v1"
+    ],
+    "roles": [
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afc0e05af1476d01d1fa85a_Professional%20Phone%20Call%20(1)%201.webp",
+    "originalWidth": 1600,
+    "originalHeight": 1200,
+    "originalFileSize": 40228,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/graphics/app/6afc0e05af1476d01d1fa85a_professional-phone-call-1-1.webp",
+    "deliveryPath": "/assets/graphics/app/6afc0e05af1476d01d1fa85a_professional-phone-call-1-1.webp",
+    "sha256": "19313ee284f014b1858c828bf2da5e0ca2c4e6958438867dd440f394f75e26b7",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "maps/6afc07f5a04eb31a0c3b7551_de8ec50489d43c1df59dddb030383b7f_screenshot-2026-11-17-at-15.52.55-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc07f5a04eb31a0c3b7551_de8ec50489d43c1df59dddb030383b7f_Screenshot%202026-11-17%20at%2015.52.55%201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc07f5a04eb31a0c3b7551_de8ec50489d43c1df59dddb030383b7f_Screenshot%202026-11-17%20at%2015.52.55%201.webp",
+    "referenceRoutes": [
+      "/contact-v1",
+      "/contact-v2",
+      "/contact-v3"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afc07f5a04eb31a0c3b7551_de8ec50489d43c1df59dddb030383b7f_Screenshot%202026-11-17%20at%2015.52.55%201.webp",
+    "originalWidth": 1422,
+    "originalHeight": 736,
+    "originalFileSize": 43324,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/maps/6afc07f5a04eb31a0c3b7551_de8ec50489d43c1df59dddb030383b7f_screenshot-2026-11-17-at-15.52.55-1.webp",
+    "deliveryPath": "/assets/maps/6afc07f5a04eb31a0c3b7551_de8ec50489d43c1df59dddb030383b7f_screenshot-2026-11-17-at-15.52.55-1.webp",
+    "sha256": "0aa58e5270dd910e57867ce35784ebf4270f23540680b70230a94ab0e607f1a8",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6afc09fb15e56a482c3d9f09_luxurious-hotel-lobby-interior-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc09fb15e56a482c3d9f09_Luxurious%20Hotel%20Lobby%20Interior%201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc09fb15e56a482c3d9f09_Luxurious%20Hotel%20Lobby%20Interior%201.webp",
+    "referenceRoutes": [
+      "/contact-v1"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afc09fb15e56a482c3d9f09_Luxurious%20Hotel%20Lobby%20Interior%201.webp",
+    "originalWidth": 1600,
+    "originalHeight": 1200,
+    "originalFileSize": 45692,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6afc09fb15e56a482c3d9f09_luxurious-hotel-lobby-interior-1.webp",
+    "deliveryPath": "/assets/images/media/6afc09fb15e56a482c3d9f09_luxurious-hotel-lobby-interior-1.webp",
+    "sha256": "cd4f6cf631c841418dae8bc8ce487afa005c4b34f40e57c83d1c5b3bbe7eb663",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc0e05af1476d01d1fa85a_Professional%20Phone%20Call%20(1",
+    "error": "HTTP Error 403: Forbidden",
+    "acquisitionStatus": "FAILED"
+  },
+  {
+    "id": "images/architecture/6afc185bab8c56af9d6173b1_modern-urban-minimalism-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc185bab8c56af9d6173b1_Modern%20Urban%20Minimalism%201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc185bab8c56af9d6173b1_Modern%20Urban%20Minimalism%201.webp",
+    "referenceRoutes": [
+      "/changelog",
+      "/contact-v1",
+      "/contact-v3",
+      "/instructions",
+      "/licenses",
+      "/style-guide"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afc185bab8c56af9d6173b1_Modern%20Urban%20Minimalism%201.webp",
+    "originalWidth": 1333,
+    "originalHeight": 1600,
+    "originalFileSize": 40540,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/architecture/6afc185bab8c56af9d6173b1_modern-urban-minimalism-1.webp",
+    "deliveryPath": "/assets/images/architecture/6afc185bab8c56af9d6173b1_modern-urban-minimalism-1.webp",
+    "sha256": "b9fb1b63eab21338875f2acd5d06d4bea306c1d4ef9555ea78a0a502b39f1496",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/architecture/6afc185bec470e75e7741dab_modernist-concrete-building-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc185bec470e75e7741dab_Modernist%20Concrete%20Building%201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc185bec470e75e7741dab_Modernist%20Concrete%20Building%201.webp",
+    "referenceRoutes": [
+      "/contact-v1",
+      "/contact-v3"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afc185bec470e75e7741dab_Modernist%20Concrete%20Building%201.webp",
+    "originalWidth": 1333,
+    "originalHeight": 1600,
+    "originalFileSize": 108054,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/architecture/6afc185bec470e75e7741dab_modernist-concrete-building-1.webp",
+    "deliveryPath": "/assets/images/architecture/6afc185bec470e75e7741dab_modernist-concrete-building-1.webp",
+    "sha256": "e2b3bd04bced2a74831111b17be4353f64793c35272a5da1d59635e015e994fd",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/architecture/6afc185b581b1db4c2b6d85c_twilight-reflections-on-the-cylindrical-glass-skyscraper-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc185b581b1db4c2b6d85c_Twilight%20Reflections%20on%20the%20Cylindrical%20Glass%20Skyscraper%201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc185b581b1db4c2b6d85c_Twilight%20Reflections%20on%20the%20Cylindrical%20Glass%20Skyscraper%201.webp",
+    "referenceRoutes": [
+      "/contact-v1",
+      "/contact-v3"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afc185b581b1db4c2b6d85c_Twilight%20Reflections%20on%20the%20Cylindrical%20Glass%20Skyscraper%201.webp",
+    "originalWidth": 1333,
+    "originalHeight": 1600,
+    "originalFileSize": 117114,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/architecture/6afc185b581b1db4c2b6d85c_twilight-reflections-on-the-cylindrical-glass-skyscraper-1.webp",
+    "deliveryPath": "/assets/images/architecture/6afc185b581b1db4c2b6d85c_twilight-reflections-on-the-cylindrical-glass-skyscraper-1.webp",
+    "sha256": "f5d4b0a0d1323688ed20b4867eb9600447e4062c1007567e8ab31d34fd0062f4",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6afc19fe519256b8fafaa834_virtual-meeting-in-a-modern-office-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc19fe519256b8fafaa834_Virtual%20Meeting%20in%20a%20Modern%20Office%201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc19fe519256b8fafaa834_Virtual%20Meeting%20in%20a%20Modern%20Office%201.webp",
+    "referenceRoutes": [
+      "/contact-v2"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afc19fe519256b8fafaa834_Virtual%20Meeting%20in%20a%20Modern%20Office%201.webp",
+    "originalWidth": 1333,
+    "originalHeight": 1600,
+    "originalFileSize": 81520,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6afc19fe519256b8fafaa834_virtual-meeting-in-a-modern-office-1.webp",
+    "deliveryPath": "/assets/images/media/6afc19fe519256b8fafaa834_virtual-meeting-in-a-modern-office-1.webp",
+    "sha256": "4f9dca38b5b0c8d110fbddb7e41d3ffbf38a3568a3cd44760de2838e9f12d893",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6afc3f8235a2dd180101dd29_professional-discussion-8-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc3f8235a2dd180101dd29_Professional%20Discussion%20(8)%201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc3f8235a2dd180101dd29_Professional%20Discussion%20(8)%201.webp",
+    "referenceRoutes": [
+      "/services-v1"
+    ],
+    "roles": [
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afc3f8235a2dd180101dd29_Professional%20Discussion%20(8)%201.webp",
+    "originalWidth": 1600,
+    "originalHeight": 900,
+    "originalFileSize": 41648,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6afc3f8235a2dd180101dd29_professional-discussion-8-1.webp",
+    "deliveryPath": "/assets/images/media/6afc3f8235a2dd180101dd29_professional-discussion-8-1.webp",
+    "sha256": "a42afd36c690c4a474455d8c13d9df4cc76230120e6e404bfd91dcff198c012e",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6afc1f1311a733b0ee9ba5a1_elegant-hotel-lobby-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc1f1311a733b0ee9ba5a1_Elegant%20Hotel%20Lobby%201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc1f1311a733b0ee9ba5a1_Elegant%20Hotel%20Lobby%201.webp",
+    "referenceRoutes": [
+      "/contact-v3"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afc1f1311a733b0ee9ba5a1_Elegant%20Hotel%20Lobby%201.webp",
+    "originalWidth": 1600,
+    "originalHeight": 900,
+    "originalFileSize": 54676,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6afc1f1311a733b0ee9ba5a1_elegant-hotel-lobby-1.webp",
+    "deliveryPath": "/assets/images/media/6afc1f1311a733b0ee9ba5a1_elegant-hotel-lobby-1.webp",
+    "sha256": "f9e142d0cdb70265e483e6478fddb341c60226d7401860dacf6f963fdb281faf",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6afc3f821f018b2f20a63775_business-discussion-1-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc3f821f018b2f20a63775_Business%20Discussion%20(1)%201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc3f821f018b2f20a63775_Business%20Discussion%20(1)%201.webp",
+    "referenceRoutes": [
+      "/services-v1"
+    ],
+    "roles": [
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afc3f821f018b2f20a63775_Business%20Discussion%20(1)%201.webp",
+    "originalWidth": 1600,
+    "originalHeight": 800,
+    "originalFileSize": 34168,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6afc3f821f018b2f20a63775_business-discussion-1-1.webp",
+    "deliveryPath": "/assets/images/media/6afc3f821f018b2f20a63775_business-discussion-1-1.webp",
+    "sha256": "5f398484fc721431368548457465358dfc4409e4c8e69b1873b7beb38359dde2",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc3f821f018b2f20a63775_Business%20Discussion%20(1",
+    "error": "HTTP Error 403: Forbidden",
+    "acquisitionStatus": "FAILED"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc3f8235a2dd180101dd29_Professional%20Discussion%20(8",
+    "error": "HTTP Error 403: Forbidden",
+    "acquisitionStatus": "FAILED"
+  },
+  {
+    "id": "images/media/6afc3f82aa31e8988f72b25a_professional-discussion-9-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc3f82aa31e8988f72b25a_Professional%20Discussion%20(9)%201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc3f82aa31e8988f72b25a_Professional%20Discussion%20(9)%201.webp",
+    "referenceRoutes": [
+      "/blog",
+      "/changelog",
+      "/contact-v2",
+      "/contact-v3",
+      "/instructions",
+      "/licenses",
+      "/pricing",
+      "/services-v1",
+      "/services-v2",
+      "/style-guide",
+      "/testimonial/daniel-k",
+      "/testimonial/james-p",
+      "/testimonial/karen-d",
+      "/testimonial/marcus-b",
+      "/testimonial/maria-s",
+      "/testimonial/patricia-h",
+      "/testimonial/robert-m",
+      "/testimonial/thomas-w"
+    ],
+    "roles": [
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afc3f82aa31e8988f72b25a_Professional%20Discussion%20(9)%201.webp",
+    "originalWidth": 1600,
+    "originalHeight": 900,
+    "originalFileSize": 40350,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6afc3f82aa31e8988f72b25a_professional-discussion-9-1.webp",
+    "deliveryPath": "/assets/images/media/6afc3f82aa31e8988f72b25a_professional-discussion-9-1.webp",
+    "sha256": "c34ecd2a02bedb145d2f5a64bea209b5e8be975dfe959c0af5017797f314f46d",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc3f82aa31e8988f72b25a_Professional%20Discussion%20(9",
+    "error": "HTTP Error 403: Forbidden",
+    "acquisitionStatus": "FAILED"
+  },
+  {
+    "id": "images/media/6afc436d0efc884fd490abdb_business-meeting-scene-9-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc436d0efc884fd490abdb_Business%20Meeting%20Scene%20(9)%201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc436d0efc884fd490abdb_Business%20Meeting%20Scene%20(9)%201.webp",
+    "referenceRoutes": [
+      "/services-v3"
+    ],
+    "roles": [
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afc436d0efc884fd490abdb_Business%20Meeting%20Scene%20(9)%201.webp",
+    "originalWidth": 1600,
+    "originalHeight": 1200,
+    "originalFileSize": 46964,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6afc436d0efc884fd490abdb_business-meeting-scene-9-1.webp",
+    "deliveryPath": "/assets/images/media/6afc436d0efc884fd490abdb_business-meeting-scene-9-1.webp",
+    "sha256": "1d88a3e92f3f229fa75dce28fac3922377a7ba744af225335abfcf771db64496",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6afc436de2bc9aa82fe77cab_office-discussion-scene-5-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc436de2bc9aa82fe77cab_Office%20Discussion%20Scene%20(5)%201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc436de2bc9aa82fe77cab_Office%20Discussion%20Scene%20(5)%201.webp",
+    "referenceRoutes": [
+      "/services-v3"
+    ],
+    "roles": [
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afc436de2bc9aa82fe77cab_Office%20Discussion%20Scene%20(5)%201.webp",
+    "originalWidth": 1600,
+    "originalHeight": 1200,
+    "originalFileSize": 39530,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6afc436de2bc9aa82fe77cab_office-discussion-scene-5-1.webp",
+    "deliveryPath": "/assets/images/media/6afc436de2bc9aa82fe77cab_office-discussion-scene-5-1.webp",
+    "sha256": "089a55a2be130648ac3cc3be4445689aed8d5b7ae000b056e885ece5cf0e8830",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc436de2bc9aa82fe77cab_Office%20Discussion%20Scene%20(5",
+    "error": "HTTP Error 403: Forbidden",
+    "acquisitionStatus": "FAILED"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc436d0efc884fd490abdb_Business%20Meeting%20Scene%20(9",
+    "error": "HTTP Error 403: Forbidden",
+    "acquisitionStatus": "FAILED"
+  },
+  {
+    "id": "images/media/6afc41be7fbfef5f20c51992_focused-desk-work-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc41be7fbfef5f20c51992_Focused%20Desk%20Work%201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc41be7fbfef5f20c51992_Focused%20Desk%20Work%201.webp",
+    "referenceRoutes": [
+      "/services-v2"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afc41be7fbfef5f20c51992_Focused%20Desk%20Work%201.webp",
+    "originalWidth": 1200,
+    "originalHeight": 1600,
+    "originalFileSize": 99428,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6afc41be7fbfef5f20c51992_focused-desk-work-1.webp",
+    "deliveryPath": "/assets/images/media/6afc41be7fbfef5f20c51992_focused-desk-work-1.webp",
+    "sha256": "bbf176207b9fa485f9fe756a799b193d2d7d221186bac255c64cd703dab5abf0",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc443705942452aed01e84_Grandmother%20and%20Grandchild%20(1",
+    "error": "HTTP Error 403: Forbidden",
+    "acquisitionStatus": "FAILED"
+  },
+  {
+    "id": "images/media/6afc443705942452aed01e84_grandmother-and-grandchild-1-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc443705942452aed01e84_Grandmother%20and%20Grandchild%20(1)%201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc443705942452aed01e84_Grandmother%20and%20Grandchild%20(1)%201.webp",
+    "referenceRoutes": [
+      "/services-v3"
+    ],
+    "roles": [
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afc443705942452aed01e84_Grandmother%20and%20Grandchild%20(1)%201.webp",
+    "originalWidth": 1600,
+    "originalHeight": 1200,
+    "originalFileSize": 121288,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6afc443705942452aed01e84_grandmother-and-grandchild-1-1.webp",
+    "deliveryPath": "/assets/images/media/6afc443705942452aed01e84_grandmother-and-grandchild-1-1.webp",
+    "sha256": "07220b19b8a8dfdf6350b5044429ca2867869c587f25162642a553956e1139fe",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "brand/6afd067d479b410eb1a73176_vaxmor-dark.png",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afd067d479b410eb1a73176_Vaxmor%20Dark.png",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afd067d479b410eb1a73176_Vaxmor%20Dark.png",
+    "referenceRoutes": [
+      "/",
+      "/401",
+      "/404",
+      "/about-us",
+      "/blog",
+      "/blog/cash-flow-habits-of-fast-growing-businesses",
+      "/blog/diversification-explained-without-the-jargon",
+      "/blog/how-much-cash-should-you-really-keep",
+      "/blog/planning-retirement-in-your-forties-five-steps",
+      "/blog/seven-questions-to-ask-before-choosing-a-financial-advisor",
+      "/blog/what-interest-rate-changes-mean-for-you-in-2026",
+      "/changelog",
+      "/contact-v1",
+      "/contact-v2",
+      "/contact-v3",
+      "/home-v2",
+      "/home-v3",
+      "/instructions",
+      "/licenses",
+      "/nonexistent-404-test_404",
+      "/pricing",
+      "/services-v1",
+      "/services-v2",
+      "/services-v3",
+      "/services/business-banking",
+      "/services/investment-portfolios",
+      "/services/lending-and-mortgages",
+      "/services/private-banking",
+      "/services/retirement-planning",
+      "/services/wealth-management",
+      "/style-guide",
+      "/testimonial/daniel-k",
+      "/testimonial/james-p",
+      "/testimonial/karen-d",
+      "/testimonial/marcus-b",
+      "/testimonial/maria-s",
+      "/testimonial/patricia-h",
+      "/testimonial/robert-m",
+      "/testimonial/thomas-w"
+    ],
+    "roles": [
+      "html-ref",
+      "link-icon"
+    ],
+    "mimeType": "image/png",
+    "originalFilename": "6afd067d479b410eb1a73176_Vaxmor%20Dark.png",
+    "originalWidth": 32,
+    "originalHeight": 32,
+    "originalFileSize": 1025,
+    "hasTransparency": true,
+    "masterPath": "assets-source/original/brand/6afd067d479b410eb1a73176_vaxmor-dark.png",
+    "deliveryPath": "/assets/brand/6afd067d479b410eb1a73176_vaxmor-dark.png",
+    "sha256": "0e72966fccb0f3c2ccf5fcc1b8b9f98c9b424aeb1e01ed8cb1b38fa46edf2012",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "images/media/6afc44374cfe25d981c6622e_tender-mother-and-baby-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc44374cfe25d981c6622e_Tender%20Mother%20and%20Baby%201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc44374cfe25d981c6622e_Tender%20Mother%20and%20Baby%201.webp",
+    "referenceRoutes": [
+      "/services-v3"
+    ],
+    "roles": [
+      "html-ref",
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afc44374cfe25d981c6622e_Tender%20Mother%20and%20Baby%201.webp",
+    "originalWidth": 1600,
+    "originalHeight": 1200,
+    "originalFileSize": 65602,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/images/media/6afc44374cfe25d981c6622e_tender-mother-and-baby-1.webp",
+    "deliveryPath": "/assets/images/media/6afc44374cfe25d981c6622e_tender-mother-and-baby-1.webp",
+    "sha256": "6c59b3bbea8d2e5adbf08cbe0aa4bd37fe06ec429dec17ca41c58fb3138dca06",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "brand/6afd067d45b490ddbde4c7c2_vaxmor-dark.png",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afd067d45b490ddbde4c7c2_Vaxmor%20Dark.png",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afd067d45b490ddbde4c7c2_Vaxmor%20Dark.png",
+    "referenceRoutes": [
+      "/",
+      "/401",
+      "/404",
+      "/about-us",
+      "/blog",
+      "/blog/cash-flow-habits-of-fast-growing-businesses",
+      "/blog/diversification-explained-without-the-jargon",
+      "/blog/how-much-cash-should-you-really-keep",
+      "/blog/planning-retirement-in-your-forties-five-steps",
+      "/blog/seven-questions-to-ask-before-choosing-a-financial-advisor",
+      "/blog/what-interest-rate-changes-mean-for-you-in-2026",
+      "/changelog",
+      "/contact-v1",
+      "/contact-v2",
+      "/contact-v3",
+      "/home-v2",
+      "/home-v3",
+      "/instructions",
+      "/licenses",
+      "/nonexistent-404-test_404",
+      "/pricing",
+      "/services-v1",
+      "/services-v2",
+      "/services-v3",
+      "/services/business-banking",
+      "/services/investment-portfolios",
+      "/services/lending-and-mortgages",
+      "/services/private-banking",
+      "/services/retirement-planning",
+      "/services/wealth-management",
+      "/style-guide",
+      "/testimonial/daniel-k",
+      "/testimonial/james-p",
+      "/testimonial/karen-d",
+      "/testimonial/marcus-b",
+      "/testimonial/maria-s",
+      "/testimonial/patricia-h",
+      "/testimonial/robert-m",
+      "/testimonial/thomas-w"
+    ],
+    "roles": [
+      "html-ref",
+      "link-icon"
+    ],
+    "mimeType": "image/png",
+    "originalFilename": "6afd067d45b490ddbde4c7c2_Vaxmor%20Dark.png",
+    "originalWidth": 192,
+    "originalHeight": 192,
+    "originalFileSize": 7623,
+    "hasTransparency": true,
+    "masterPath": "assets-source/original/brand/6afd067d45b490ddbde4c7c2_vaxmor-dark.png",
+    "deliveryPath": "/assets/brand/6afd067d45b490ddbde4c7c2_vaxmor-dark.png",
+    "sha256": "33308fee2d74d08fcaa6c102ea5a99a55df845caad5107e4866d868a585a4999",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "brand/6afd067d5558d6eea327d819_vaxmor-dark.png",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afd067d5558d6eea327d819_Vaxmor%20Dark.png",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afd067d5558d6eea327d819_Vaxmor%20Dark.png",
+    "referenceRoutes": [
+      "/",
+      "/401",
+      "/404",
+      "/about-us",
+      "/blog",
+      "/blog/cash-flow-habits-of-fast-growing-businesses",
+      "/blog/diversification-explained-without-the-jargon",
+      "/blog/how-much-cash-should-you-really-keep",
+      "/blog/planning-retirement-in-your-forties-five-steps",
+      "/blog/seven-questions-to-ask-before-choosing-a-financial-advisor",
+      "/blog/what-interest-rate-changes-mean-for-you-in-2026",
+      "/changelog",
+      "/contact-v1",
+      "/contact-v2",
+      "/contact-v3",
+      "/home-v2",
+      "/home-v3",
+      "/instructions",
+      "/licenses",
+      "/nonexistent-404-test_404",
+      "/pricing",
+      "/services-v1",
+      "/services-v2",
+      "/services-v3",
+      "/services/business-banking",
+      "/services/investment-portfolios",
+      "/services/lending-and-mortgages",
+      "/services/private-banking",
+      "/services/retirement-planning",
+      "/services/wealth-management",
+      "/style-guide",
+      "/testimonial/daniel-k",
+      "/testimonial/james-p",
+      "/testimonial/karen-d",
+      "/testimonial/marcus-b",
+      "/testimonial/maria-s",
+      "/testimonial/patricia-h",
+      "/testimonial/robert-m",
+      "/testimonial/thomas-w"
+    ],
+    "roles": [
+      "html-ref",
+      "link-icon"
+    ],
+    "mimeType": "image/png",
+    "originalFilename": "6afd067d5558d6eea327d819_Vaxmor%20Dark.png",
+    "originalWidth": 512,
+    "originalHeight": 512,
+    "originalFileSize": 22220,
+    "hasTransparency": true,
+    "masterPath": "assets-source/original/brand/6afd067d5558d6eea327d819_vaxmor-dark.png",
+    "deliveryPath": "/assets/brand/6afd067d5558d6eea327d819_vaxmor-dark.png",
+    "sha256": "4b3bf5cca67f5075e59f33719eca2d56ff785f6084cc21fa7d45bbf948df33e0",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc48f00f1443855a6bd839_Woman%20Using%20Smartphone%20(1",
+    "error": "HTTP Error 403: Forbidden",
+    "acquisitionStatus": "FAILED"
+  },
+  {
+    "id": "brand/6afd067dced1c670455c0565_vaxmor-dark.png",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afd067dced1c670455c0565_Vaxmor%20Dark.png",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afd067dced1c670455c0565_Vaxmor%20Dark.png",
+    "referenceRoutes": [
+      "/",
+      "/401",
+      "/404",
+      "/about-us",
+      "/blog",
+      "/blog/cash-flow-habits-of-fast-growing-businesses",
+      "/blog/diversification-explained-without-the-jargon",
+      "/blog/how-much-cash-should-you-really-keep",
+      "/blog/planning-retirement-in-your-forties-five-steps",
+      "/blog/seven-questions-to-ask-before-choosing-a-financial-advisor",
+      "/blog/what-interest-rate-changes-mean-for-you-in-2026",
+      "/changelog",
+      "/contact-v1",
+      "/contact-v2",
+      "/contact-v3",
+      "/home-v2",
+      "/home-v3",
+      "/instructions",
+      "/licenses",
+      "/nonexistent-404-test_404",
+      "/pricing",
+      "/services-v1",
+      "/services-v2",
+      "/services-v3",
+      "/services/business-banking",
+      "/services/investment-portfolios",
+      "/services/lending-and-mortgages",
+      "/services/private-banking",
+      "/services/retirement-planning",
+      "/services/wealth-management",
+      "/style-guide",
+      "/testimonial/daniel-k",
+      "/testimonial/james-p",
+      "/testimonial/karen-d",
+      "/testimonial/marcus-b",
+      "/testimonial/maria-s",
+      "/testimonial/patricia-h",
+      "/testimonial/robert-m",
+      "/testimonial/thomas-w"
+    ],
+    "roles": [
+      "html-ref",
+      "link-icon"
+    ],
+    "mimeType": "image/png",
+    "originalFilename": "6afd067dced1c670455c0565_Vaxmor%20Dark.png",
+    "originalWidth": 180,
+    "originalHeight": 180,
+    "originalFileSize": 7198,
+    "hasTransparency": true,
+    "masterPath": "assets-source/original/brand/6afd067dced1c670455c0565_vaxmor-dark.png",
+    "deliveryPath": "/assets/brand/6afd067dced1c670455c0565_vaxmor-dark.png",
+    "sha256": "6e2c0b6fa2bbed03ce9ac2b4e66ee9d160b2d6d4dacbde45a1e171768af168bb",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "brand/6afd067de2d1823243369506_vaxmor-dark.png",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afd067de2d1823243369506_Vaxmor%20Dark.png",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afd067de2d1823243369506_Vaxmor%20Dark.png",
+    "referenceRoutes": [
+      "/",
+      "/401",
+      "/404",
+      "/about-us",
+      "/blog",
+      "/blog/cash-flow-habits-of-fast-growing-businesses",
+      "/blog/diversification-explained-without-the-jargon",
+      "/blog/how-much-cash-should-you-really-keep",
+      "/blog/planning-retirement-in-your-forties-five-steps",
+      "/blog/seven-questions-to-ask-before-choosing-a-financial-advisor",
+      "/blog/what-interest-rate-changes-mean-for-you-in-2026",
+      "/changelog",
+      "/contact-v1",
+      "/contact-v2",
+      "/contact-v3",
+      "/home-v2",
+      "/home-v3",
+      "/instructions",
+      "/licenses",
+      "/nonexistent-404-test_404",
+      "/pricing",
+      "/services-v1",
+      "/services-v2",
+      "/services-v3",
+      "/services/business-banking",
+      "/services/investment-portfolios",
+      "/services/lending-and-mortgages",
+      "/services/private-banking",
+      "/services/retirement-planning",
+      "/services/wealth-management",
+      "/style-guide",
+      "/testimonial/daniel-k",
+      "/testimonial/james-p",
+      "/testimonial/karen-d",
+      "/testimonial/marcus-b",
+      "/testimonial/maria-s",
+      "/testimonial/patricia-h",
+      "/testimonial/robert-m",
+      "/testimonial/thomas-w"
+    ],
+    "roles": [
+      "html-ref",
+      "link-icon"
+    ],
+    "mimeType": "image/png",
+    "originalFilename": "6afd067de2d1823243369506_Vaxmor%20Dark.png",
+    "originalWidth": 48,
+    "originalHeight": 48,
+    "originalFileSize": 1708,
+    "hasTransparency": true,
+    "masterPath": "assets-source/original/brand/6afd067de2d1823243369506_vaxmor-dark.png",
+    "deliveryPath": "/assets/brand/6afd067de2d1823243369506_vaxmor-dark.png",
+    "sha256": "af4c04bd3cb3952a834571bbaa0b58f2e9fe7cf9fa39d4a87f315fbccf91b747",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "brand/6b04fd8f3a90751f1ab2b9ae_vaxmor-og-image.jpg",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6b04fd8f3a90751f1ab2b9ae_vaxmor-og-image.jpg",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6b04fd8f3a90751f1ab2b9ae_vaxmor-og-image.jpg",
+    "referenceRoutes": [
+      "/",
+      "/401",
+      "/404",
+      "/about-us",
+      "/blog",
+      "/changelog",
+      "/contact-v1",
+      "/contact-v2",
+      "/contact-v3",
+      "/home-v2",
+      "/home-v3",
+      "/instructions",
+      "/licenses",
+      "/nonexistent-404-test_404",
+      "/pricing",
+      "/services-v1",
+      "/services-v2",
+      "/services-v3",
+      "/style-guide"
+    ],
+    "roles": [
+      "html-ref",
+      "meta-og:image",
+      "meta-twitter:image"
+    ],
+    "mimeType": "image/jpeg",
+    "originalFilename": "6b04fd8f3a90751f1ab2b9ae_vaxmor-og-image.jpg",
+    "originalWidth": 1200,
+    "originalHeight": 630,
+    "originalFileSize": 107325,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/brand/6b04fd8f3a90751f1ab2b9ae_vaxmor-og-image.jpg",
+    "deliveryPath": "/assets/brand/6b04fd8f3a90751f1ab2b9ae_vaxmor-og-image.jpg",
+    "sha256": "14afb010e73569e1c89d22308304b3c517086c90424dcbc31b583c2306a49036",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  },
+  {
+    "id": "graphics/app/6afc48f00f1443855a6bd839_woman-using-smartphone-1-1.webp",
+    "sourceUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc48f00f1443855a6bd839_Woman%20Using%20Smartphone%20(1)%201.webp",
+    "finalUrl": "https://cdn.prod.website-files.com/6af5425e48b17c8a81d39549/6afc48f00f1443855a6bd839_Woman%20Using%20Smartphone%20(1)%201.webp",
+    "referenceRoutes": [
+      "/services-v3"
+    ],
+    "roles": [
+      "img-src",
+      "img-srcset"
+    ],
+    "mimeType": "image/webp",
+    "originalFilename": "6afc48f00f1443855a6bd839_Woman%20Using%20Smartphone%20(1)%201.webp",
+    "originalWidth": 1600,
+    "originalHeight": 1200,
+    "originalFileSize": 88842,
+    "hasTransparency": false,
+    "masterPath": "assets-source/original/graphics/app/6afc48f00f1443855a6bd839_woman-using-smartphone-1-1.webp",
+    "deliveryPath": "/assets/graphics/app/6afc48f00f1443855a6bd839_woman-using-smartphone-1-1.webp",
+    "sha256": "bcafad6e70fcccdb142480d8b6f7fe6264645f58be36cdca222be294029c24b9",
+    "originalOrReplacement": "original",
+    "acquisitionStatus": "HTTP_200",
+    "validationStatus": "VALID",
+    "duplicateOf": null
+  }
+]
