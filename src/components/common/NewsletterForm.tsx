@@ -55,7 +55,7 @@ export function NewsletterForm() {
 
       <div className={styles.newsFormWrap}>
         <form onSubmit={handleSubmit} className={styles.newsForm} noValidate>
-          <label htmlFor="newsletter-email" className="sr-only">
+          <label htmlFor="newsletter-email" className="sr-only text-color-white">
             Email address
           </label>
           <input

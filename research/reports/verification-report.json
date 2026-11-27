@@ -1,0 +1,78 @@
+{
+  "totalRoutesTested": 38,
+  "allValidStatus": true,
+  "brokenImgsTotal": 0,
+  "desktopOverflows": [],
+  "mobileOverflows": [],
+  "notFoundStatus": 404,
+  "interactions": {
+    "megaVisible": true,
+    "startupDescVisible": true,
+    "faqVisible": true,
+    "newsletterFeedback": true,
+    "contactSuccess": true,
+    "dialogOpen": true
+  },
+  "consoleErrorsCount": 0,
+  "consoleErrors": [],
+  "failedAssetsCount": 0,
+  "failedAssets": [],
+  "axeReports": {
+    "/": {
+      "violations": []
+    },
+    "/about-us": {
+      "violations": []
+    },
+    "/services-v1": {
+      "violations": []
+    },
+    "/pricing": {
+      "violations": []
+    },
+    "/blog": {
+      "violations": []
+    },
+    "/contact-v1": {
+      "violations": []
+    }
+  },
+  "visualMetrics": [
+    {
+      "route": "/",
+      "viewport": "1440x900",
+      "diffPixels": 226502,
+      "diffPct": 17.48
+    },
+    {
+      "route": "/about-us",
+      "viewport": "1440x900",
+      "diffPixels": 305704,
+      "diffPct": 23.59
+    },
+    {
+      "route": "/services-v1",
+      "viewport": "1440x900",
+      "diffPixels": 46469,
+      "diffPct": 3.59
+    },
+    {
+      "route": "/pricing",
+      "viewport": "1440x900",
+      "diffPixels": 212075,
+      "diffPct": 16.36
+    },
+    {
+      "route": "/blog",
+      "viewport": "1440x900",
+      "diffPixels": 40652,
+      "diffPct": 3.14
+    },
+    {
+      "route": "/contact-v1",
+      "viewport": "1440x900",
+      "diffPixels": 210043,
+      "diffPct": 16.21
+    }
+  ]
+}

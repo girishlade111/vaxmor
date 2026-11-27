@@ -85,7 +85,7 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 .container-large {
-  width: 90%;
+  width: 100%;
   max-width: var(--container-large);
   margin-left: auto;
   margin-right: auto;

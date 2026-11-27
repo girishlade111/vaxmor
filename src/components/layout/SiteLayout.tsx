@@ -11,10 +11,12 @@ export interface SiteLayoutProps {
 export function SiteLayout({ children, showAdvisorStrip = false }: SiteLayoutProps) {
   return (
     <div className="page-wrapper">
-      <a href="#main-content" className="skip-link">
-        Skip to content
-      </a>
-      <UtilityBar />
+      <div role="region" aria-label="Office notice and skip navigation">
+        <a href="#main-content" className="skip-link">
+          Skip to content
+        </a>
+        <UtilityBar />
+      </div>
       <MarketingHeader />
       <main id="main-content" className="main-wrapper">
         {children}
